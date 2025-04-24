@@ -1,0 +1,381 @@
+Loading TTS model...
+Running TTS on afrikaans/test...
+[4622bd1f-3254-43c2-851f-aaa0485d7b83/dd80343b434205f379bb5917339a071b] inf_time 1.591s | dur 4.544s | RTF 0.350 | dyn_rng 0.368
+[b74eadfe-0ca6-4ab6-80de-582b310df443/0a9d4ce8c5850da22bffaaf8dfef4720] inf_time 3.735s | dur 13.792s | RTF 0.271 | dyn_rng 0.436
+[2f821156-383b-4e7e-907a-368ec3b8d3d7/21c31147c8e438ee1fbff6014e27c2b8] inf_time 3.610s | dur 13.365s | RTF 0.270 | dyn_rng 0.568
+[267d5286-78e7-405b-b3ce-a76cf2eaa35d/b606db63b0e45baba0b11f5e48eaae8f] inf_time 1.221s | dur 4.267s | RTF 0.286 | dyn_rng 0.352
+[14e1bcf6-5738-4f05-bbc8-13ab8695a5e5/62e2c1e4196995245984092c6638110b] inf_time 3.079s | dur 11.328s | RTF 0.272 | dyn_rng 0.469
+[ff28d0d4-1f56-4eb0-96c7-6ebc714a2f75/25ffa3fef789b3c25b9c1dd52ea4300e] inf_time 2.313s | dur 8.405s | RTF 0.275 | dyn_rng 0.515
+[c1dab2af-533e-4d88-b16e-3deb800fcf36/83a94c35a87c094d5b6c4ea8f5cb7820] inf_time 1.082s | dur 3.755s | RTF 0.288 | dyn_rng 0.488
+[13089afd-3426-469b-865f-82fab2ced87f/1f3340790670877473e702cec3342a8b] inf_time 0.797s | dur 2.645s | RTF 0.301 | dyn_rng 0.373
+[a5a71141-bcd7-459f-8757-de4aa71af78a/ea79770d22f62d6172ac5ace896d8447] inf_time 1.325s | dur 4.640s | RTF 0.286 | dyn_rng 0.349
+[19cd0c08-0bd2-400f-a841-3815fa627537/403a1dabc07ba5bbae6e353506b471ca] inf_time 3.428s | dur 12.576s | RTF 0.273 | dyn_rng 0.477
+[c1605bb6-13f7-4b54-a40c-d4a80e8f1fd8/d20794c89ba89c6bdc620a04eace11f3] inf_time 1.432s | dur 4.779s | RTF 0.300 | dyn_rng 0.439
+[a6831030-9641-453f-95fd-1dfb9a1a3534/7efbb90478baf9966f902c11eef072b6] inf_time 0.984s | dur 3.435s | RTF 0.286 | dyn_rng 0.423
+[ce152fe1-159f-4707-9e21-c4c019324741/c5dfbb97d0ce3d7d0b2678865c121d52] inf_time 3.660s | dur 13.557s | RTF 0.270 | dyn_rng 0.554
+[20f9dae5-d1ca-4c62-95cb-a87934785ab5/e8428af453587c23358bce83073c43e8] inf_time 2.244s | dur 8.171s | RTF 0.275 | dyn_rng 0.480
+[5c471a2f-7a68-41f2-a786-2bfbec9ab9f1/2fc516b6c0b1fb17a0240c565268dbd7] inf_time 1.603s | dur 5.707s | RTF 0.281 | dyn_rng 0.403
+[9cc618a6-44cc-4ee5-ba0c-f31a66d17f8f/4a963af484b98c50f60af980182e751b] inf_time 1.944s | dur 6.965s | RTF 0.279 | dyn_rng 0.402
+[c99c75dd-1b95-4923-8649-9fb609f1ee53/a94cf32ff8cf2fd968a51541c7469ba0] inf_time 3.848s | dur 13.280s | RTF 0.290 | dyn_rng 0.533
+[c42cee13-978c-4e0d-b262-9ec251aa1f18/cfee3320b884525868ce78fce172c1d8] inf_time 1.647s | dur 5.056s | RTF 0.326 | dyn_rng 0.565
+[9c03625f-9b86-4a9b-9c80-a83973ad5862/ccfe40428a2f74c0054d38008231efc2] inf_time 3.160s | dur 11.563s | RTF 0.273 | dyn_rng 0.467
+[ee0e9369-4972-4866-ac80-614d6572a557/0a6ce56d4d3acfc585daa8bd88dbfb0f] inf_time 4.027s | dur 14.624s | RTF 0.275 | dyn_rng 0.889
+[a74f93b2-052a-408f-8acc-0f6dd024fb7c/9fa2f1f786196eb13cc1dac19d5c0f59] inf_time 3.422s | dur 10.859s | RTF 0.315 | dyn_rng 0.594
+[806cfc61-9fe1-4fed-9d2c-42ef9bbce2d3/d2b88a84316485a813401caf9df25ad5] inf_time 2.732s | dur 9.931s | RTF 0.275 | dyn_rng 0.507
+[4046f080-7316-46a5-a369-2266786d739a/729330691053ceed8a176410e643bfd1] inf_time 2.707s | dur 9.792s | RTF 0.276 | dyn_rng 0.608
+[62785491-56ba-4a0c-88e8-21f835043a3b/6f984744a0bd31e301d91ca4c695d560] inf_time 1.640s | dur 5.472s | RTF 0.300 | dyn_rng 0.418
+[b43a5065-507e-45eb-a514-5e1cb3572a44/e7425dfe3a670e504eb2aa5fe2da9a6c] inf_time 2.663s | dur 9.237s | RTF 0.288 | dyn_rng 0.433
+[a112e383-3beb-45d1-9cdc-b4162b3fc849/6a23603e21e2778a1946501ecbaa2956] inf_time 3.521s | dur 12.160s | RTF 0.290 | dyn_rng 0.516
+[f1907d7e-ff04-4b1b-97b2-f1b4d5eba16d/b008bd10ec9fa16dbef3d7d4007772e2] inf_time 1.295s | dur 4.267s | RTF 0.303 | dyn_rng 0.450
+[95f7861e-5211-44ee-b091-01ec6f1bbae9/b52cfbc44df40df7b1d4ee336e30f177] inf_time 1.993s | dur 6.539s | RTF 0.305 | dyn_rng 0.329
+[22d5d55e-6b54-4b03-9471-11c1b0411590/cf164fa8677d8441fa037dcf04734989] inf_time 3.709s | dur 12.949s | RTF 0.286 | dyn_rng 0.488
+[0c36f413-ae87-4860-bc4f-b0a3250db4d7/8c439755414ccb723d49ce866942c955] inf_time 1.826s | dur 6.357s | RTF 0.287 | dyn_rng 0.463
+[da75784d-ee7b-438b-a505-9b376debd302/c679bf7d97e4d95e29e315f54758bcc0] inf_time 1.998s | dur 6.827s | RTF 0.293 | dyn_rng 0.435
+[2548d7d4-ce16-4337-a364-5740544dc623/21982ec5997d1985a80342bfbe1992da] inf_time 0.909s | dur 3.008s | RTF 0.302 | dyn_rng 0.309
+[e4f950f1-854b-4dbe-9a1b-aae933a503ff/9dc40b692e4edceee375613e3655fe62] inf_time 3.124s | dur 10.773s | RTF 0.290 | dyn_rng 0.643
+[522a1fc8-4d8a-43f2-a84c-ca3ac6fd7e64/6acc63357fe41f1e8413d941361e21b6] inf_time 1.958s | dur 6.869s | RTF 0.285 | dyn_rng 0.513
+[70224787-4f41-45d4-9516-533be7f6c637/d8cfe8cb77317456f1484839fef22b1a] inf_time 2.952s | dur 10.635s | RTF 0.278 | dyn_rng 0.470
+[63ac7ae6-9e89-4093-ae5c-077837276f73/cdf518b881bf5d73e283938db266fa7f] inf_time 1.303s | dur 4.501s | RTF 0.289 | dyn_rng 0.562
+[ddcf74d4-d723-4a33-a29f-5b60bfe0df45/9eee87390e6bbf15815be8a03bdad3f4] inf_time 0.991s | dur 3.435s | RTF 0.288 | dyn_rng 0.481
+[f0525df2-645a-4dff-bbec-1add71c9f36c/3b7b720c6291c584868f9d396cec9d94] inf_time 4.379s | dur 15.872s | RTF 0.276 | dyn_rng 0.622
+[be717fc3-8271-45d9-89b4-d3569349f006/14ade88e1bc5b494bc6319a08292d095] inf_time 1.593s | dur 5.568s | RTF 0.286 | dyn_rng 0.500
+[4d2477a6-a04a-4b67-87b3-4f8fa5b1f2ac/3acc24f29e3f65580509738aa12e18b5] inf_time 0.838s | dur 2.731s | RTF 0.307 | dyn_rng 0.347
+[1161cc68-0291-4986-a693-2f52fc94258c/4da009a33d41762380995e45e9db591b] inf_time 2.800s | dur 10.069s | RTF 0.278 | dyn_rng 0.506
+[17a13754-4b30-4e76-9d3c-29a0014d9ccf/349bcaf274d3007715ac9d688671ff3c] inf_time 2.254s | dur 7.936s | RTF 0.284 | dyn_rng 0.650
+[57d1babc-c27a-450f-9462-23429c8a1f80/e04f58b0c16859b9eafd1c0ef8a4ff33] inf_time 1.475s | dur 5.152s | RTF 0.286 | dyn_rng 0.505
+[d764476d-9865-4e21-8e4c-fcb1e3d2e1e2/7548f0f1dbeb4f6fe3e5739b856768e5] inf_time 2.762s | dur 9.931s | RTF 0.278 | dyn_rng 0.539
+[c25b0a90-a76f-40a2-a089-185436137af1/40f6ce216d12bf74eecb9edac615e292] inf_time 3.892s | dur 14.112s | RTF 0.276 | dyn_rng 0.685
+[696b0a18-9744-4f99-abba-e6c4aa4ce92c/4fb1687f6fcdadc3a4ff13aca05299f9] inf_time 2.644s | dur 9.376s | RTF 0.282 | dyn_rng 0.602
+[b52213b0-1ddc-4eba-9507-b42a48e934ba/802809a654aab7308c8cd87d1123e23b] inf_time 2.725s | dur 9.696s | RTF 0.281 | dyn_rng 0.451
+[18807b07-5c0d-4711-bd57-9275396e997e/2d3c2153cbbd39f197550a1e3883d6f7] inf_time 3.025s | dur 10.677s | RTF 0.283 | dyn_rng 0.444
+[50640ced-b273-4d83-95a3-68c0a9367657/b85329917a975e67236a1c69051758c9] inf_time 2.551s | dur 9.141s | RTF 0.279 | dyn_rng 0.463
+[dd1830b2-76fb-4714-a697-81d53fc13263/c7b2adf695441b17637d28800634a74b] inf_time 3.751s | dur 13.461s | RTF 0.279 | dyn_rng 0.533
+[027e8a31-f94e-4cd2-af7f-f0880999ffa1/0a02befda9a894b0532fa67cd6a63965] inf_time 1.068s | dur 3.520s | RTF 0.303 | dyn_rng 0.352
+[eb49e7cc-87c9-4b37-b8f0-bb8240555467/6292ff0866c568671dea51e1fe44bd60] inf_time 1.247s | dur 4.171s | RTF 0.299 | dyn_rng 0.450
+[d5f9775c-b2fa-454b-90b7-3422fed995f4/f01488c0851c9e921ed342c177ceb2f6] inf_time 1.584s | dur 5.568s | RTF 0.285 | dyn_rng 0.420
+[c4848807-235a-410f-8f7e-1d88ce5a3af7/7bb4473cfed7a7f7cfe793edd59fcdfc] inf_time 2.047s | dur 6.773s | RTF 0.302 | dyn_rng 0.395
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs_afrikaans/afrikaans_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Warning: Missing audio files for 4622bd1f-3254-43c2-851f-aaa0485d7b83/dd80343b434205f379bb5917339a071b
+Warning: Missing audio files for b74eadfe-0ca6-4ab6-80de-582b310df443/0a9d4ce8c5850da22bffaaf8dfef4720
+Warning: Missing audio files for 2f821156-383b-4e7e-907a-368ec3b8d3d7/21c31147c8e438ee1fbff6014e27c2b8
+Warning: Missing audio files for 267d5286-78e7-405b-b3ce-a76cf2eaa35d/b606db63b0e45baba0b11f5e48eaae8f
+Warning: Missing audio files for 14e1bcf6-5738-4f05-bbc8-13ab8695a5e5/62e2c1e4196995245984092c6638110b
+Warning: Missing audio files for ff28d0d4-1f56-4eb0-96c7-6ebc714a2f75/25ffa3fef789b3c25b9c1dd52ea4300e
+Warning: Missing audio files for c1dab2af-533e-4d88-b16e-3deb800fcf36/83a94c35a87c094d5b6c4ea8f5cb7820
+Warning: Missing audio files for 13089afd-3426-469b-865f-82fab2ced87f/1f3340790670877473e702cec3342a8b
+Warning: Missing audio files for a5a71141-bcd7-459f-8757-de4aa71af78a/ea79770d22f62d6172ac5ace896d8447
+Warning: Missing audio files for 19cd0c08-0bd2-400f-a841-3815fa627537/403a1dabc07ba5bbae6e353506b471ca
+Warning: Missing audio files for c1605bb6-13f7-4b54-a40c-d4a80e8f1fd8/d20794c89ba89c6bdc620a04eace11f3
+Warning: Missing audio files for a6831030-9641-453f-95fd-1dfb9a1a3534/7efbb90478baf9966f902c11eef072b6
+Warning: Missing audio files for ce152fe1-159f-4707-9e21-c4c019324741/c5dfbb97d0ce3d7d0b2678865c121d52
+Warning: Missing audio files for 20f9dae5-d1ca-4c62-95cb-a87934785ab5/e8428af453587c23358bce83073c43e8
+Warning: Missing audio files for 5c471a2f-7a68-41f2-a786-2bfbec9ab9f1/2fc516b6c0b1fb17a0240c565268dbd7
+Warning: Missing audio files for 9cc618a6-44cc-4ee5-ba0c-f31a66d17f8f/4a963af484b98c50f60af980182e751b
+Warning: Missing audio files for c99c75dd-1b95-4923-8649-9fb609f1ee53/a94cf32ff8cf2fd968a51541c7469ba0
+Warning: Missing audio files for c42cee13-978c-4e0d-b262-9ec251aa1f18/cfee3320b884525868ce78fce172c1d8
+Warning: Missing audio files for 9c03625f-9b86-4a9b-9c80-a83973ad5862/ccfe40428a2f74c0054d38008231efc2
+Warning: Missing audio files for ee0e9369-4972-4866-ac80-614d6572a557/0a6ce56d4d3acfc585daa8bd88dbfb0f
+Warning: Missing audio files for a74f93b2-052a-408f-8acc-0f6dd024fb7c/9fa2f1f786196eb13cc1dac19d5c0f59
+Warning: Missing audio files for 806cfc61-9fe1-4fed-9d2c-42ef9bbce2d3/d2b88a84316485a813401caf9df25ad5
+Warning: Missing audio files for 4046f080-7316-46a5-a369-2266786d739a/729330691053ceed8a176410e643bfd1
+Warning: Missing audio files for 62785491-56ba-4a0c-88e8-21f835043a3b/6f984744a0bd31e301d91ca4c695d560
+Warning: Missing audio files for b43a5065-507e-45eb-a514-5e1cb3572a44/e7425dfe3a670e504eb2aa5fe2da9a6c
+Warning: Missing audio files for a112e383-3beb-45d1-9cdc-b4162b3fc849/6a23603e21e2778a1946501ecbaa2956
+Warning: Missing audio files for f1907d7e-ff04-4b1b-97b2-f1b4d5eba16d/b008bd10ec9fa16dbef3d7d4007772e2
+Warning: Missing audio files for 95f7861e-5211-44ee-b091-01ec6f1bbae9/b52cfbc44df40df7b1d4ee336e30f177
+Warning: Missing audio files for 22d5d55e-6b54-4b03-9471-11c1b0411590/cf164fa8677d8441fa037dcf04734989
+Warning: Missing audio files for 0c36f413-ae87-4860-bc4f-b0a3250db4d7/8c439755414ccb723d49ce866942c955
+Warning: Missing audio files for da75784d-ee7b-438b-a505-9b376debd302/c679bf7d97e4d95e29e315f54758bcc0
+Warning: Missing audio files for 2548d7d4-ce16-4337-a364-5740544dc623/21982ec5997d1985a80342bfbe1992da
+Warning: Missing audio files for e4f950f1-854b-4dbe-9a1b-aae933a503ff/9dc40b692e4edceee375613e3655fe62
+Warning: Missing audio files for 522a1fc8-4d8a-43f2-a84c-ca3ac6fd7e64/6acc63357fe41f1e8413d941361e21b6
+Warning: Missing audio files for 70224787-4f41-45d4-9516-533be7f6c637/d8cfe8cb77317456f1484839fef22b1a
+Warning: Missing audio files for 63ac7ae6-9e89-4093-ae5c-077837276f73/cdf518b881bf5d73e283938db266fa7f
+Warning: Missing audio files for ddcf74d4-d723-4a33-a29f-5b60bfe0df45/9eee87390e6bbf15815be8a03bdad3f4
+Warning: Missing audio files for f0525df2-645a-4dff-bbec-1add71c9f36c/3b7b720c6291c584868f9d396cec9d94
+Warning: Missing audio files for be717fc3-8271-45d9-89b4-d3569349f006/14ade88e1bc5b494bc6319a08292d095
+Warning: Missing audio files for 4d2477a6-a04a-4b67-87b3-4f8fa5b1f2ac/3acc24f29e3f65580509738aa12e18b5
+Warning: Missing audio files for 1161cc68-0291-4986-a693-2f52fc94258c/4da009a33d41762380995e45e9db591b
+Warning: Missing audio files for 17a13754-4b30-4e76-9d3c-29a0014d9ccf/349bcaf274d3007715ac9d688671ff3c
+Warning: Missing audio files for 57d1babc-c27a-450f-9462-23429c8a1f80/e04f58b0c16859b9eafd1c0ef8a4ff33
+Warning: Missing audio files for d764476d-9865-4e21-8e4c-fcb1e3d2e1e2/7548f0f1dbeb4f6fe3e5739b856768e5
+Warning: Missing audio files for c25b0a90-a76f-40a2-a089-185436137af1/40f6ce216d12bf74eecb9edac615e292
+Warning: Missing audio files for 696b0a18-9744-4f99-abba-e6c4aa4ce92c/4fb1687f6fcdadc3a4ff13aca05299f9
+Warning: Missing audio files for b52213b0-1ddc-4eba-9507-b42a48e934ba/802809a654aab7308c8cd87d1123e23b
+Warning: Missing audio files for 18807b07-5c0d-4711-bd57-9275396e997e/2d3c2153cbbd39f197550a1e3883d6f7
+Warning: Missing audio files for 50640ced-b273-4d83-95a3-68c0a9367657/b85329917a975e67236a1c69051758c9
+Warning: Missing audio files for dd1830b2-76fb-4714-a697-81d53fc13263/c7b2adf695441b17637d28800634a74b
+Warning: Missing audio files for 027e8a31-f94e-4cd2-af7f-f0880999ffa1/0a02befda9a894b0532fa67cd6a63965
+Warning: Missing audio files for eb49e7cc-87c9-4b37-b8f0-bb8240555467/6292ff0866c568671dea51e1fe44bd60
+Warning: Missing audio files for d5f9775c-b2fa-454b-90b7-3422fed995f4/f01488c0851c9e921ed342c177ceb2f6
+Warning: Missing audio files for c4848807-235a-410f-8f7e-1d88ce5a3af7/7bb4473cfed7a7f7cfe793edd59fcdfc
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_afrikaans/afrikaans_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: dd80343b434205f379bb5917339a071b_tts.wav
+  Original text: the forum said it still awaits the actual cause of his death.
+
+  ASR transcription:  The forum said it still awaits the actual cause of his death.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 0a9d4ce8c5850da22bffaaf8dfef4720_tts.wav
+  Original text: its completely improbable that each of the 12 women who testified misunderstood their night with mr. mcknight, crown prosecutor katherine fraser told the jury monday during closing arguments.
+
+  ASR transcription:  Mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya, mbaya,
+  WER: 3.9643, CER: 3.8115
+Evaluating: 21c31147c8e438ee1fbff6014e27c2b8_tts.wav
+  Original text: earlier speaking, on behalf of state governor dr abdullahi umar ganduje, the secretary to the state government, alhaji usman alhaji, stated the kano state governments readiness toward curtailing the menace in the state.
+
+  ASR transcription:  Kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mbili kwa mb
+  WER: 5.3939, CER: 3.6758
+Evaluating: b606db63b0e45baba0b11f5e48eaae8f_tts.wav
+  Original text: aegis is building an aged care facility in alkimos.
+
+  ASR transcription:  IGES is building an Egypt care facility in Alkimos.
+  WER: 0.2222, CER: 0.1373
+Evaluating: 62e2c1e4196995245984092c6638110b_tts.wav
+  Original text: the arab spring in 2011 brought demonstrations of solidarity with the palestinians on the border fences with israel and in front of embassies.
+
+  ASR transcription:  لاعرب نشطة لاعراب في 2011، بردو دموشنات من صلاحية مع مواطنين فلسطينيين في مقاعدات مدينة بالإسرائيل وفي مقابل مقامات.
+  WER: 1.0000, CER: 0.8662
+Evaluating: 25ffa3fef789b3c25b9c1dd52ea4300e_tts.wav
+  Original text: after initially being asked to teach english at berry, she soon joined the business administration department as its third faculty member.
+  ASR transcription:  Nguvuwa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa nafaswa
+  WER: 5.2857, CER: 6.0580
+Evaluating: 83a94c35a87c094d5b6c4ea8f5cb7820_tts.wav
+  Original text: by that point, 26 people had died.
+
+  ASR transcription:  By that point, 26 people had died.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 1f3340790670877473e702cec3342a8b_tts.wav
+  Original text: the official chess handbook.
+  ASR transcription:  official chess handbook.
+  WER: 0.2500, CER: 0.1429
+Evaluating: ea79770d22f62d6172ac5ace896d8447_tts.wav
+  Original text: nine science-based health benefits of moringa oleifera
+  ASR transcription:  9 science-based health benefits of moringa oleifera
+  WER: 0.1429, CER: 0.0741
+Evaluating: 403a1dabc07ba5bbae6e353506b471ca_tts.wav
+  Original text: wine, 38, is considered a serious opponent to museveni and has garnered a lot of support among ugandan youths as he has repeatedly called for the current president to retire.
+
+  ASR transcription:  38, yi kufura kwa mba yi mbaya yi Moshe Vili, na mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba yi mba y
+  WER: 7.3667, CER: 4.1782
+Evaluating: d20794c89ba89c6bdc620a04eace11f3_tts.wav
+  Original text: how about if the party does what it did with its last convention?
+
+  ASR transcription:  How about if the party does what it did with its last convention, which
+  WER: 0.1538, CER: 0.1077
+Evaluating: 7efbb90478baf9966f902c11eef072b6_tts.wav
+  Original text: available on digital stores.
+
+  ASR transcription:  available on digital stores called Sterling.
+  WER: 0.7500, CER: 0.5714
+Evaluating: c5dfbb97d0ce3d7d0b2678865c121d52_tts.wav
+  Original text: in an emergency virtual session, ecowas whose headquarters is in abuja, nigeria, called for the immediate release of keita, his prime minister boubou ciss and other top government officials being held at a military camp.
+
+  ASR transcription:  an emergency virtual session. Ekoa's whose headquarters is in Abuja, Nigeria called for the immediate release of Keita, his prime minister Pobosis and other top government officials being held at a military camp.
+  WER: 0.1714, CER: 0.0636
+Evaluating: e8428af453587c23358bce83073c43e8_tts.wav
+  Original text: why we organised medical outreach, donated education materials to host community pupils nigerian navy
+  ASR transcription:  While we organized medical outreach, donated education materials to host community pupils' Nigerian Navy.
+  WER: 0.2857, CER: 0.0594
+Evaluating: 2fc516b6c0b1fb17a0240c565268dbd7_tts.wav
+  Original text: enterprise was used for flight tests in 1977.
+
+  ASR transcription:  Enterprise was used for flight tests in 1977.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 4a963af484b98c50f60af980182e751b_tts.wav
+  Original text: each coloured cell indicates the area in which all the points have the black point in the cell as their nearest black point.
+  ASR transcription:  Ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola ola
+  WER: 9.6522, CER: 6.7823
+Evaluating: a94cf32ff8cf2fd968a51541c7469ba0_tts.wav
+  Original text: over the period, we have built a community of over 170 professionals and corporate organizations who contribute financially and advocate for the social cause we seek to address92.
+
+  ASR transcription:  Over the period, we have built a community of over 170 professionals and corporate organizations who contribute financially and advocate for the social cause we seek to address Nainiti to.
+  WER: 0.1071, CER: 0.0615
+Evaluating: cfee3320b884525868ce78fce172c1d8_tts.wav
+  Original text: hes 2, so he doesnt even know what he did, guthrie said calling into after it happened.
+  ASR transcription:  S2, so he doesn't even know what he did, briefly started calling into after it happened.
+  WER: 0.2941, CER: 0.1724
+Evaluating: ccfe40428a2f74c0054d38008231efc2_tts.wav
+  Original text: to hide shine, skip dusting on loose powder and instead reach for the blotting papers. not only does this step cut shine, but it leaves behind a flattering glow, too.
+
+  ASR transcription:  Ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiyele, ndiye
+  WER: 2.9667, CER: 4.3012
+Evaluating: 0a6ce56d4d3acfc585daa8bd88dbfb0f_tts.wav
+  Original text: in america, and in other less fortunate countries throughout the world, those struggling to live and to save lives are uttering a different prayer, hoping against hope that our leaders will finally understand  and act.
+  ASR transcription:  In America and in other less fortunate countries throughout the world, those struggling to live and to save lives are uttering a different prayer, hoping against hope that our leaders will finally understand and act.
+  WER: 0.0286, CER: 0.0092
+Evaluating: 9fa2f1f786196eb13cc1dac19d5c0f59_tts.wav
+  Original text: and as you are aware, we have raised a lot of money in the last couple of months and then we are going to be doing a lot of work to push that growth agenda as much as we can.
+
+  ASR transcription:  And as you are aware, we have raised a lot of money in the last couple of months. And then we are going to be doing a lot of work to push that growth agenda as much as we can.
+  WER: 0.0250, CER: 0.0057
+Evaluating: d2b88a84316485a813401caf9df25ad5_tts.wav
+  Original text: besides its own senior military advisers, turkey has deployed a few thousand militants from the rebel cadres it controls in syria.
+
+  ASR transcription:  Besides its own senior military advisors, Turkey has deployed a few thousand militants from the rebel cadres it controls in Syria.
+  WER: 0.0476, CER: 0.0077
+Evaluating: 729330691053ceed8a176410e643bfd1_tts.wav
+  Original text: canadian police forces began rethinking and reissuing their responses this week, when it was revealed clearviews client list had been hacked.
+  ASR transcription:  Canadian police forces began rethinking and reissuing their responses this week when it was revealed clear views claimed least had been hacked.
+  WER: 0.2381, CER: 0.0567
+Evaluating: 6f984744a0bd31e301d91ca4c695d560_tts.wav
+  Original text: well that is what happens when you trade away all your good players.
+  ASR transcription:  Well, that is what happens when you trade away all your good players.
+  WER: 0.0769, CER: 0.0147
+Evaluating: e7425dfe3a670e504eb2aa5fe2da9a6c_tts.wav
+  Original text: portland board of works is also expected to soon vote on a project that would repair sewer lines along meridian street.
+
+  ASR transcription:  Mpotolean Board of Works is also expected to soon vote on a project that would repair sewer lines along Meridian Street.
+  WER: 0.0476, CER: 0.0420
+Evaluating: 6a23603e21e2778a1946501ecbaa2956_tts.wav
+  Original text: on the other hand, can you imagine how wonderful and glorious she would have turned out if her creativity and talents were channelled into something positive judging from her dance videos???
+
+  ASR transcription:  On the other hand, can you imagine how wonderful and glorious she would have turned out if her creativity and talents were channeled into something positive judging from her dance videos.
+  WER: 0.0645, CER: 0.0211
+Evaluating: b008bd10ec9fa16dbef3d7d4007772e2_tts.wav
+  Original text: he was killed less than a month later before receiving it.
+  ASR transcription:  Kwa hivyo, ni kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa k
+  WER: 20.1818, CER: 15.0000
+Evaluating: b52cfbc44df40df7b1d4ee336e30f177_tts.wav
+  Original text: this has no commemorative inscription.
+  ASR transcription:  wana yiyo yiyo
+  WER: 1.0000, CER: 0.8158
+Evaluating: cf164fa8677d8441fa037dcf04734989_tts.wav
+  Original text: he said the prime minister was requested to allow non-stop trains from other states to kerala to facilitate the return of keralites stranded in various parts of the country following the lockdown.
+
+  ASR transcription:  He said the Prime Minister was requested to allow non-stop trains from other states to Kerala to facilitate the return of Keralites stranded in various parts of the country following the lockdown.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 8c439755414ccb723d49ce866942c955_tts.wav
+  Original text: on account of washingtons birthday, us markets will remain closed today.
+
+  ASR transcription:  on account of Washington's birthday, U.S. markets will remain closed today.
+  WER: 0.1818, CER: 0.0417
+Evaluating: c679bf7d97e4d95e29e315f54758bcc0_tts.wav
+  Original text: who wears apcs presidential crown?
+  ASR transcription:  خو ویس اپک پرست ترسیدینشاکران اونجهی اوستا، تاستا، جاشتا، سرتا، اوستا دینشا
+  WER: 2.4000, CER: 2.0882
+Evaluating: 21982ec5997d1985a80342bfbe1992da_tts.wav
+  Original text: now were off to bigger and better things.
+  ASR transcription:  Nini kwa hivyo na mbili na mbili.
+  WER: 1.0000, CER: 0.7805
+Evaluating: 9dc40b692e4edceee375613e3655fe62_tts.wav
+  Original text: armed men rampaged across the coastal city of criciuma early tuesday, robbing banks, taking hostages and shooting at least two people.
+
+  ASR transcription:  Armed men rampaged across the coastal city of Cushioma early Tuesday, robbing banks, taking hostages and shooting at least two people.
+  WER: 0.0476, CER: 0.0299
+Evaluating: 6acc63357fe41f1e8413d941361e21b6_tts.wav
+  Original text: gavin was pronounced dead at a hospital, while his sister survived with severe injuries.
+
+  ASR transcription:  Gavin was pronounced dead at the hospital while his sister survived with severe injuries.
+  WER: 0.1429, CER: 0.0455
+Evaluating: d8cfe8cb77317456f1484839fef22b1a_tts.wav
+  Original text: one of the reasons for the poor disease surveillance system is the low health-sector budgetary allocation. delay in public-health response also contributed to the poor response.
+
+  ASR transcription:  One of the reasons for the poor disease surveillance system is the low health sector budgetary allocation. Delay in public health response also contributed to the poor response.
+  WER: 0.1538, CER: 0.0113
+Evaluating: cdf518b881bf5d73e283938db266fa7f_tts.wav
+  Original text: eggs have universal appeal.
+  ASR transcription:  Ex Hallyu Universali Apir, Sotostu.
+  WER: 1.2500, CER: 0.7037
+Evaluating: 9eee87390e6bbf15815be8a03bdad3f4_tts.wav
+  Original text: but warren is pushing in the right direction.
+
+  ASR transcription:  but whoring is pushing in the right direction
+  WER: 0.2500, CER: 0.1111
+Evaluating: 3b7b720c6291c584868f9d396cec9d94_tts.wav
+  Original text: the v20 group of finance ministers of the climate vulnerable forum is a dedicated cooperation initiative of economies systemically vulnerable to climate change. the v20 works through dialogue and action to tackle global climate change.
+
+  ASR transcription:  The V20 Group of Finance Ministers of the Climate Vulnerable Forum is a dedicated cooperation initiative of economies systemically vulnerable to climate change. The V20 works through dialogue and action to tackle global climate change.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 14ade88e1bc5b494bc6319a08292d095_tts.wav
+  Original text: salem, south dakota is home to one public school and one private school.
+  ASR transcription:  Sulem, Dakota, ni mbili kwa mtu mpubliku na mpiviti.
+  WER: 1.0000, CER: 0.6389
+Evaluating: 3acc24f29e3f65580509738aa12e18b5_tts.wav
+  Original text: the stages of culture
+
+  ASR transcription:  the stages of culture we stand.
+  WER: 0.5000, CER: 0.4762
+Evaluating: 4da009a33d41762380995e45e9db591b_tts.wav
+  Original text: it has also asked people entering the country who have recently visited italy, south korea, egypt and lebanon to isolate themselves for two weeks.
+
+  ASR transcription:  It has also asked people entering the country who have recently visited Italy, South Korea, Egypt and Lebanon to isolate themselves for two weeks.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 349bcaf274d3007715ac9d688671ff3c_tts.wav
+  Original text: in the second game, the sox were held to just four hits but, coupled with eight walks and two errors, were able to make the most of them.
+
+  ASR transcription:  Ndiyo, soks walai wa kwa kwa ndiyo, walai wa kwa kwa kwa wakwa na kwa wakwa na kwa wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wakwa na wak
+  WER: 7.8214, CER: 6.8832
+Evaluating: e04f58b0c16859b9eafd1c0ef8a4ff33_tts.wav
+  Original text: 				armed cultists kill osun traditional ruler’s son 			
+
+  ASR transcription:  I am called tasty, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional, traditional
+  WER: 32.0000, CER: 59.2292
+Evaluating: 7548f0f1dbeb4f6fe3e5739b856768e5_tts.wav
+  Original text: her true identity was revealed through the course of the investigation as was the fact that white had an active arrest warrant on drug offenses out of carbondale.
+
+  ASR transcription:  Her true identity was revealed through the course of the investigation, as was the fact that White had an active arrest warrant on drug offenses out of Carbon Daly.
+  WER: 0.1071, CER: 0.0185
+Evaluating: 40f6ce216d12bf74eecb9edac615e292_tts.wav
+  Original text: gopro is offering flat discounts as well as retail stores are also running camera deals on gopro hero 8. this way, you can save money as the gopro hero 9 will obviously cost more.
+
+  ASR transcription:  GoPro is offering flat discounts as well as retail stores are also running camera deals on GoPro Hero 8. This way you can save money as the GoPro Hero 9 will obviously cost more.
+  WER: 0.0294, CER: 0.0056
+Evaluating: 4fb1687f6fcdadc3a4ff13aca05299f9_tts.wav
+  Original text: the city of chicago has rolled out a new task force that will target large gatherings and the business owners who organize them.
+  ASR transcription:  Chikago ni yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yonye yon
+  WER: 6.4783, CER: 6.5625
+Evaluating: 802809a654aab7308c8cd87d1123e23b_tts.wav
+  Original text: instead, aim to fill your plate with fruit, dairy, poultry, fish, and vegetableswhich are not only beneficial to your eyes, but your heart and brain as well.
+
+  ASR transcription:  nyo, nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo nyo n
+  WER: 8.2222, CER: 5.3376
+Evaluating: 2d3c2153cbbd39f197550a1e3883d6f7_tts.wav
+  Original text: the fdas data request would make it exceedingly difficult, though not entirely impossible, for a vaccine to be cleared by election day, experts say.
+  ASR transcription:  FDS data mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni mpweni m
+  WER: 4.7083, CER: 4.8581
+Evaluating: b85329917a975e67236a1c69051758c9_tts.wav
+  Original text: the incident allegedly happened on thursday afternoon and chance was given the opportunity to tell his side of the story.
+  ASR transcription:  Mbaya ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa 
+  WER: 5.5500, CER: 5.0909
+Evaluating: c7b2adf695441b17637d28800634a74b_tts.wav
+  Original text: the mdantsane man was reported to the ward councillor by a member of the ward committee and his neighbours, and the health mec immediately assembled a team, which included doctors, to investigate and make sure no-one left the house.
+  ASR transcription:  The Mdanseh man was reported to the ward councilor by a member of the ward committee and his neighbours. On their health-net, they immediately assembled a team, which included doctors, to investigate and make sure no one left the house.
+  WER: 0.2308, CER: 0.0819
+Evaluating: 0a02befda9a894b0532fa67cd6a63965_tts.wav
+  Original text: his parents wanted him to be a lawyer.
+  ASR transcription:  His parents wanted him to be a lawyer.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 6292ff0866c568671dea51e1fe44bd60_tts.wav
+  Original text: whichever one appears invisible is your match.
+
+  ASR transcription:  Ndiyo na kwa ngao na wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana wana w
+  WER: 31.7143, CER: 23.6739
+Evaluating: f01488c0851c9e921ed342c177ceb2f6_tts.wav
+  Original text: bellanaija bellanaija june 3, 2022
+
+  ASR transcription:  Mbela Naija Mbela Naija June 3, 2022, Toros
+  WER: 1.2000, CER: 0.3824
+Evaluating: 7bb4473cfed7a7f7cfe793edd59fcdfc_tts.wav
+  Original text: if a woman is wet she may be, according to this misinformation, the wrong kind of wet.
+
+  ASR transcription:  If a woman is wet, she may be, according to this misinformation, the wrong kind of wet.
+  WER: 0.0588, CER: 0.0116
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_afrikaans/afrikaans_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.4858
+Real‑Time Factor (RTF): 0.2878
+Latency (avg inference time): 2.3353 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 3.0512
+Character Error Rate (CER): 3.0389
+Number of samples evaluated: 54

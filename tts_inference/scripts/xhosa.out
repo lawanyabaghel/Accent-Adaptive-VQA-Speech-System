@@ -1,0 +1,166 @@
+Loading TTS model...
+Running TTS on xhosa/test...
+[2fca7d1b-0601-4f9f-84fb-99241fb49bce/6c600b7cf0552473704a58f0a87010ad] inf_time 1.481s | dur 4.085s | RTF 0.363 | dyn_rng 0.476
+[7e0ff4c6-3cc5-46a6-a785-21a8e8b3d2b4/d8b611e8e4f210a837aca62799ca704a] inf_time 3.752s | dur 14.016s | RTF 0.268 | dyn_rng 0.508
+[e751ab7f-a7b2-4fbf-a33a-8460443a7f79/1ee853e7a4ba19b722be6abddb7da482] inf_time 1.261s | dur 4.448s | RTF 0.284 | dyn_rng 0.481
+[b8e3b999-9f45-40b4-a7ee-a8ed145a17fc/97ed49d3c7a02b2afe3f82e4af86dd61] inf_time 3.027s | dur 11.232s | RTF 0.269 | dyn_rng 0.583
+[c283153f-273b-4810-ae35-c33c9ac63771/059ea2a9fc0c17693e29cc7a79750f62] inf_time 4.109s | dur 15.456s | RTF 0.266 | dyn_rng 0.532
+[9de400fc-591f-4457-ae39-2be92f11e0d5/433393fe9acfacf94dd0a42d6171c5b2] inf_time 1.606s | dur 5.749s | RTF 0.279 | dyn_rng 0.417
+[8c5bf92f-f12c-47af-a801-0434f4bbc4b3/6700635a7ce4b48bf849e516c837d0fa] inf_time 0.989s | dur 3.381s | RTF 0.292 | dyn_rng 0.424
+[3334c0fb-df91-4686-89a1-f0752665e55d/986296adcc1d6f32505f75a3924ffe1e] inf_time 1.640s | dur 5.888s | RTF 0.279 | dyn_rng 0.415
+[a11f13a8-feec-426b-91d6-eb38c0cc43d5/a20f11baccaffcdc0e0a272271d553b4] inf_time 1.374s | dur 4.917s | RTF 0.279 | dyn_rng 0.435
+[0e3a73d6-02f7-47cb-b8fe-89a2f38af31c/3866c08080fdd4a0d56ff6bab63cfa22] inf_time 2.166s | dur 7.893s | RTF 0.274 | dyn_rng 0.476
+[f79819b8-3a62-489f-a8ce-fac29ed892b3/99e0893aa9e5e3142040c64c7197d9af] inf_time 0.663s | dur 2.133s | RTF 0.311 | dyn_rng 0.340
+[3b847c8a-38d4-453b-8761-83ee272f196d/ee94064a3b6c7c62f84ce8985ef15dbe] inf_time 0.850s | dur 2.827s | RTF 0.301 | dyn_rng 0.434
+[5fe39e14-1e5f-4aab-9bb9-ab081a5018e5/33b2958ec69ba1bb4bf6a2c788a41030] inf_time 1.907s | dur 6.912s | RTF 0.276 | dyn_rng 0.458
+[b05068cd-3e4b-4259-95c6-ecd914f43857/43cca5a7e4dcc2a543777f00555ffd27] inf_time 2.033s | dur 7.424s | RTF 0.274 | dyn_rng 0.565
+[3f30c3da-dfac-4c5c-bddc-5a82c4e57e9d/489f2216083784e434c1b8bd3a5a312a] inf_time 2.896s | dur 10.677s | RTF 0.271 | dyn_rng 0.542
+[8cc8f5a5-83d6-46fb-b6cc-15f495542e44/3e510f6b575bd7ab91630c38db41501f] inf_time 1.298s | dur 4.544s | RTF 0.286 | dyn_rng 0.386
+[d140f87a-2d30-429a-9edb-7c38e3beed92/8c78df86b368309b2b8d13ab3dbec01c] inf_time 2.875s | dur 10.443s | RTF 0.275 | dyn_rng 0.563
+[d7d8acf5-a4c1-4001-a361-288de9ac9bd2/c62fbf3ae39f3f2f5a0308592d8f3fb3] inf_time 3.061s | dur 11.275s | RTF 0.272 | dyn_rng 0.549
+[576774d8-3246-4cd4-a2a5-16d8feb951be/04cb064ac1e765e98f071836ea1a8daa] inf_time 2.347s | dur 8.491s | RTF 0.276 | dyn_rng 0.533
+[1688f5ac-ac20-42a5-af89-c9534410f549/a2034d4f8568913558b1caf0c76de8e2] inf_time 1.533s | dur 5.472s | RTF 0.280 | dyn_rng 0.580
+[8d1c347d-415c-4fc7-8e3a-74029af78b84/9d3190e1b9d1dbf205df817d4fdaeba2] inf_time 1.190s | dur 4.171s | RTF 0.285 | dyn_rng 0.446
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs_xhosa/xhosa_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Warning: Missing audio files for 2fca7d1b-0601-4f9f-84fb-99241fb49bce/6c600b7cf0552473704a58f0a87010ad
+Warning: Missing audio files for 7e0ff4c6-3cc5-46a6-a785-21a8e8b3d2b4/d8b611e8e4f210a837aca62799ca704a
+Warning: Missing audio files for e751ab7f-a7b2-4fbf-a33a-8460443a7f79/1ee853e7a4ba19b722be6abddb7da482
+Warning: Missing audio files for b8e3b999-9f45-40b4-a7ee-a8ed145a17fc/97ed49d3c7a02b2afe3f82e4af86dd61
+Warning: Missing audio files for c283153f-273b-4810-ae35-c33c9ac63771/059ea2a9fc0c17693e29cc7a79750f62
+Warning: Missing audio files for 9de400fc-591f-4457-ae39-2be92f11e0d5/433393fe9acfacf94dd0a42d6171c5b2
+Warning: Missing audio files for 8c5bf92f-f12c-47af-a801-0434f4bbc4b3/6700635a7ce4b48bf849e516c837d0fa
+Warning: Missing audio files for 3334c0fb-df91-4686-89a1-f0752665e55d/986296adcc1d6f32505f75a3924ffe1e
+Warning: Missing audio files for a11f13a8-feec-426b-91d6-eb38c0cc43d5/a20f11baccaffcdc0e0a272271d553b4
+Warning: Missing audio files for 0e3a73d6-02f7-47cb-b8fe-89a2f38af31c/3866c08080fdd4a0d56ff6bab63cfa22
+Warning: Missing audio files for f79819b8-3a62-489f-a8ce-fac29ed892b3/99e0893aa9e5e3142040c64c7197d9af
+Warning: Missing audio files for 3b847c8a-38d4-453b-8761-83ee272f196d/ee94064a3b6c7c62f84ce8985ef15dbe
+Warning: Missing audio files for 5fe39e14-1e5f-4aab-9bb9-ab081a5018e5/33b2958ec69ba1bb4bf6a2c788a41030
+Warning: Missing audio files for b05068cd-3e4b-4259-95c6-ecd914f43857/43cca5a7e4dcc2a543777f00555ffd27
+Warning: Missing audio files for 3f30c3da-dfac-4c5c-bddc-5a82c4e57e9d/489f2216083784e434c1b8bd3a5a312a
+Warning: Missing audio files for 8cc8f5a5-83d6-46fb-b6cc-15f495542e44/3e510f6b575bd7ab91630c38db41501f
+Warning: Missing audio files for d140f87a-2d30-429a-9edb-7c38e3beed92/8c78df86b368309b2b8d13ab3dbec01c
+Warning: Missing audio files for d7d8acf5-a4c1-4001-a361-288de9ac9bd2/c62fbf3ae39f3f2f5a0308592d8f3fb3
+Warning: Missing audio files for 576774d8-3246-4cd4-a2a5-16d8feb951be/04cb064ac1e765e98f071836ea1a8daa
+Warning: Missing audio files for 1688f5ac-ac20-42a5-af89-c9534410f549/a2034d4f8568913558b1caf0c76de8e2
+Warning: Missing audio files for 8d1c347d-415c-4fc7-8e3a-74029af78b84/9d3190e1b9d1dbf205df817d4fdaeba2
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_xhosa/xhosa_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: 6c600b7cf0552473704a58f0a87010ad_tts.wav
+  Original text: short-term treatment is usually ineffective.
+  ASR transcription:  Short-term treatment is usually ineffective.
+  WER: 0.0000, CER: 0.0000
+Evaluating: d8b611e8e4f210a837aca62799ca704a_tts.wav
+  Original text: evaluationthe expected outcome is achieved when the cardiac monitoring waveform displays the patientscardiac rhythm, with a waveform that is detecting each beat, and is appropriate for clarity, position, and size.
+
+  ASR transcription:  Evaluation to expected outcome is achieved when the cardiac monitor arm, or BIFORM, displays the patient's cardiac rhythm with a BIFORM that is detecting each beat and is appropriate for clarity, position, and size.
+  WER: 0.3667, CER: 0.1033
+Evaluating: 1ee853e7a4ba19b722be6abddb7da482_tts.wav
+  Original text: the autism race is a marathon and not a sprint.
+
+  ASR transcription:  Mbaya autisme ni marathon wa hivyo na sprint.
+  WER: 0.8000, CER: 0.4468
+Evaluating: 97ed49d3c7a02b2afe3f82e4af86dd61_tts.wav
+  Original text: progesterone and estrogen suppress pituitary secretion of fsh and lh, thereby preventing more follicles from developing during pregnancy.
+  ASR transcription:  Mporgasterone ya estrogene yi yiyan pwede yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi yiyan yi y
+  WER: 9.8333, CER: 5.4891
+Evaluating: 059ea2a9fc0c17693e29cc7a79750f62_tts.wav
+  Original text: evaluationthe expected outcome is met when applying negative pressure wound therapy is accomplishedwithout contaminating the wound area, without causing trauma to the wound, and without causingthe patient to experience pain or discomfort.
+
+  ASR transcription:  Evaluation The expected outcome is met when applying negative pressure wound therapy is accomplished without contaminating the wound area, without causing trauma to the wound, and without causing the patient to experience pain or discomfort.
+  WER: 0.1875, CER: 0.0126
+Evaluating: 433393fe9acfacf94dd0a42d6171c5b2_tts.wav
+  Original text: the gardens of burle marx are an tribute to the tropical green.
+
+  ASR transcription:  Mpokwele Maksa yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yiyo yi yiyo yiyo yi yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiy
+  WER: 13.7500, CER: 11.2063
+Evaluating: 6700635a7ce4b48bf849e516c837d0fa_tts.wav
+  Original text: steady-state levels are reached after 4 weeks.
+
+  ASR transcription:  Steady state levels are reached after four weeks.
+  WER: 0.4286, CER: 0.1087
+Evaluating: 986296adcc1d6f32505f75a3924ffe1e_tts.wav
+  Original text: george buried both free throws to put the cougars up 73-66 to seal the win.
+
+  ASR transcription:  George buried both free throwers to put their cookers up 7366 to seal their wings.
+  WER: 0.4000, CER: 0.1600
+Evaluating: a20f11baccaffcdc0e0a272271d553b4_tts.wav
+  Original text: they have a daughter born in july, 2015.
+
+  ASR transcription:  they have a daughter born in July 2015.
+  WER: 0.1250, CER: 0.0250
+Evaluating: 3866c08080fdd4a0d56ff6bab63cfa22_tts.wav
+  Original text: the major differences between unconjugated and conjugated bilirubin are summarized in table 21.
+  ASR transcription:  Mbaya mpya mpya mpya ilo rube nyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yiyo yi yiyo yiyo yi yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo
+  WER: 13.1538, CER: 7.3263
+Evaluating: 99e0893aa9e5e3142040c64c7197d9af_tts.wav
+  Original text: cognitive biases.
+
+  ASR transcription:  Olajewole,
+  WER: 1.0000, CER: 0.8235
+Evaluating: ee94064a3b6c7c62f84ce8985ef15dbe_tts.wav
+  Original text: unfortunately, that wouldnt happen.
+
+  ASR transcription:  Unfortunately, that would happen.
+  WER: 0.2500, CER: 0.0571
+Evaluating: 33b2958ec69ba1bb4bf6a2c788a41030_tts.wav
+  Original text: increasingly, they are spreading westwards and southwards, forging alliances with herdsmen and bandits.
+
+  ASR transcription:  Increasingly, they are spreading westwards and southwards, forging alliances with herdsmen and bandits.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 43cca5a7e4dcc2a543777f00555ffd27_tts.wav
+  Original text: venue: baywater park, 8b wole olateju cresent, lekki phase 1, lagos.
+
+  ASR transcription:  Venue, The Waterpark, 8B, Wole, Olatheju Crescent, Leki, Fazerwan, Lagos.
+  WER: 0.9091, CER: 0.2794
+Evaluating: 489f2216083784e434c1b8bd3a5a312a_tts.wav
+  Original text: the british-nigerian beauty influencer is known for creating and releasing diy videos to help everyone get the best base and achieve the perfect finish.
+
+  ASR transcription:  The British Nigerian beauty influencer is known for creating and releasing DIY videos to help everyone get the best base and achieve the perfect finish.
+  WER: 0.0833, CER: 0.0066
+Evaluating: 3e510f6b575bd7ab91630c38db41501f_tts.wav
+  Original text: fragmentation of nuclear chromatin by activation of nuclease.
+  ASR transcription:  fragmentation of nuclear chromatin by activation of nuclease.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 8c78df86b368309b2b8d13ab3dbec01c_tts.wav
+  Original text: dr diarachukwundu tuggar speaking. next line. chief complaint: next line. low back pain started 22 weeks ago radiating to his left foot. next line
+
+  ASR transcription:  Dr. D.R. Tukundu, Toga speaking. Next line. Chief complains. Next line. Low back pain started 22 weeks ago, radiating to his left foot. Next line.
+  WER: 0.2917, CER: 0.1027
+Evaluating: c62fbf3ae39f3f2f5a0308592d8f3fb3_tts.wav
+  Original text: i know the phrase sexual preference was common in the old days, but lgbtq people almost never use it today, for good reason: it suggests sexuality is a preference that can be changed.
+
+  ASR transcription:  I know the phrase sexual preference was common in the old days but LGBTQ people almost never use it today for good reason. It suggests sexuality is a preference that can be changed.
+  WER: 0.0909, CER: 0.0164
+Evaluating: 04cb064ac1e765e98f071836ea1a8daa_tts.wav
+  Original text: figure out how to grow your skills and at the same time, recognize that you are of use and that being of use takes many different forms.
+
+  ASR transcription:  Olajumwa kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutum
+  WER: 4.1111, CER: 6.0441
+Evaluating: a2034d4f8568913558b1caf0c76de8e2_tts.wav
+  Original text: those of us who leave the nnpc become the biggest moneybags in the states we come from.
+
+  ASR transcription:  Those of us who live the NPC become the biggest moneybags in the states we come from.
+  WER: 0.1176, CER: 0.0345
+Evaluating: 9d3190e1b9d1dbf205df817d4fdaeba2_tts.wav
+  Original text: hydroxyapatite 12.
+
+  ASR transcription:  Hydroxyapatite 12, Coma
+  WER: 1.0000, CER: 0.3333
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_xhosa/xhosa_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.4829
+Real‑Time Factor (RTF): 0.2838
+Latency (avg inference time): 2.0028 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 2.2333
+Character Error Rate (CER): 1.5512
+Number of samples evaluated: 21

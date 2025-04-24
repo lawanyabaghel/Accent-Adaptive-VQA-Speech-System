@@ -1,0 +1,876 @@
+Loading TTS model...
+Running TTS on english/test...
+[763f3b6b-f7f9-43ac-8ea0-55d48c802dde/cbd6e3693a746386fe41eb649d144249] inf_time 2.449s | dur 7.797s | RTF 0.314 | dyn_rng 0.442
+[7b1e57de-1e83-4512-ba96-14fd56204c5c/8b750e424510d68db50b562591d46a58] inf_time 4.241s | dur 15.275s | RTF 0.278 | dyn_rng 0.538
+[441116a5-01aa-4b0f-9bcc-0731301be1d8/241fdb7d8e1d3498c68465e29b1978fd] inf_time 1.237s | dur 4.171s | RTF 0.297 | dyn_rng 0.502
+[acb82e12-4f16-4f6d-97be-edc7df5a76e0/984fd753a8706a0976d469d294ff0a7a] inf_time 0.717s | dur 2.411s | RTF 0.297 | dyn_rng 0.279
+[cb8cfa37-132c-4f37-bafe-bb8513fb8fde/e64a01cca8fe7796db9834feed4b0ba8] inf_time 0.961s | dur 3.339s | RTF 0.288 | dyn_rng 0.382
+[e23afddc-00cc-4fce-be64-86b839a9d083/fafd00f214fb316a6c235529de012750] inf_time 4.647s | dur 17.547s | RTF 0.265 | dyn_rng 0.598
+[0d682bef-dd17-4dba-a48b-c1483b6be09a/ccef57d87d2d05725a5cbbe638005645] inf_time 3.693s | dur 13.792s | RTF 0.268 | dyn_rng 0.577
+[f1aad995-4ab1-4beb-bd35-01552dc47a4e/5ee101f593d24c55a23ac135074500e6] inf_time 1.215s | dur 4.363s | RTF 0.278 | dyn_rng 0.414
+[574d4f30-9113-4f78-9f7f-9e2b8543f73f/1559899860c38948ea1d2a6b968b638f] inf_time 1.065s | dur 3.755s | RTF 0.284 | dyn_rng 0.428
+[df58a6e6-4704-47fc-84dc-f785636234d8/8b9dbe5715325a2d7da8c9843b27c5a5] inf_time 1.555s | dur 5.611s | RTF 0.277 | dyn_rng 0.361
+[0f187d95-afbb-4d4d-a458-f79813599b83/ed0420cc8dd2261c38f81abcfc1cd428] inf_time 0.624s | dur 1.995s | RTF 0.313 | dyn_rng 0.339
+[010481eb-ec49-469d-82b3-ee60e337a16a/322689ab2de11146bf24ceb217e4cae9] inf_time 2.140s | dur 7.893s | RTF 0.271 | dyn_rng 0.363
+[d7d853c6-3639-43fa-83f7-3ada27e90150/fdcfa0098ab5b1a75f74db94082cdc0d] inf_time 4.511s | dur 16.245s | RTF 0.278 | dyn_rng 0.597
+[51a899ae-c210-4655-a7a6-108789d4e8ce/c10c9c6a0a2cead12457d68d59179222] inf_time 4.119s | dur 15.456s | RTF 0.266 | dyn_rng 0.675
+[b89c0720-a54f-4d0f-857f-35112fe206c2/0755203ff3c377803a7bf2ef98580503] inf_time 4.090s | dur 15.371s | RTF 0.266 | dyn_rng 0.582
+[dd3557c9-9061-4fd7-ab49-89d86c543e07/e20972f7dbb70da67e49e39f5c489e1e] inf_time 1.616s | dur 5.845s | RTF 0.276 | dyn_rng 0.464
+[50d22d21-2620-4154-bfba-d5ed1b83bae9/90ee1988e9b408602f62eb92b6cb168b] inf_time 1.128s | dur 3.989s | RTF 0.283 | dyn_rng 0.423
+[c252920a-023e-45c3-ae16-4e93d8c9c243/af91a44388ef95453b2f96e379723b17] inf_time 1.273s | dur 4.544s | RTF 0.280 | dyn_rng 0.489
+[a373817b-1ea0-426c-91d2-47af9f909e6f/c3e5a8a1e2538b6c05e6d8799112e8a8] inf_time 3.411s | dur 12.715s | RTF 0.268 | dyn_rng 0.465
+[f9c1a06b-d12b-4026-ac19-d3ddd16651a2/6fff8f8a5d1abac1af31cd8e7db31765] inf_time 2.998s | dur 11.189s | RTF 0.268 | dyn_rng 0.514
+[66630014-49a9-477d-8773-a65f594f1bba/355b51c1f1117086c99dbda4215d92f7] inf_time 2.820s | dur 10.539s | RTF 0.268 | dyn_rng 0.466
+[3de4a4e7-f82d-472e-bcc8-23d164ae24e3/7d727f57ba1b743a5f4ea140225a4784] inf_time 1.819s | dur 6.635s | RTF 0.274 | dyn_rng 0.471
+[d306cbe1-7368-484f-abeb-e5e7d928771b/1bb314a5b15f8657bd27183038560f30] inf_time 1.277s | dur 4.501s | RTF 0.284 | dyn_rng 0.468
+[0badc448-f0df-4708-8a6e-f8cdfef276cc/198bdddfdf4ec819134e01b39458e9c3] inf_time 1.283s | dur 4.597s | RTF 0.279 | dyn_rng 0.447
+[8bd71559-f0d5-4c1f-b78a-46a528ccf859/343ae8d2a640f3ce7036b78d08a2ff15] inf_time 1.725s | dur 6.261s | RTF 0.275 | dyn_rng 0.541
+[84ba5e8f-51a0-489f-b5dc-30b26dd0b376/a97025e293ea20e474c58599887e99d0] inf_time 3.392s | dur 12.715s | RTF 0.267 | dyn_rng 0.445
+[1a426e07-9f9a-43b0-b73b-124d01c1bc8c/2213f2b89d2a970212b561d534bcee5f] inf_time 3.395s | dur 12.672s | RTF 0.268 | dyn_rng 0.535
+[4619ccc9-8507-4504-a8c7-249e2f12f179/f2a72bb67d1d5e98446db0e2081b6098] inf_time 1.590s | dur 5.845s | RTF 0.272 | dyn_rng 0.362
+[6ea1fcda-292e-45e8-bb9c-6f4d7ab9ef42/d38d8198abce40a33d1a1b97397790bd] inf_time 1.372s | dur 4.917s | RTF 0.279 | dyn_rng 0.451
+[600d43dd-66ba-4dc2-bd45-969a0ca4d684/3bac69a492b3eb1ed8e6679de5ec6d10] inf_time 1.045s | dur 3.616s | RTF 0.289 | dyn_rng 0.408
+[ed4ed130-cee4-4042-9dee-1c842a0d54f2/09712f1131d32445d9f3372f5d1cd6fa] inf_time 1.899s | dur 6.965s | RTF 0.273 | dyn_rng 0.635
+[0ff01ba3-fb93-47da-a8d5-ea61c7daf889/82f044cf0b5fbdeea598d958f4239a9d] inf_time 1.989s | dur 7.285s | RTF 0.273 | dyn_rng 0.479
+[28a91c3b-8347-495f-8f13-8e6aab01ef99/2e6f93be0b492539df210348fb410997] inf_time 1.140s | dur 4.032s | RTF 0.283 | dyn_rng 0.386
+[d5e15622-105c-4290-96c1-70bc3cec70f3/754f6cf902b5baa1e3fbd7053492bf71] inf_time 2.053s | dur 7.520s | RTF 0.273 | dyn_rng 0.603
+[cf25c1e0-ec31-4ffd-b035-b6c4b10626d7/49fce31f673067303e326ac6498c8ba4] inf_time 3.855s | dur 14.443s | RTF 0.267 | dyn_rng 0.677
+[8bbfa0bc-1674-4903-b06d-58975c056e92/0164a6cb0e82f9166a941ab3d3838084] inf_time 0.935s | dur 3.339s | RTF 0.280 | dyn_rng 0.389
+[e9230d70-de54-48af-a073-2e13e1ffb12e/185ffd6f70d56d4dbd71f34769cca171] inf_time 3.405s | dur 12.576s | RTF 0.271 | dyn_rng 0.425
+[ed29199d-46d4-4108-b86e-3b52a17de9bd/fd789bdc9c67520c8f685658b6d53046] inf_time 1.061s | dur 3.755s | RTF 0.282 | dyn_rng 0.426
+[0b635ef9-867a-4872-af13-b186f9ebe6f3/088c88eea5c968efe33e91d31bdad6dd] inf_time 1.080s | dur 3.851s | RTF 0.280 | dyn_rng 0.460
+[7b954176-4eb8-43df-8551-e9184d9364b6/5fbba3444519a8b6646533d7d6466c8a] inf_time 2.922s | dur 10.912s | RTF 0.268 | dyn_rng 0.654
+[713d8197-9531-42e6-9931-00b5ea7bd837/6dd1ef7ce597e8301e69583b3621bdfb] inf_time 3.000s | dur 11.136s | RTF 0.269 | dyn_rng 0.487
+[13199c8d-51fd-4367-a73f-2d92581d995b/5311c73513a7c0f51eaac9675261c06c] inf_time 4.614s | dur 17.365s | RTF 0.266 | dyn_rng 0.602
+[4e185496-06c2-40ba-8bad-3699ceb2036a/d59d8e2acaeaa0527a186281bd502780] inf_time 3.883s | dur 14.485s | RTF 0.268 | dyn_rng 0.531
+[943565ba-263e-4256-9599-93dc5c93d13e/b1987d194c1eb00285ffc2fb3283dde7] inf_time 3.144s | dur 11.744s | RTF 0.268 | dyn_rng 0.466
+[3e816f9e-9f9b-432c-9e14-19c0a73966d8/cab978e976a5a9c591a1edb8a2bac2d3] inf_time 4.840s | dur 18.101s | RTF 0.267 | dyn_rng 0.768
+[f9260390-e47a-420c-b873-0d72e76a5365/a931fcb0758e34bb28c835a895e02076] inf_time 1.691s | dur 6.123s | RTF 0.276 | dyn_rng 0.391
+[fe4f04c5-f3a7-49d5-83bf-dafc5e7b20ed/eacc1be188f1af5efe0b8311c48000fc] inf_time 1.200s | dur 4.363s | RTF 0.275 | dyn_rng 0.448
+[9aa7ca4b-7f6b-4e2a-8ea3-9a58100e3c87/f9e6c1892129c826b3c102460d88f14f] inf_time 4.154s | dur 15.456s | RTF 0.269 | dyn_rng 0.574
+[1009aabe-f2c4-4b2a-9ddf-34f282494cef/1352297f3b96bd11f8847b3b0af302f5] inf_time 2.783s | dur 10.261s | RTF 0.271 | dyn_rng 0.534
+[746b8c09-4515-4e2c-be83-d45b0fe61c1a/4a5afe4eea58cdea413cd9094842e9d1] inf_time 3.112s | dur 11.605s | RTF 0.268 | dyn_rng 0.614
+[1811e35d-7007-4d18-846e-92f8e2c05f5c/b28b80851702cf44ce105275c5b8ca60] inf_time 3.704s | dur 13.739s | RTF 0.270 | dyn_rng 0.569
+[ee343442-c272-4a07-b70b-d4d3ce4b1110/48f1d29fd05c3c968ba9167b606b012d] inf_time 3.055s | dur 11.328s | RTF 0.270 | dyn_rng 0.508
+[6222ad82-acc1-4107-8e08-5397bb37b59f/1653bf086f063597cbcb3e0432fe7d23] inf_time 1.281s | dur 4.597s | RTF 0.279 | dyn_rng 0.484
+[e5193495-4599-415e-8f05-40c19cc4f89f/3fb1eb30d1861c16444323dcbda58d73] inf_time 3.438s | dur 12.768s | RTF 0.269 | dyn_rng 0.445
+[df0e5c52-440d-46a9-b91d-2640366cabb0/178ca8c7acdbc9eaa2bbc6caf523863d] inf_time 1.058s | dur 3.755s | RTF 0.282 | dyn_rng 0.370
+[60c59011-5b88-41d0-a404-1c1582ff2f45/690bc3f2d779fd538412a84aa50188ea] inf_time 2.200s | dur 8.032s | RTF 0.274 | dyn_rng 0.548
+[c377fede-7d3d-4296-a42e-428e256d83e9/8cff2a628be7f4cf08018e36cf8e9e58] inf_time 1.247s | dur 4.501s | RTF 0.277 | dyn_rng 0.488
+[05e266e6-d46b-4f74-a838-d15e21704db2/aca088aaad25e3f7605908e34600576d] inf_time 3.792s | dur 14.208s | RTF 0.267 | dyn_rng 0.520
+[714b98b7-0bc8-499a-ab13-f00199217dbe/7425d81cf6c0906d196ae6a408980ce1] inf_time 9.258s | dur 34.357s | RTF 0.269 | dyn_rng 0.490
+[a508cb4f-7765-41fd-a7b1-fd499c74bf1b/f540b8ac909cdfc5869063af66c4b5ee] inf_time 17.018s | dur 61.973s | RTF 0.275 | dyn_rng 0.626
+[933ad8a7-6f4e-4851-a6bb-94a2d6fef550/0d6d3fbe5c1aefb16e10f8dc50f57e75] inf_time 1.457s | dur 5.291s | RTF 0.275 | dyn_rng 0.491
+[1be402a9-9b9a-4f2a-997e-db4d644de801/c2e96def290bdeb978e13131a5606d4d] inf_time 3.129s | dur 11.787s | RTF 0.265 | dyn_rng 0.510
+[14a2b7ab-28c3-40da-969a-f28c604923c3/b407b8715bf9c68c37a73505fefef3c0] inf_time 3.382s | dur 12.811s | RTF 0.264 | dyn_rng 0.529
+[410608b9-c99e-409f-b1d6-16a4e2887795/96cf7ca638422972982f506eebf22c3a] inf_time 1.102s | dur 3.947s | RTF 0.279 | dyn_rng 0.339
+[b3648248-154a-47a3-874c-2ccae46de920/b13d868c87431a3fef3fd00c6324a60b] inf_time 3.180s | dur 12.021s | RTF 0.265 | dyn_rng 0.493
+[a1b67bf6-42b7-41ec-9385-81d066f36732/669e4430f943386951d2908c8fa905e1] inf_time 2.535s | dur 9.515s | RTF 0.266 | dyn_rng 0.451
+[f5b446a7-75bc-4dc2-a59b-fba8c54a196b/8bdee6aa78856ff408c188c9e489e2e3] inf_time 1.298s | dur 4.267s | RTF 0.304 | dyn_rng 0.338
+[d4c278e3-de7d-45f5-9b32-32924bd34603/15bc19dfd104913e39ccb1c03e3b98bb] inf_time 3.526s | dur 13.323s | RTF 0.265 | dyn_rng 0.587
+[d9b9058e-57ae-4420-bf11-177a7c77d9e4/0673faa6be69694970c638c462f7ec76] inf_time 3.786s | dur 14.251s | RTF 0.266 | dyn_rng 0.608
+[ab139a02-b85e-43ce-9a0d-a1b57902a6fa/cff005314158672eef10aa8e0e6c628c] inf_time 4.741s | dur 18.101s | RTF 0.262 | dyn_rng 0.533
+[918c4536-1487-4b6f-8bc9-4f3933ee4944/e0fbb2342d796fdd07197ea2fcb9c6c5] inf_time 3.289s | dur 12.437s | RTF 0.264 | dyn_rng 0.457
+[ad0c7b7a-6523-4722-b5ef-3516606ee47b/439bc1b11f9ad8f340c0c26d2ac6467d] inf_time 2.595s | dur 9.696s | RTF 0.268 | dyn_rng 0.537
+[c12d3739-dfdb-4afb-8277-3f36e4386a92/06eb8ca9d5bfbbd3d546cf916e8bf10b] inf_time 3.548s | dur 13.461s | RTF 0.264 | dyn_rng 0.512
+[a74de191-59a4-4fb6-b758-a5fe63e902e3/d2041a02d9bcf31b986de8a8384fcca9] inf_time 6.383s | dur 23.861s | RTF 0.267 | dyn_rng 0.644
+[be4244c7-5650-4ba3-bf5d-a4a849703566/d3e9329d2f6855dc1b51662b4a05bd6c] inf_time 4.583s | dur 17.504s | RTF 0.262 | dyn_rng 0.579
+[ab8b7de5-7220-4225-b541-367d3b26d8d7/307098d300862088b36c71af69ea6f0a] inf_time 1.293s | dur 4.683s | RTF 0.276 | dyn_rng 0.470
+[c12ab2bf-cd04-4974-a275-97c6adfae147/bac9c66bf6378bf1fc2dbadcf90a843a] inf_time 7.854s | dur 29.664s | RTF 0.265 | dyn_rng 0.688
+[43b7f999-b6e3-40a1-a38f-fe7126dce3f6/d12d939b1b7285d3e3eda536e41bce83] inf_time 6.662s | dur 25.109s | RTF 0.265 | dyn_rng 0.652
+[6b2d9bf3-6ec9-4b9d-b88d-809d54464f7a/3e91e386f97ddec8592c80a4703d9b05] inf_time 1.236s | dur 4.544s | RTF 0.272 | dyn_rng 0.435
+[90dd7db7-a28a-4a60-ac10-9e58f7fb4d46/0a644408dcda887eac373975954ca069] inf_time 2.903s | dur 10.859s | RTF 0.267 | dyn_rng 0.588
+[39ca6ff8-9a33-4137-8627-c50b8e46c311/a98b01660c028a0d91ebb5a4b696c6b6] inf_time 0.952s | dur 3.296s | RTF 0.289 | dyn_rng 0.397
+[035a3451-23d1-430d-b0d0-f54e3e7f6423/5a2b7e6671ca19270737fde1011841a8] inf_time 2.193s | dur 8.075s | RTF 0.272 | dyn_rng 0.462
+[b662e57d-a8c3-4e0e-a9a1-ffacfc4143f1/865c51845eeafdc58a842b5f040b17a5] inf_time 1.561s | dur 5.333s | RTF 0.293 | dyn_rng 0.440
+[bc4811c3-bb30-41f9-99c7-86eb607dc35c/cf80aad8091365802148ae9c567eff6d] inf_time 3.260s | dur 12.213s | RTF 0.267 | dyn_rng 0.583
+[f3b36eba-1a09-496e-8244-13d55a558cb5/61f1dd8110b4bcde38a4d5ff6073549b] inf_time 1.568s | dur 5.707s | RTF 0.275 | dyn_rng 0.391
+[7b3a63b9-8fcc-4127-95a3-002a30f5b5fa/48d577c8182274498f98c99e2e4b7d7c] inf_time 3.001s | dur 11.189s | RTF 0.268 | dyn_rng 0.500
+[4e60a9af-c417-467b-9c29-5f3f9d45267d/faa7fc5f12c5691cb346b10cc553c49d] inf_time 3.601s | dur 12.811s | RTF 0.281 | dyn_rng 0.632
+[96dc4431-9e53-41a8-a784-cf5ddb026145/c11c3aa7508dc7af45e38e2ab252a27d] inf_time 0.929s | dur 3.008s | RTF 0.309 | dyn_rng 0.532
+[f7c25e2e-cc95-47f5-a09a-97ea0dd80fa1/7ba0f26a5699ebc1c58a5e6d5f42e153] inf_time 4.305s | dur 15.595s | RTF 0.276 | dyn_rng 0.610
+[f0fe1a6d-65de-4b46-9387-360adaa27383/46144a5b03c77285cf68e0e9c2a73862] inf_time 2.616s | dur 9.333s | RTF 0.280 | dyn_rng 0.455
+[047e4ac7-7360-47b6-bc92-a3a42fc5f194/8ad62867f60255559187428ac2f00c78] inf_time 3.451s | dur 12.672s | RTF 0.272 | dyn_rng 0.610
+[ff74907d-1558-46e8-895d-3352509837d5/ce93289b92cdbd628fbd6fea7417a850] inf_time 1.989s | dur 7.189s | RTF 0.277 | dyn_rng 0.397
+[48a01d28-ea24-478c-b6ca-01fdafd82bbd/7202e4d9ad938fbe12098e7cd38f26f0] inf_time 2.814s | dur 9.888s | RTF 0.285 | dyn_rng 0.560
+[3a737cfc-5db2-47f6-a596-e5e1f6f27509/781343ff03cf4e4b7b73026f543064d1] inf_time 3.340s | dur 12.576s | RTF 0.266 | dyn_rng 0.539
+[ceeec452-333f-47c7-83eb-e63f5cd47f83/ebb71826279ac2e337bd8a6ae05889ca] inf_time 1.280s | dur 4.501s | RTF 0.284 | dyn_rng 0.383
+[a8774607-7e50-4745-8a9d-ed2e08431324/dde3337816d622bd0de56b2dff9694f7] inf_time 2.843s | dur 10.539s | RTF 0.270 | dyn_rng 0.597
+[49aaa7b5-3af4-4d1f-a7bc-469383c36e83/d4d0d62d6ec4c2320febd153413dd223] inf_time 1.845s | dur 6.677s | RTF 0.276 | dyn_rng 0.435
+[1073f9fd-f8f6-4d04-95d6-357f2d5d9cd2/91bb6fab75e04869880ca8f190e3a84b] inf_time 1.249s | dur 4.405s | RTF 0.284 | dyn_rng 0.504
+[f2fa3156-ab20-45ee-b7ab-655091b0aaaa/8fe74ef79bcf21e6809757e078c43288] inf_time 3.673s | dur 13.653s | RTF 0.269 | dyn_rng 0.617
+[92479b1c-f05f-4ef8-b564-23f1dd516db4/d48a1a21a3c2bdeeeebf0c989fba20f1] inf_time 5.946s | dur 21.824s | RTF 0.272 | dyn_rng 0.589
+[954dc757-7c99-422c-8e9d-4bdb783a8897/39380757959df999a9cb9bc612c07645] inf_time 4.033s | dur 15.136s | RTF 0.266 | dyn_rng 0.602
+[c8e9e7ec-e1f0-4893-818c-50db0f633e55/6c320bd7c17aaab737ed73f8f6ffd093] inf_time 2.796s | dur 10.443s | RTF 0.268 | dyn_rng 0.517
+[b491e10a-c973-48cd-9883-18938f43d553/bb522f22836a836bc5f34fbad45bc7eb] inf_time 3.903s | dur 14.624s | RTF 0.267 | dyn_rng 0.559
+[f0c68b14-7a21-4c29-a1b9-60633a752ee4/999bf657729e0c896bf9d6d7dbe0ece0] inf_time 2.011s | dur 7.381s | RTF 0.272 | dyn_rng 0.493
+[8ff2c7f5-10fa-4c67-bff0-1642d14fb64b/d8000b420fd223ff2fc5f9c6e59cf476] inf_time 2.125s | dur 7.893s | RTF 0.269 | dyn_rng 0.484
+[20c4721e-a686-4eb6-97a6-a3863c48b543/5265dfb94900d71985278e2e2489480a] inf_time 1.345s | dur 4.917s | RTF 0.274 | dyn_rng 0.404
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs/english_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Comparing: cbd6e3693a746386fe41eb649d144249_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 407.9316 (lower is better)
+Comparing: 8b750e424510d68db50b562591d46a58_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 345.9907 (lower is better)
+Comparing: 241fdb7d8e1d3498c68465e29b1978fd_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 366.6320 (lower is better)
+Comparing: 984fd753a8706a0976d469d294ff0a7a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 378.9074 (lower is better)
+Comparing: e64a01cca8fe7796db9834feed4b0ba8_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 367.7883 (lower is better)
+Comparing: fafd00f214fb316a6c235529de012750_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 355.4052 (lower is better)
+Comparing: ccef57d87d2d05725a5cbbe638005645_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 401.5093 (lower is better)
+Comparing: 5ee101f593d24c55a23ac135074500e6_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 394.0105 (lower is better)
+Comparing: 1559899860c38948ea1d2a6b968b638f_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 427.6401 (lower is better)
+Comparing: 8b9dbe5715325a2d7da8c9843b27c5a5_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 365.8572 (lower is better)
+Comparing: ed0420cc8dd2261c38f81abcfc1cd428_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 349.0879 (lower is better)
+Comparing: 322689ab2de11146bf24ceb217e4cae9_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 419.2765 (lower is better)
+Comparing: fdcfa0098ab5b1a75f74db94082cdc0d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 410.0953 (lower is better)
+Comparing: c10c9c6a0a2cead12457d68d59179222_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 394.4204 (lower is better)
+Comparing: 0755203ff3c377803a7bf2ef98580503_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 371.9329 (lower is better)
+Comparing: e20972f7dbb70da67e49e39f5c489e1e_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 454.6346 (lower is better)
+Comparing: 90ee1988e9b408602f62eb92b6cb168b_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 409.6748 (lower is better)
+Comparing: af91a44388ef95453b2f96e379723b17_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 411.1478 (lower is better)
+Comparing: c3e5a8a1e2538b6c05e6d8799112e8a8_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 360.5428 (lower is better)
+Comparing: 6fff8f8a5d1abac1af31cd8e7db31765_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 379.2922 (lower is better)
+Comparing: 355b51c1f1117086c99dbda4215d92f7_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 415.4639 (lower is better)
+Comparing: 7d727f57ba1b743a5f4ea140225a4784_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 407.5083 (lower is better)
+Comparing: 1bb314a5b15f8657bd27183038560f30_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 400.0099 (lower is better)
+Comparing: 198bdddfdf4ec819134e01b39458e9c3_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 390.8264 (lower is better)
+Comparing: 343ae8d2a640f3ce7036b78d08a2ff15_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 391.5056 (lower is better)
+Comparing: a97025e293ea20e474c58599887e99d0_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 366.3870 (lower is better)
+Comparing: 2213f2b89d2a970212b561d534bcee5f_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 418.4819 (lower is better)
+Comparing: f2a72bb67d1d5e98446db0e2081b6098_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 407.2489 (lower is better)
+Comparing: d38d8198abce40a33d1a1b97397790bd_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 403.8043 (lower is better)
+Comparing: 3bac69a492b3eb1ed8e6679de5ec6d10_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 361.3000 (lower is better)
+Comparing: 09712f1131d32445d9f3372f5d1cd6fa_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 428.3858 (lower is better)
+Comparing: 82f044cf0b5fbdeea598d958f4239a9d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 357.8772 (lower is better)
+Comparing: 2e6f93be0b492539df210348fb410997_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 389.9046 (lower is better)
+Comparing: 754f6cf902b5baa1e3fbd7053492bf71_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 380.1895 (lower is better)
+Comparing: 49fce31f673067303e326ac6498c8ba4_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 372.8816 (lower is better)
+Comparing: 0164a6cb0e82f9166a941ab3d3838084_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 418.0967 (lower is better)
+Comparing: 185ffd6f70d56d4dbd71f34769cca171_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 416.1055 (lower is better)
+Comparing: fd789bdc9c67520c8f685658b6d53046_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 402.6191 (lower is better)
+Comparing: 088c88eea5c968efe33e91d31bdad6dd_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 360.6397 (lower is better)
+Comparing: 5fbba3444519a8b6646533d7d6466c8a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 387.6533 (lower is better)
+Comparing: 6dd1ef7ce597e8301e69583b3621bdfb_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 345.0920 (lower is better)
+Comparing: 5311c73513a7c0f51eaac9675261c06c_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 411.2490 (lower is better)
+Comparing: d59d8e2acaeaa0527a186281bd502780_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 366.2129 (lower is better)
+Comparing: b1987d194c1eb00285ffc2fb3283dde7_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 364.9696 (lower is better)
+Comparing: cab978e976a5a9c591a1edb8a2bac2d3_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 363.0535 (lower is better)
+Comparing: a931fcb0758e34bb28c835a895e02076_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 405.9681 (lower is better)
+Comparing: eacc1be188f1af5efe0b8311c48000fc_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 419.0708 (lower is better)
+Comparing: f9e6c1892129c826b3c102460d88f14f_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 349.9668 (lower is better)
+Comparing: 1352297f3b96bd11f8847b3b0af302f5_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 398.3298 (lower is better)
+Comparing: 4a5afe4eea58cdea413cd9094842e9d1_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 373.7609 (lower is better)
+Comparing: b28b80851702cf44ce105275c5b8ca60_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 366.9222 (lower is better)
+Comparing: 48f1d29fd05c3c968ba9167b606b012d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 372.0230 (lower is better)
+Comparing: 1653bf086f063597cbcb3e0432fe7d23_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 400.0893 (lower is better)
+Comparing: 3fb1eb30d1861c16444323dcbda58d73_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 343.3665 (lower is better)
+Comparing: 178ca8c7acdbc9eaa2bbc6caf523863d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 426.1027 (lower is better)
+Comparing: 690bc3f2d779fd538412a84aa50188ea_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 387.7101 (lower is better)
+Comparing: 8cff2a628be7f4cf08018e36cf8e9e58_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 412.1707 (lower is better)
+Comparing: aca088aaad25e3f7605908e34600576d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 388.9739 (lower is better)
+Comparing: 7425d81cf6c0906d196ae6a408980ce1_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 374.5257 (lower is better)
+Comparing: f540b8ac909cdfc5869063af66c4b5ee_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 364.6418 (lower is better)
+Comparing: 0d6d3fbe5c1aefb16e10f8dc50f57e75_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 370.2631 (lower is better)
+Comparing: c2e96def290bdeb978e13131a5606d4d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 364.2277 (lower is better)
+Comparing: b407b8715bf9c68c37a73505fefef3c0_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 378.9221 (lower is better)
+Comparing: 96cf7ca638422972982f506eebf22c3a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 369.2019 (lower is better)
+Comparing: b13d868c87431a3fef3fd00c6324a60b_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 368.6934 (lower is better)
+Comparing: 669e4430f943386951d2908c8fa905e1_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 428.8104 (lower is better)
+Comparing: 8bdee6aa78856ff408c188c9e489e2e3_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 362.8116 (lower is better)
+Comparing: 15bc19dfd104913e39ccb1c03e3b98bb_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 373.0649 (lower is better)
+Comparing: 0673faa6be69694970c638c462f7ec76_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 343.7876 (lower is better)
+Comparing: cff005314158672eef10aa8e0e6c628c_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 389.9002 (lower is better)
+Comparing: e0fbb2342d796fdd07197ea2fcb9c6c5_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 384.7334 (lower is better)
+Comparing: 439bc1b11f9ad8f340c0c26d2ac6467d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 387.4373 (lower is better)
+Comparing: 06eb8ca9d5bfbbd3d546cf916e8bf10b_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 319.3121 (lower is better)
+Comparing: d2041a02d9bcf31b986de8a8384fcca9_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 389.4754 (lower is better)
+Comparing: d3e9329d2f6855dc1b51662b4a05bd6c_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 351.5294 (lower is better)
+Comparing: 307098d300862088b36c71af69ea6f0a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 374.5099 (lower is better)
+Comparing: bac9c66bf6378bf1fc2dbadcf90a843a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 386.5686 (lower is better)
+Comparing: d12d939b1b7285d3e3eda536e41bce83_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 358.4858 (lower is better)
+Comparing: 3e91e386f97ddec8592c80a4703d9b05_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 410.4729 (lower is better)
+Comparing: 0a644408dcda887eac373975954ca069_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 372.3341 (lower is better)
+Comparing: a98b01660c028a0d91ebb5a4b696c6b6_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 397.4438 (lower is better)
+Comparing: 5a2b7e6671ca19270737fde1011841a8_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 380.3665 (lower is better)
+Comparing: 865c51845eeafdc58a842b5f040b17a5_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 374.9156 (lower is better)
+Comparing: cf80aad8091365802148ae9c567eff6d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 362.2802 (lower is better)
+Comparing: 61f1dd8110b4bcde38a4d5ff6073549b_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 417.6937 (lower is better)
+Comparing: 48d577c8182274498f98c99e2e4b7d7c_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 450.7584 (lower is better)
+Comparing: faa7fc5f12c5691cb346b10cc553c49d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 382.0124 (lower is better)
+Comparing: c11c3aa7508dc7af45e38e2ab252a27d_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 369.7182 (lower is better)
+Comparing: 7ba0f26a5699ebc1c58a5e6d5f42e153_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 389.5555 (lower is better)
+Comparing: 46144a5b03c77285cf68e0e9c2a73862_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 403.4298 (lower is better)
+Comparing: 8ad62867f60255559187428ac2f00c78_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 341.1501 (lower is better)
+Comparing: ce93289b92cdbd628fbd6fea7417a850_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 432.9305 (lower is better)
+Comparing: 7202e4d9ad938fbe12098e7cd38f26f0_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 379.2798 (lower is better)
+Comparing: 781343ff03cf4e4b7b73026f543064d1_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 404.2945 (lower is better)
+Comparing: ebb71826279ac2e337bd8a6ae05889ca_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 417.4393 (lower is better)
+Comparing: dde3337816d622bd0de56b2dff9694f7_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 420.8482 (lower is better)
+Comparing: d4d0d62d6ec4c2320febd153413dd223_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 372.6204 (lower is better)
+Comparing: 91bb6fab75e04869880ca8f190e3a84b_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 424.4796 (lower is better)
+Comparing: 8fe74ef79bcf21e6809757e078c43288_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 346.1103 (lower is better)
+Comparing: d48a1a21a3c2bdeeeebf0c989fba20f1_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 370.6147 (lower is better)
+Comparing: 39380757959df999a9cb9bc612c07645_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 355.1450 (lower is better)
+Comparing: 6c320bd7c17aaab737ed73f8f6ffd093_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 425.7847 (lower is better)
+Comparing: bb522f22836a836bc5f34fbad45bc7eb_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 362.7296 (lower is better)
+Comparing: 999bf657729e0c896bf9d6d7dbe0ece0_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 368.7061 (lower is better)
+Comparing: d8000b420fd223ff2fc5f9c6e59cf476_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 389.4522 (lower is better)
+Comparing: 5265dfb94900d71985278e2e2489480a_tts.wav with ground truth
+  Warning: Ground truth sample rate mismatch (44100 vs 24000)
+  MCD: 405.7695 (lower is better)
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs/english_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: cbd6e3693a746386fe41eb649d144249_tts.wav
+  Original text: noted to have intermittent snorting sounds with respirations but no upper airway secretions this past shift.
+  ASR transcription:  Noted to have intermittent snorting sounds with respirations but no upper airway secretions this past shift.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 8b750e424510d68db50b562591d46a58_tts.wav
+  Original text: other superficial bite of ankle, right ankle, subsequent encounter. injectable, injection pamidronate disodium, pamidronate disodium, 90mg/vial. displaced fracture of olecranon process with intraarticular extension
+  ASR transcription:  other superficial bite of ankle right ankle subsequent encounter injectable injection permidronate disodium permidronate disodium 19 via displaced fracture of olecranon process with intraocular extension
+  WER: 0.4583, CER: 0.0981
+Evaluating: 241fdb7d8e1d3498c68465e29b1978fd_tts.wav
+  Original text: rate controlled 70-low 100's.
+  ASR transcription:  Go and write, controlled, 70,00, 100.
+  WER: 1.5000, CER: 0.5862
+Evaluating: 984fd753a8706a0976d469d294ff0a7a_tts.wav
+  Original text: will start on pn.
+  ASR transcription:  We'll start on PN.
+  WER: 0.2500, CER: 0.1176
+Evaluating: e64a01cca8fe7796db9834feed4b0ba8_tts.wav
+  Original text: larry would like everything done .
+  ASR transcription:  Larry wut like everything done, hobba.
+  WER: 0.5000, CER: 0.2647
+Evaluating: fafd00f214fb316a6c235529de012750_tts.wav
+  Original text: other fracture of shaft of radius, unspecified arm, subsequent encount. injectable, intravenous multihance, gadobenate dimeglumine, 10.58gm/20ml (529mg/ml). torus fracture of lower end of unspecified radius, sequela
+  ASR transcription:  Other fracture of shaft of radius unspecified arm subsequent encounter injectable intravenous multihands 10.580 mm 20.529 ml torus fracture lower end of unspecified radius sequela
+  WER: 0.4231, CER: 0.2233
+Evaluating: ccef57d87d2d05725a5cbbe638005645_tts.wav
+  Original text: corrosion of unspecified degree of unspecified hand, unspecified site,. capsule, oral fenoprofen calcium, fenoprofen calcium, eq 200mg base. corrosion of third degree of right thumb (nail), subsequent encounter
+  ASR transcription:  corrosion of unspecified degree of unspecified hand, unspecified site. Capsule oral phenoprofen, calcium, phenoprofen, calcium, EQ 200 be amputated. Nail subsequent encounter.
+  WER: 0.5357, CER: 0.2619
+Evaluating: 5ee101f593d24c55a23ac135074500e6_tts.wav
+  Original text: she was out of bed with physicaltherapy without event.
+  ASR transcription:  Kwa hivyo kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa k
+  WER: 24.6667, CER: 16.1481
+Evaluating: 1559899860c38948ea1d2a6b968b638f_tts.wav
+  Original text: baby to mri today.
+  ASR transcription:  baby to me today.
+  WER: 0.2500, CER: 0.1111
+Evaluating: 8b9dbe5715325a2d7da8c9843b27c5a5_tts.wav
+  Original text: bs coarse wheezes with no change after mdi.
+  ASR transcription:  be as coursewises format will change after mde, was done.
+  WER: 1.0000, CER: 0.6977
+Evaluating: ed0420cc8dd2261c38f81abcfc1cd428_tts.wav
+  Original text: skin--intact .
+  ASR transcription:  skin intact only.
+  WER: 1.5000, CER: 0.4286
+Evaluating: 322689ab2de11146bf24ceb217e4cae9_tts.wav
+  Original text: 2 gross dental caries of the anterior teeth due to over indulgence in sugar-rich vitamin c syrup.
+  ASR transcription:  two gross dental caries of the anterior teeth due to overindulgence in sugar-rich vitamin c syrup
+  WER: 0.2353, CER: 0.0515
+Evaluating: fdcfa0098ab5b1a75f74db94082cdc0d_tts.wav
+  Original text: 3-4-5 o: active  and interactive with cares sleeping well between cares basic care and needs reinforced with with final discharge teaching done po feeding well voiding and stooling a: ready for home p: discharged to home with with follow up pedi appt.
+  ASR transcription:  3450, active and interactive with cares, sleeping well between cares, basic care and needs, reinforced with the final discharge teaching, done poor feeding, ready for home, discharge to home with follow up aid, abs, well,
+  WER: 0.5000, CER: 0.2590
+Evaluating: c10c9c6a0a2cead12457d68d59179222_tts.wav
+  Original text: poisoning by other laxatives, intentional self-harm, sequela. capsule, oral tetracycline hydrochloride, tetracycline hydrochloride, 500mg. other fracture of unspecified lower leg, subsequent encounter for clos
+  ASR transcription:  Poisoning by other laxatives, intentional self-harm, sequelae, capsule, oral tetracycline, hydrochloride, tetracycline, hydrochloride, 500 mg, other fracture of unspecified lower leg, subsequent encounter for cleft ethiocleat,
+  WER: 0.2917, CER: 0.0957
+Evaluating: 0755203ff3c377803a7bf2ef98580503_tts.wav
+  Original text: unspecified superficial injury of unspecified lesser toe(s), subsequen. injectable, injection hydroxyzine hydrochloride, hydroxyzine hydrochloride, 25mg/ml. fracture of unspecified part of neck of unspecified femur, subsequent
+  ASR transcription:  unspecified superficial injury of unspecified lesser toe subsequent injectable injection hydroxyzine hydrochloride hydroxyzine hydrochloride 25-N fracture of unspecified femur subsequent
+  WER: 0.4800, CER: 0.1903
+Evaluating: e20972f7dbb70da67e49e39f5c489e1e_tts.wav
+  Original text: several strategies can be used to select drugs for combination chemotherapy.
+  ASR transcription:  Several strategies can be used to select drugs for combination chemotherapy.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 90ee1988e9b408602f62eb92b6cb168b_tts.wav
+  Original text: those who had no further axillary surgery.
+  ASR transcription:  دوست هایی که در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در اینکه در ا
+  WER: 21.2857, CER: 15.6905
+Evaluating: af91a44388ef95453b2f96e379723b17_tts.wav
+  Original text: invasive lobular carcinoma, 10, 8.
+  ASR transcription:  Invasive lobular carcinoma 10.8.
+  WER: 0.6000, CER: 0.0882
+Evaluating: c3e5a8a1e2538b6c05e6d8799112e8a8_tts.wav
+  Original text: calcium deposit in bursa, unspecified hand. injectable, injection scanlux-370, iopamidol, 76%. irritant contact dermatitis due to solvents
+  ASR transcription:  calcium deposit in bursa unspecified hand injectable injections can looks 370 76 percent irritant contact dermatitis due to solvents
+  WER: 0.5294, CER: 0.1957
+Evaluating: 6fff8f8a5d1abac1af31cd8e7db31765_tts.wav
+  Original text: no intermenstrual bleeding, post-coital bleeding, no foul smelling vaginal discharge. next line. jumbe adong muhanga she presented to the family planning clinic
+
+  ASR transcription:  wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu wanafu
+  WER: 5.0455, CER: 4.5125
+Evaluating: 355b51c1f1117086c99dbda4215d92f7_tts.wav
+  Original text: this active mural growth and epithelial proliferation is probably a factor determining the frequency with which keratocysts recur.
+  ASR transcription:  This active moral growth and epithelial proliferation is probably a factor determining the frequency with which keratocysts recur.
+  WER: 0.0556, CER: 0.0077
+Evaluating: 7d727f57ba1b743a5f4ea140225a4784_tts.wav
+  Original text: exploration of the pancreas revealed a posterior fracture a the superior mesenteric vessels .
+  ASR transcription:  Exploration of the pancreas revealed a posterior fracture in the superior mesenteric vessel.
+  WER: 0.2143, CER: 0.0430
+Evaluating: 1bb314a5b15f8657bd27183038560f30_tts.wav
+  Original text: makinde is coasting home to a resounding victory again.
+
+  ASR transcription:  My king day is costing home to a resounding victory again.
+  WER: 0.4444, CER: 0.1273
+Evaluating: 198bdddfdf4ec819134e01b39458e9c3_tts.wav
+  Original text: pt encouraged to use incentive pediatrics while awake.
+  ASR transcription:  PTA encouraged to use incentive paediatrics while awake.
+  WER: 0.2500, CER: 0.0370
+Evaluating: 343ae8d2a640f3ce7036b78d08a2ff15_tts.wav
+  Original text: tablet, oral olmesartan medoxomil, olmesartan medoxomil, 40mg
+  ASR transcription:  tablet or a mesothelmedoxomil 14D
+  WER: 1.0000, CER: 0.5738
+Evaluating: a97025e293ea20e474c58599887e99d0_tts.wav
+  Original text: for this reason, we compared the incidence of death from malignant neoplasms in 2 families of patients with a-t to that expected in a random sample of the general population
+  ASR transcription:  For this reason, we compare the incidence of death from malignant neoplasms in two families of patients with AT to that expected in a random sample of the general population.
+  WER: 0.1333, CER: 0.0347
+Evaluating: 2213f2b89d2a970212b561d534bcee5f_tts.wav
+  Original text: we have determined the parental origin of the retained allele in nine retinoblastoma tumours from eight unrelated non-familial cases by using rb1-linked genetic markers
+  ASR transcription:  We have determined the parental origin of the retained allele in 9-retinoblastoma tumors from 8 unrelated non-familial cases by using a bone-linked genetic markers.
+  WER: 0.2917, CER: 0.1012
+Evaluating: f2a72bb67d1d5e98446db0e2081b6098_tts.wav
+  Original text: a total of 2, 952 single sperm from the six donors were analyzed
+  ASR transcription:  Ndia ola o 2,952 nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili nili n
+  WER: 16.0769, CER: 15.8594
+Evaluating: d38d8198abce40a33d1a1b97397790bd_tts.wav
+  Original text: tablet,  oral apremilast, apremilast, 30mg
+  ASR transcription:  tablet, oral, a pre-released, a pre-released, touching.
+  WER: 1.2000, CER: 0.5714
+Evaluating: 3bac69a492b3eb1ed8e6679de5ec6d10_tts.wav
+  Original text: both appear to have excellent understanding of plan.
+  ASR transcription:  Both appear to have excellent understanding of plan.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 09712f1131d32445d9f3372f5d1cd6fa_tts.wav
+  Original text: the tumor subsequently invades the bowel wall and eventually adjacent tissues and other viscera.
+  ASR transcription:  tumor subsequently invades the bowel wall and eventually adjacent tissues and other viscera.
+  WER: 0.0714, CER: 0.0417
+Evaluating: 82f044cf0b5fbdeea598d958f4239a9d_tts.wav
+  Original text: called x2 for update and for confirmation of infant transferring to hospital ayomide this afternoon.
+  ASR transcription:  called X2 for update and for confirmation of infant transferring to hospital IUD this afternoon.
+  WER: 0.0667, CER: 0.0600
+Evaluating: 2e6f93be0b492539df210348fb410997_tts.wav
+  Original text: baby is quieter today does not look around asmuch.
+  ASR transcription:  Baby is quite today. Does not look around as much.
+  WER: 0.4444, CER: 0.0800
+Evaluating: 754f6cf902b5baa1e3fbd7053492bf71_tts.wav
+  Original text: follow up was arranged with pcp for further titration of her diabetes regimen as the steroids are tapered.
+  ASR transcription:  Oto-opo la yiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo ndiyo nd
+  WER: 6.2222, CER: 5.9340
+Evaluating: 49fce31f673067303e326ac6498c8ba4_tts.wav
+  Original text: unspecified injury of vein at forearm level, left arm, subsequent enco. suspension, oral propulsid, cisapride monohydrate, eq 1mg base/ml. acute lymphoblastic leukemia, in relapse
+  ASR transcription:  Ongo ngao ndiwa nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao nao
+  WER: 9.1667, CER: 4.6369
+Evaluating: 0164a6cb0e82f9166a941ab3d3838084_tts.wav
+  Original text: dependent for all adls wheelchair bound.
+  ASR transcription:  dependent for all ideas wheelchair bound.
+  WER: 0.1667, CER: 0.0750
+Evaluating: 185ffd6f70d56d4dbd71f34769cca171_tts.wav
+  Original text: the patient is a 67 year old white male with a recent history of urinary frequency q2-3h, stranguria, nocturia x 3-4 per night .
+  ASR transcription:  The patient is a 67-year-old white male with a recent history of urine refrequency 8.3 to 9.3. Dr. X34 per night.
+  WER: 0.5000, CER: 0.2422
+Evaluating: fd789bdc9c67520c8f685658b6d53046_tts.wav
+  Original text: creditshe wrote, men are going through a lot too
+
+  ASR transcription:  Kedi Che wrote, men are going through a lot too.
+  WER: 0.3333, CER: 0.1042
+Evaluating: 088c88eea5c968efe33e91d31bdad6dd_tts.wav
+  Original text: neck - supple, no lad, no jvd
+  ASR transcription:  neck or my supper no lat no gfd
+  WER: 0.7143, CER: 0.3793
+Evaluating: 5fbba3444519a8b6646533d7d6466c8a_tts.wav
+  Original text: injury to rider of non-recreational watercraft being pulled behind oth. tablet, oral finasteride, finasteride, 5mg. vulvar vestibulitis
+  ASR transcription:  injury to rider of non-recreational robot after being pulled behind a tablet or a finasteride. Finasteride, fiveng, viveng, vulva vestibulitis.
+  WER: 0.6471, CER: 0.2444
+Evaluating: 6dd1ef7ce597e8301e69583b3621bdfb_tts.wav
+  Original text: fall from playground swing, subsequent encounter. tablet, oral simvastatin, simvastatin, 80mg. newborn affected by maternal death
+  ASR transcription:  Ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele, ndiyelele,
+  WER: 4.6250, CER: 5.8760
+Evaluating: 5311c73513a7c0f51eaac9675261c06c_tts.wav
+  Original text: borderline ovarian tumors: approximately 10 of seemingly benign epithelial cell tumors may contain histologic evidence of intraepithelial neoplasia, commonly referred to as borderline malignancies, or tumors of low malignant potential.
+  ASR transcription:  Borderline ovarian tumors, approximately 10 of seemingly benign epithelial cell tumors, may contain histologic evidence of intraepithelial neoplasia, commonly referred to as borderline malignancies or tumors of lower malignant potential.
+  WER: 0.1333, CER: 0.0213
+Evaluating: d59d8e2acaeaa0527a186281bd502780_tts.wav
+  Original text: legal intervention involving injury by machine gun, law enforcement of. tablet, oral zortress, everolimus, 0.25mg. hit or struck by falling object due to accident to canoe or kayak, ini
+  ASR transcription:  Legal intervention involving injury by machine gun, law enforcement of tablet, horosote stress, everalums, 0.25m, hit or struck by falling object due to accident to canoe or kayak inli.
+  WER: 0.2414, CER: 0.0919
+Evaluating: b1987d194c1eb00285ffc2fb3283dde7_tts.wav
+  Original text: in the emergency department here junctional fascicular escape at 36 beats per minute retrograde pes st depressions in v3 through v5 right bundle branch block pattern.
+  ASR transcription:  Ndiyo kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa k
+  WER: 8.5385, CER: 5.1205
+Evaluating: cab978e976a5a9c591a1edb8a2bac2d3_tts.wav
+  Original text: glucose-233 urea n-36 creat-0.9 sodium-140potassium-4.3 chloride-105 total co2-24 anion gap-15 altsgpt-58 astsgot-86 alk phos-102amylase-41 tot bili-1.4.
+  ASR transcription:  233 urea 36 krat 0.9 sodium 4.3 krono 224 anion gap 15 alts buty 56 alts 86 alts 102 billion
+  WER: 1.1250, CER: 0.5490
+Evaluating: a931fcb0758e34bb28c835a895e02076_tts.wav
+  Original text: she was seen by the trauma attending with dr. walters and she was cleared for discharge to home .
+  ASR transcription:  Ndiyo walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai walai wala
+  WER: 7.7895, CER: 8.7629
+Evaluating: eacc1be188f1af5efe0b8311c48000fc_tts.wav
+  Original text: the character of the second movement depends on two factors.
+  ASR transcription:  The character of the second movement depends on two factors.
+  WER: 0.0000, CER: 0.0000
+Evaluating: f9e6c1892129c826b3c102460d88f14f_tts.wav
+  Original text: person injured in unspecified nonmotor-vehicle accident, traffic, subs. injectable,  injection leucovorin calcium, leucovorin calcium, eq 100mg base/vial. pathological fracture in neoplastic disease, unspecified tibia and fib
+  ASR transcription:  person injured in unspecified non-motor vehicle accident, traffic, unsuitable, injectable, injection, leucovorin, calcium, leucovorin, calcium, EQ, 100 and GMP disease, unspecified tibia, and five.
+  WER: 0.5769, CER: 0.2800
+Evaluating: 1352297f3b96bd11f8847b3b0af302f5_tts.wav
+  Original text: infant bottled x 1 this shift and took full volume - had some drifting of sats at the beginning of her bottling and then was well coordinated.
+  ASR transcription:  infant bottled X1 dish shaves and took full volume had some drifting of salts at the beginning of her bottling and then was well coordinated.
+  WER: 0.2222, CER: 0.0775
+Evaluating: 4a5afe4eea58cdea413cd9094842e9d1_tts.wav
+  Original text: 4-part fracture of surgical neck of right humerus, subsequent encounte. ointment, topical mupirocin, mupirocin, 2%. benign neoplasm of bladder
+  ASR transcription:  four-part fracture of surgical neck of right humerus. Subsequent encounter, ointment, topical nupurosin, mpurosin, dupasin, benign neoplasm of bladder heart.
+  WER: 0.3684, CER: 0.1972
+Evaluating: b28b80851702cf44ce105275c5b8ca60_tts.wav
+  Original text: being too sleepy suctioned before extubation with small amounts of thick yellow sputum finally extubated at 1700 now on 02 at 4l via nc with sats.
+  ASR transcription:  Biyin tew slipi saksand bifo extubision with small amounts of thick yellows kutum, finally extubited at 1700, now on 2 at 4 via NC with SAT.
+  WER: 0.5000, CER: 0.1918
+Evaluating: 48f1d29fd05c3c968ba9167b606b012d_tts.wav
+  Original text: sinus bradycardia with 1st degree a-v blockprolonged qt intervalleftward axissince previous tracing no significant change
+  ASR transcription:  sinus bradycardia, 1°C, AV, block prolonged, QT, interval leftward, axisense, previous tracing, no significant change.
+  WER: 0.7333, CER: 0.2231
+Evaluating: 1653bf086f063597cbcb3e0432fe7d23_tts.wav
+  Original text: mom came in on her way to the floor and was updated briefly.
+  ASR transcription:  Mbambo kwa mpya kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa mpya na kwa m
+  WER: 17.0000, CER: 14.2667
+Evaluating: 3fb1eb30d1861c16444323dcbda58d73_tts.wav
+  Original text: pressure ulcer of other site, stage 2. tablet, oral glycopyrrolate, glycopyrrolate, 2mg. military operations involving destruction of aircraft due to accidenta
+  ASR transcription:  pressure ulcer of other sites. Stage 2. Tablet. Oral glycopyrrolate. Glycopyrrolate. Tuamgi. Military operations involving destruction of aircraft due to accidental
+  WER: 0.2857, CER: 0.0629
+Evaluating: 178ca8c7acdbc9eaa2bbc6caf523863d_tts.wav
+  Original text: no h/o ois.
+  ASR transcription:  No echo visto mal o hice costa.
+  WER: 2.0000, CER: 1.9091
+Evaluating: 690bc3f2d779fd538412a84aa50188ea_tts.wav
+  Original text: reason: assess bilateral lesser and greater and saphenous veins for admitting diagnosis: ischemic right leg
+  ASR transcription:  reason, assess bilateral lesser and greater encephalitis veins for admitting diagnosis ischemic right leg.
+  WER: 0.3333, CER: 0.1215
+Evaluating: 8cff2a628be7f4cf08018e36cf8e9e58_tts.wav
+  Original text: 2. history of pulmonary embolism, etiology unknown .
+  ASR transcription:  2. History of pulmonary embolism, etiology on olen.
+  WER: 0.2500, CER: 0.1154
+Evaluating: aca088aaad25e3f7605908e34600576d_tts.wav
+  Original text: laceration of superior mesenteric vein, initial encounter. tablet, oral losartan potassium, losartan potassium, 100mg. pathological fracture in neoplastic disease, unspecified foot, subsequ
+  ASR transcription:  Laceration of superior mesenteric vein, initial encounter, tablet, oral losartan potassium, losartan potassium, 100 NITG, pathological fracture in neoplastic disease, unspecified foot, subsequent
+  WER: 0.1818, CER: 0.0476
+Evaluating: 7425d81cf6c0906d196ae6a408980ce1_tts.wav
+Error evaluating /data/user_data/mkapadni/speech_project/tts_outputs/714b98b7-0bc8-499a-ab13-f00199217dbe/7425d81cf6c0906d196ae6a408980ce1_tts.wav: You have passed more than 3000 mel input features (> 30 seconds) which automatically enables long-form generation which requires the model to predict timestamp tokens. Please either pass `return_timestamps=True` or make sure to pass no more than 3000 mel input features.
+Evaluating: f540b8ac909cdfc5869063af66c4b5ee_tts.wav
+Error evaluating /data/user_data/mkapadni/speech_project/tts_outputs/a508cb4f-7765-41fd-a7b1-fd499c74bf1b/f540b8ac909cdfc5869063af66c4b5ee_tts.wav: You have passed more than 3000 mel input features (> 30 seconds) which automatically enables long-form generation which requires the model to predict timestamp tokens. Please either pass `return_timestamps=True` or make sure to pass no more than 3000 mel input features.
+Evaluating: 0d6d3fbe5c1aefb16e10f8dc50f57e75_tts.wav
+  Original text: stent placement but procedure deferred by ip team since pt.
+  ASR transcription:  kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa
+  WER: 22.2000, CER: 14.8475
+Evaluating: c2e96def290bdeb978e13131a5606d4d_tts.wav
+  Original text: pectus excavatum. injectable, injection glycopyrrolate, glycopyrrolate, 0.2mg/ml. other fractures of lower end of unspecified radius, sequela
+  ASR transcription:  Fectus excavatum, injectable, injection glycopyrrolite, glycopyrrolite, 0.2 of lower end of unspecified radius, sequela.
+  WER: 0.5000, CER: 0.1915
+Evaluating: b407b8715bf9c68c37a73505fefef3c0_tts.wav
+  Original text: injectable, injection dexmedetomidine hydrochloride, dexmedetomidine hydrochloride, eq 80mcg base/20ml (eq 4mcg base/ml)
+  ASR transcription:  injectable injection dexmedetomidine hydrochloride dexmedetomidine hydrochloride eq 8mg base 4denton eq 4mg base ml
+  WER: 0.8333, CER: 0.1417
+Evaluating: 96cf7ca638422972982f506eebf22c3a_tts.wav
+  Original text: multiple issues today.
+  ASR transcription:  multiple issues today. Hola, hola, mi son.
+  WER: 1.3333, CER: 0.9091
+Evaluating: b13d868c87431a3fef3fd00c6324a60b_tts.wav
+  Original text: -- labetalol iv prn for goal of sbp <140 pulmonary: -- pre-existing htn - continue home meds metoprolol  lasix  spironolactone.
+  ASR transcription:  la betalol 4 in 4 gold of SDP 140 pulmonary, pre-essent HEN, continue home meds, natoprolol la 6 perolacton,
+  WER: 0.9000, CER: 0.3228
+Evaluating: 669e4430f943386951d2908c8fa905e1_tts.wav
+  Original text: the patients risk is increased for cancers of the oral cavity, pharynx, larynx, tracheobronchial tree and lung, and esophagus.
+  ASR transcription:  Orologia, pharyngea, laryngea, tracheobronchia, trichina, lunga, esophagus.
+  WER: 0.9474, CER: 0.5794
+Evaluating: 8bdee6aa78856ff408c188c9e489e2e3_tts.wav
+  Original text: the plasma concentration-time course after i.v.
+  ASR transcription:  olaf olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma olaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf plasma oaf
+  WER: 47.8333, CER: 34.3191
+Evaluating: 15bc19dfd104913e39ccb1c03e3b98bb_tts.wav
+  Original text: rheumatoid arthritis without rheumatoid factor, left wrist. tablet, oral baclofen, baclofen, 20mg. laceration with foreign body of left middle finger without damage to n
+  ASR transcription:  Rheumatoid arthritis without rheumatoid factor, left wrist, tablet or oral Baclofen, 20 inch laceration with foreign body of left middle finger without damage to end.
+  WER: 0.2500, CER: 0.1183
+Evaluating: 0673faa6be69694970c638c462f7ec76_tts.wav
+  Original text: ; abdominal fluoro without radiologistclip reason: abdomen washout closure and ivc filter admitting diagnosis: s/p fall; ptx; rib fracture; subarachnoid hematoma
+  ASR transcription:  abdominal fluoro without radiologist clip reason, abdomen, washout closure, and IVC filter, admitting diagnosis, SP fall, TTX, rib fracture, subarachnoid, hematoma.
+  WER: 0.6667, CER: 0.0932
+Evaluating: cff005314158672eef10aa8e0e6c628c_tts.wav
+  Original text: benign carcinoid tumor of the large intestine, unspecified portion. injectable, injection dobutamine hydrochloride, dobutamine hydrochloride, eq 12.5mg base/ml. emphysema (subcutaneous) resulting from a procedure, sequela
+  ASR transcription:  benign carcinoid tumor of the large intestine unspecified portion injectable injection dobutamine hydrochlorate dobutamine hydrochloride aq 12.5 van ace mlnfc cina subcutaneous resulting from a procedure sequela
+  WER: 0.5200, CER: 0.1267
+Evaluating: e0fbb2342d796fdd07197ea2fcb9c6c5_tts.wav
+  Original text: pt does occaisionally c/o pain in mouth/face uncooperative w/ mouth care/care in general restrained as needed for safety when rn not in room.
+  ASR transcription:  P ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi ndi nd
+  WER: 6.4783, CER: 3.8652
+Evaluating: 439bc1b11f9ad8f340c0c26d2ac6467d_tts.wav
+  Original text: the platelet count was 9,000, hematocrit was 26.5, with an mean corpuscular volume of about 73 .
+  ASR transcription:  The platelet count was 9,000. Emetocrit was 26.5 with a mean corpuscular volume of about 73.3.
+  WER: 0.3529, CER: 0.0729
+Evaluating: 06eb8ca9d5bfbbd3d546cf916e8bf10b_tts.wav
+  Original text: attention-deficit hyperactivity disorder, unspecified type. injectable, injection meropenem, meropenem, 500mg/vial. viral hepatitis complicating the puerperium
+  ASR transcription:  Atención deficit hyperactividad, desorda, un especificado tipo, inyectable, inyección, meropenem, meropenem, 500 mg, viral hepatitis complicating the pupillum
+  WER: 0.8000, CER: 0.2264
+Evaluating: d2041a02d9bcf31b986de8a8384fcca9_tts.wav
+  Original text: wbc-38.6 rbc-2.94 hgb-9.0 hct-26.3 mcv-90mch-30.5 mchc-34.1 rdw-15.6 glucose-117 urea n-70 creat-2.4sodium-131 potassium-4.8 chloride-92 total co2-25 anion gap-19 albumin-3.2 calcium-7.9 phosphate-3.3magnesium-3.1 altsgpt-19 astsgot-17 ldldh-224 alkphos-265 amylase-35 tot bili-0.5 pt-14.1 ptt-26.9 inrpt-1.3
+  ASR transcription:  WBC 2294HGB 9, Chelsea City & Tireme 1934, 100W 15.6, Glucose 1.13, Sodium 45, Alkfors 265, MLS 35, Taut Billy 0.5, PAT14.1, PTT 226.9, Inf2R 132
+  WER: 1.0000, CER: 0.7468
+Evaluating: d3e9329d2f6855dc1b51662b4a05bd6c_tts.wav
+  Original text: personal history of transient ischemic attack (tia), and cerebral infa. injectable, injection pentamidine isethionate, pentamidine isethionate, 300mg/vial. displacement of electronic bone stimulator, subsequent encounter
+  ASR transcription:  Personal history of transient ischemic attack. TIA and cerebral infar. Injectable. Injection. Pentamidine isethionate. Pentamidine isethionate. 300 pneumatrivionate. 300 splicement of electronic bone stimulator. Subsequent encounter.
+  WER: 0.5417, CER: 0.1318
+Evaluating: 307098d300862088b36c71af69ea6f0a_tts.wav
+  Original text: on psv of 14cm above 8cm peep.
+  ASR transcription:  on PSV or 14cm above 8cm peak.
+  WER: 0.2857, CER: 0.1000
+Evaluating: bac9c66bf6378bf1fc2dbadcf90a843a_tts.wav
+  Original text: lung sounds rll lung sounds: clear rul lung sounds: diminished lul lung sounds: clear lll lung sounds: diminished comments: secretions sputum color / consistency: blood tinged / thick sputum source/amount: suctioned / moderate comments: ventilation assessment level of breathing assistance: continuous invasive ventilation visual assessment of breathing pattern: normal quiet breathing assessment of breathing comfort:
+  ASR transcription:  lung sounds, RL lung sounds, clear LL lung sounds, diminished LL lung sounds, clear LLL lung sounds, diminished comments, secretion sputum color, consistency, blood tinged thick sputum source, amount, suctioned moderate comments, ventilation, assessment level of breathing assistance, continuous invasive ventilation, visual assessment of breathing pattern, normal quiet breathing assessment of breathing comfort,
+  WER: 0.4182, CER: 0.0646
+Evaluating: d12d939b1b7285d3e3eda536e41bce83_tts.wav
+  Original text: topical bactroban to be applied three times a day to affected naris, prednisone 5 mg p.o. q.a.m., k-dur 10 meq x2 p.o. q.d., oxycontin 10 mg p.o. q.12h., clindamycin 300 mg p.o. q.i.d., lisinopril 10 mg p.o. q.d., atenolol 25 mg p.o. q.d., trazodone 100 mg p.o. q.h.s., prilosec 40 mg p.o. q.d, clotrimazole 1% cream topical to be applied b.i.d.
+  ASR transcription:  Topical Bactroban to be applied 3 times a day to affected Nares, Pertnus-15, Imangipo, QN, Qidro-10, Mercury, Acetopo, QD, Oxycontin-10, Imgipo, Q12, Clindacin-300, Imgiputi, Trazodone, 100mg, POQ, QHS, Proteic, 40mg, PO, QD, Clotrim, Azolea, 1% Cream, Topical to be applied, BID.
+  WER: 0.7705, CER: 0.4290
+Evaluating: 3e91e386f97ddec8592c80a4703d9b05_tts.wav
+  Original text: there is a question of an allergy to tylenol .
+  ASR transcription:  There is a question of an allergy to Tylenol cause two.
+  WER: 0.2000, CER: 0.1957
+Evaluating: 0a644408dcda887eac373975954ca069_tts.wav
+  Original text: her left arm has developed a flexure contraction and she reports intermitttent pain in the left arm and leg which occurs both spontaneously and is also triggered by contact .
+  ASR transcription:  Mpwla ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa ndiwa
+  WER: 3.7000, CER: 3.4310
+Evaluating: a98b01660c028a0d91ebb5a4b696c6b6_tts.wav
+  Original text: wt 1800 down 30.
+  ASR transcription:  WT 18 or down 30
+  WER: 0.7500, CER: 0.2500
+Evaluating: 5a2b7e6671ca19270737fde1011841a8_tts.wav
+  Original text: of note, nortriptyline level came back as 43 ( subtherapeutic -- normal 50-150 ) .
+  ASR transcription:  Of note, no triptyline level came back as 43, subtherapeutic, normal 50, 150.
+  WER: 0.6000, CER: 0.1341
+Evaluating: 865c51845eeafdc58a842b5f040b17a5_tts.wav
+  Original text: plan to continue resp support.
+  ASR transcription:  plan to continue with support of my hosted Ursa Maa 30 dish dish.
+  WER: 2.0000, CER: 1.3000
+Evaluating: cf80aad8091365802148ae9c567eff6d_tts.wav
+  Original text: atherosclerosis of other type of bypass graft(s) of the extremities wi. cream, topical clotrimazole, clotrimazole, 1%. corrosion of unspecified degree of left wrist, subsequent encounter
+  ASR transcription:  atherosclerosis of other type of bypass graft, S of the extremities V, CRIM, topical clotrimazole, clotrimazole 1%, corrosion of unspecified degree of left wrist, subsequent encounter,
+  WER: 0.2800, CER: 0.0591
+Evaluating: 61f1dd8110b4bcde38a4d5ff6073549b_tts.wav
+  Original text: parasympathetic: from vagus nerves, via branches of laryngeal nerves.
+  ASR transcription:  parasympathetic from vagus nerve via branches of laryngeal nerves.
+  WER: 0.2222, CER: 0.0435
+Evaluating: 48d577c8182274498f98c99e2e4b7d7c_tts.wav
+  Original text: 3 history of the present complaint, the medical history, a medical history is important as it aids the diagnosis of oral manifestations of systemic disease.
+  ASR transcription:  Three history of the present complaint, the medical history. A medical history is important as it aids the diagnosis of oral manifestations of systemic disease.
+  WER: 0.0800, CER: 0.0385
+Evaluating: faa7fc5f12c5691cb346b10cc553c49d_tts.wav
+  Original text: encounter for mental health services for victim of spousal or partner. tablet, extended release, oral altoprev, lovastatin, 20mg. other chondrocalcinosis, left wrist
+  ASR transcription:  Mbaya mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo mbayo
+  WER: 6.7273, CER: 5.0788
+Evaluating: c11c3aa7508dc7af45e38e2ab252a27d_tts.wav
+  Original text: the strength was 5 out of 5 .
+  ASR transcription:  The strength was five out of five.
+  WER: 0.3750, CER: 0.2759
+Evaluating: 7ba0f26a5699ebc1c58a5e6d5f42e153_tts.wav
+  Original text: displaced fracture of medial condyle of right femur, subsequent encoun. lotion, topical gamene, lindane, 1%. other cardiac complications of anesthesia during pregnancy, second tri
+  ASR transcription:  displaced fracture of medial condyle of right femur, subsequent income, lotion, topical germini, lindane, 1%, other cardiac complications of anesthesia during pregnancy, second stream,
+  WER: 0.1667, CER: 0.0782
+Evaluating: 46144a5b03c77285cf68e0e9c2a73862_tts.wav
+  Original text: this moving sense, with normal electroencephalogram, was thought to be a mild vestibular dysfunction or from the acute episode of the stroke .
+  ASR transcription:  His moving sense with normal electroencephalogram was thought to be a mild vestibular dysfunction or from the acute episode of the stroke.
+  WER: 0.2174, CER: 0.0282
+Evaluating: 8ad62867f60255559187428ac2f00c78_tts.wav
+  Original text: deletion of short arm of chromosome 5. tablet, oral olmesartan medoxomil, olmesartan medoxomil, 40mg. displaced fracture of medial condyle of unspecified femur, subsequent
+  ASR transcription:  deletion of short arm of chromosome 5 tablet oral on a certain made doc some on a certain displaced fracture of media condyle of unspecified femur subsequent
+  WER: 0.5652, CER: 0.2339
+Evaluating: ce93289b92cdbd628fbd6fea7417a850_tts.wav
+  Original text: the glossopharyngeal is the main sensory nerve but supplies motor fibres to stylopharyngeus.
+  ASR transcription:  The gloss of a ring gear is the main sensor in a god supplies motor fibers to style of arrangers.
+  WER: 1.0000, CER: 0.2826
+Evaluating: 7202e4d9ad938fbe12098e7cd38f26f0_tts.wav
+  Original text: signed electronically by : dr. michelle k. partin on : wed 2019-04-17 1:13 pm
+  ASR transcription:  signed electronically by Dr. Michel K. Patinonu, with the 12th August, 19471, 13pm.
+  WER: 0.6429, CER: 0.4286
+Evaluating: 781343ff03cf4e4b7b73026f543064d1_tts.wav
+  Original text: at the time of discharge, he is breastfeeding or taking enfamil fortified to 24 calories / ounce with intake approximately 150 cc / kg / day .
+  ASR transcription:  kwa mpyao kwa mpyao, ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpyao ili mpya
+  WER: 5.4815, CER: 4.7465
+Evaluating: ebb71826279ac2e337bd8a6ae05889ca_tts.wav
+  Original text: she is married and lives with her husband .
+  ASR transcription:  She is married and lives with her husband, Uja Nont.
+  WER: 0.3333, CER: 0.2093
+Evaluating: dde3337816d622bd0de56b2dff9694f7_tts.wav
+  Original text: the patient complains of a slowly enlarging swelling under the tongue, occasionally affecting speech, and which is visible in the neck.
+  ASR transcription:  The patient complains of a slowly enlarging swelling under their tongue, occasionally affecting speech, and which is visible in the neck.
+  WER: 0.0476, CER: 0.0148
+Evaluating: d4d0d62d6ec4c2320febd153413dd223_tts.wav
+  Original text: there was an s4, no s3, grade ii/vi apical murmur in systole, no rubs .
+  ASR transcription:  There was an S4, no 33, great J6, a pickle of mama, insist only, no rubs.
+  WER: 0.7333, CER: 0.3521
+Evaluating: 91bb6fab75e04869880ca8f190e3a84b_tts.wav
+  Original text: given 1000cc fluid bolus as well for low bp.
+  ASR transcription:  given 1030 fluid, bolus as well for log BP.
+  WER: 0.3333, CER: 0.1136
+Evaluating: 8fe74ef79bcf21e6809757e078c43288_tts.wav
+  Original text: war operations involving explosion due to accidental detonation and di. elixir, oral theophylline, theophylline, 80mg/15ml. myositis ossificans progressiva, left finger(s)
+  ASR transcription:  war operations involving explosion due to accidental detonation and day. Elixir. Oral Theophylline. Theophylline. ATM game 15 Progressiva. Left finger. S.
+  WER: 0.5000, CER: 0.2105
+Evaluating: d48a1a21a3c2bdeeeebf0c989fba20f1_tts.wav
+  Original text: history: mrs. byekey is a 54-year-old white female with the past medical history significant for diabetes mellitus insulin dependent for the last 34 years as well as coronary artery disease congestive heart failure and end-stage renal disease status post renal transplant times one year ago.
+  ASR transcription:  history. Mrs. Baike is a 54-year-old white female. The past medical history is significant for diabetes, mellitus, insulin dependence for the last 34 years, as well as coronary artery disease, congestive heart failure, and end-stage renal disease status. Post-renal transplant times one year ago, her study is told
+  WER: 0.4222, CER: 0.1375
+Evaluating: 39380757959df999a9cb9bc612c07645_tts.wav
+  Original text: laceration without foreign body of left lesser toe(s) without damage t. injectable, injection metoprolol tartrate, metoprolol tartrate, 1mg/ml. nondisplaced transverse fracture of shaft of left fibula, subsequent e
+  ASR transcription:  Laceration without foreign body of left lesser toe, without damaged T injectable. Injection metal prolortatrate, metal prolortatrate or MNG, neon displaced transverse fracture of shaft of left fibula, subsequent
+  WER: 0.4643, CER: 0.1402
+Evaluating: 6c320bd7c17aaab737ed73f8f6ffd093_tts.wav
+  Original text: "this report builds on a previous analysis examining the long-term effects of a placebo period on a group of inpatients with chronic schizophrenia.
+  ASR transcription:  This report builds on a previous analysis examining the long-term effects of a placebo period on a group of inpatients with chronic schizophrenia.
+  WER: 0.0435, CER: 0.0068
+Evaluating: bb522f22836a836bc5f34fbad45bc7eb_tts.wav
+  Original text: displaced fracture of medial condyle of right tibia, subsequent encoun. injectable, injection proferdex, iron dextran, eq 50mg iron/ml. nondisplaced fracture of pisiform, right wrist, initial encounter for
+  ASR transcription:  Displaced fracture of medial condyle of right tibia. Subsequent encounter. Injectable injection prophodex. Iron dextran. EQ 15 iron. Non-displaced fracture of pisiform. Right wrist. Initial encounter form.
+  WER: 0.4074, CER: 0.1073
+Evaluating: 999bf657729e0c896bf9d6d7dbe0ece0_tts.wav
+  Original text: abd wound remains open with yellow tissue on left wound edge and small amount of s/s drainage noted.
+  ASR transcription:  abd, want, remains ozed with yellow tissue on left lung edge and small amount of S drainage noted.
+  WER: 0.2778, CER: 0.1200
+Evaluating: d8000b420fd223ff2fc5f9c6e59cf476_tts.wav
+  Original text: his atrioventricular valve gradient was 27 with an av surface area of .91 .
+  ASR transcription:  His atrioventricular valve gradient was 27 with an EV surface area of 91.
+  WER: 0.2143, CER: 0.0400
+Evaluating: 5265dfb94900d71985278e2e2489480a_tts.wav
+  Original text: underwent treatment with interferon 10 years ago .
+  ASR transcription:  underwent treatment with interferon 10 years ago.
+  WER: 0.2500, CER: 0.0200
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs/english_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.5034
+Real‑Time Factor (RTF): 0.2746
+Latency (avg inference time): 2.8616 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 2.4675
+Character Error Rate (CER): 1.7543
+Number of samples evaluated: 104
+
+=== GROUND TRUTH AUDIO EVALUATION METRICS ===
+Mel Cepstral Distortion (MCD): 385.9711 dB (lower is better)
+Perceptual Evaluation of Speech Quality (PESQ): 1.4821 (higher is better)
+Short-Time Objective Intelligibility (STOI): 0.1259 (higher is better)
+Number of samples compared: 106

@@ -1,0 +1,116 @@
+Loading TTS model...
+Running TTS on kinyarwanda/test...
+[1fd65fa3-f099-48d5-af3b-5b9cec877eed/b964d40630eb001840de2fc522e6dce7] inf_time 2.359s | dur 7.381s | RTF 0.320 | dyn_rng 0.570
+[dfc8f4f3-9dd0-4652-9966-77f2dec7efd4/06feaf3c2020c40b15bb36b3c2079f74] inf_time 1.671s | dur 6.027s | RTF 0.277 | dyn_rng 0.461
+[138656e2-f123-44ef-958c-9b9367fd4d37/66df77ee474537ce84bf72726a5e5ff2] inf_time 1.639s | dur 5.888s | RTF 0.278 | dyn_rng 0.485
+[b1890574-be29-4998-8f83-67edaa5dee2a/bd46f96bdb86dada40e770c07db87497] inf_time 2.051s | dur 7.520s | RTF 0.273 | dyn_rng 0.469
+[e7075374-6242-4832-a6cc-d83351de347a/034bb0cdb711ed0df532871cf820c65f] inf_time 1.039s | dur 3.616s | RTF 0.287 | dyn_rng 0.420
+[b3a4ca8f-a094-47f0-97f6-e919d54d288a/649ec2f5ddaea7242b015c5e68aca402] inf_time 3.419s | dur 12.811s | RTF 0.267 | dyn_rng 0.581
+[f688e854-9637-44d5-bdc9-0a3a4d9ff36d/bd694022f4c0cef5d946245ed3755f69] inf_time 0.962s | dur 3.296s | RTF 0.292 | dyn_rng 0.358
+[6d86880c-b0c3-47d3-91b3-f86fd5a02ece/0779a9355298948f4b43f74e23396b19] inf_time 2.710s | dur 9.888s | RTF 0.274 | dyn_rng 0.602
+[0a9930c8-6cf3-46e7-be75-a0ccb9005fbe/f489db1fd849f640196b2e561e414aaf] inf_time 3.171s | dur 11.605s | RTF 0.273 | dyn_rng 0.520
+[dcf2f19d-a906-4a8a-a94c-030598a21f70/9dfb35bb8e128dc3dadc28ddfbb111f0] inf_time 1.791s | dur 6.496s | RTF 0.276 | dyn_rng 0.441
+[e40bbb9b-2317-47b3-94ed-b4f598c9b838/e2f88c2cc4289738642af5c8454d7029] inf_time 2.997s | dur 11.189s | RTF 0.268 | dyn_rng 0.512
+[da91b5f3-e396-4ed3-bc68-b62955210909/463f792169ac86b89393a6aa843be90f] inf_time 2.706s | dur 9.931s | RTF 0.272 | dyn_rng 0.545
+[a7e0eb45-3760-4f3f-89bd-b88eb34f7d59/19e65fbf958131f16fd7d246f9c44c2c] inf_time 1.949s | dur 7.008s | RTF 0.278 | dyn_rng 0.432
+[882536df-2566-4e68-b131-07fddf361628/ff2fe5661cba64b04d9561cf5d61aafc] inf_time 3.861s | dur 14.485s | RTF 0.267 | dyn_rng 0.577
+[9e10bf6b-1f1f-4a20-8628-1922f66bdaad/b1d1fe40c6a03f5863941a88dbd25db2] inf_time 2.947s | dur 10.955s | RTF 0.269 | dyn_rng 0.512
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs_kinyarwanda/kinyarwanda_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Warning: Missing audio files for 1fd65fa3-f099-48d5-af3b-5b9cec877eed/b964d40630eb001840de2fc522e6dce7
+Warning: Missing audio files for dfc8f4f3-9dd0-4652-9966-77f2dec7efd4/06feaf3c2020c40b15bb36b3c2079f74
+Warning: Missing audio files for 138656e2-f123-44ef-958c-9b9367fd4d37/66df77ee474537ce84bf72726a5e5ff2
+Warning: Missing audio files for b1890574-be29-4998-8f83-67edaa5dee2a/bd46f96bdb86dada40e770c07db87497
+Warning: Missing audio files for e7075374-6242-4832-a6cc-d83351de347a/034bb0cdb711ed0df532871cf820c65f
+Warning: Missing audio files for b3a4ca8f-a094-47f0-97f6-e919d54d288a/649ec2f5ddaea7242b015c5e68aca402
+Warning: Missing audio files for f688e854-9637-44d5-bdc9-0a3a4d9ff36d/bd694022f4c0cef5d946245ed3755f69
+Warning: Missing audio files for 6d86880c-b0c3-47d3-91b3-f86fd5a02ece/0779a9355298948f4b43f74e23396b19
+Warning: Missing audio files for 0a9930c8-6cf3-46e7-be75-a0ccb9005fbe/f489db1fd849f640196b2e561e414aaf
+Warning: Missing audio files for dcf2f19d-a906-4a8a-a94c-030598a21f70/9dfb35bb8e128dc3dadc28ddfbb111f0
+Warning: Missing audio files for e40bbb9b-2317-47b3-94ed-b4f598c9b838/e2f88c2cc4289738642af5c8454d7029
+Warning: Missing audio files for da91b5f3-e396-4ed3-bc68-b62955210909/463f792169ac86b89393a6aa843be90f
+Warning: Missing audio files for a7e0eb45-3760-4f3f-89bd-b88eb34f7d59/19e65fbf958131f16fd7d246f9c44c2c
+Warning: Missing audio files for 882536df-2566-4e68-b131-07fddf361628/ff2fe5661cba64b04d9561cf5d61aafc
+Warning: Missing audio files for 9e10bf6b-1f1f-4a20-8628-1922f66bdaad/b1d1fe40c6a03f5863941a88dbd25db2
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_kinyarwanda/kinyarwanda_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: b964d40630eb001840de2fc522e6dce7_tts.wav
+  Original text: apart from the paucity of funding and insecurity in parts of the country, successive governments fail to perform.
+
+  ASR transcription:  Apart from the paucity of funding and insecurity in parts of the country, successive governments failed to perform.
+  WER: 0.0556, CER: 0.0177
+Evaluating: 06feaf3c2020c40b15bb36b3c2079f74_tts.wav
+  Original text: im not the first person to think he should run for higher office, by the way.
+
+  ASR transcription:  He is not the first person to think he should run for higher office by the way.
+  WER: 0.1875, CER: 0.0649
+Evaluating: 66df77ee474537ce84bf72726a5e5ff2_tts.wav
+  Original text: all of them, especially the phalanges, are slightly concave on the inferior plantar side.
+  ASR transcription:  Ndia ola, ndia falange, yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa yonwa
+  WER: 10.5714, CER: 9.5843
+Evaluating: bd46f96bdb86dada40e770c07db87497_tts.wav
+  Original text: atovaquone is poorly absorbed from the gastrointestinal tract, but absorption is increased with a fatty meal.
+  ASR transcription:  Atova corn is poorly absorbed from the gastrointestinal tract that absorption is increased with a fatty meal.
+  WER: 0.2500, CER: 0.0734
+Evaluating: 034bb0cdb711ed0df532871cf820c65f_tts.wav
+  Original text: assess the appearance of the surrounding tissue.
+  ASR transcription:  wanafanya wa kwa hiyo wa kwa kwa kwa
+  WER: 1.1429, CER: 0.8333
+Evaluating: 649ec2f5ddaea7242b015c5e68aca402_tts.wav
+  Original text: assessment should also include assessing thepatient for any signs of respiratory distress, such as nasal aring, grunting, or retractions oxygen-depleted patients often exhibitthese signs.
+
+  ASR transcription:  Assessment should also include assessing the patient for any signs of respiratory distress such as nasal airing, grunting, or retractions, oxygen depleted patients often exhibit these signs.
+  WER: 0.3750, CER: 0.0321
+Evaluating: bd694022f4c0cef5d946245ed3755f69_tts.wav
+  Original text: leydig cell tumour2.
+  ASR transcription:  Lady Excel Tomato on my corner
+  WER: 2.0000, CER: 1.1000
+Evaluating: 0779a9355298948f4b43f74e23396b19_tts.wav
+  Original text: usually, perspiration evaporates about as fast as it is produced, so it is not noticed this is called   insensible perspiration.
+  ASR transcription:  Kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo,
+  WER: 7.4000, CER: 5.9062
+Evaluating: f489db1fd849f640196b2e561e414aaf_tts.wav
+  Original text: urgent surgical decompression of the orbit is required if medical treatment is not successful and visual acuity deteriorates due to optic nerve compression.
+  ASR transcription:  Urgent surgical decompression of the orbit is required if medical treatment is not successful and visual acuity relates due to optic nerve compression.
+  WER: 0.0435, CER: 0.0449
+Evaluating: 9dfb35bb8e128dc3dadc28ddfbb111f0_tts.wav
+  Original text: multiple juvenile papillomas may undergo spontaneous regression at puberty.
+  ASR transcription:  mwatipo juwenali papilomas may ondago spontaniyos regrasyon at prubeti.
+  WER: 0.7778, CER: 0.2667
+Evaluating: e2f88c2cc4289738642af5c8454d7029_tts.wav
+  Original text: sedation can occur following scopolamine administration, and preanesthetic or postoperative agitation has been observed in some patients.
+  ASR transcription:  Seda can oku following scopolamine administration and pre-anesthetic or postoperative agitation has been observed in some patients.
+  WER: 0.2353, CER: 0.0657
+Evaluating: 463f792169ac86b89393a6aa843be90f_tts.wav
+  Original text: other compoundsseveral other   -adrenoceptor antagonists,similar to labetalol,exhibit some degree of   -receptor antagonism.
+  ASR transcription:  Other compounds several other noceptor antagonists similar to labetalum exhibit some degree of receptor antagonism.
+  WER: 0.6667, CER: 0.1210
+Evaluating: 19e65fbf958131f16fd7d246f9c44c2c_tts.wav
+  Original text: the lungs receive only a trickle of blood, sufficiently to meet their metabolic needs during development.
+  ASR transcription:  Their lungs receive only a trickle of blood, sufficiently to meet their metabolic needs during development.
+  WER: 0.0625, CER: 0.0190
+Evaluating: ff2fe5661cba64b04d9561cf5d61aafc_tts.wav
+  Original text: morphology better cellularmorphology of aspirations mears better marrow architectural pattern but cell morphology but marrow architecture is in distinctis not as distinct since tissue sections are examined and not  smears6.
+  ASR transcription:  Morphology, beta cellular morphology of aspiration, SMEIRS beta marrow architectural pattern, but cell morphology but marrow architecture is indistinct is not as distinct since tissue sections are examined and not SMEIRS6.
+  WER: 0.3667, CER: 0.0717
+Evaluating: b1d1fe40c6a03f5863941a88dbd25db2_tts.wav
+  Original text: in most people, these flaps fuse and permanently seal the foramen during the first year, leaving a depression, the fossa ovalis, in the interatrial septum see fig.
+  ASR transcription:  Mpwle wana, anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa anjengwa an
+  WER: 4.1481, CER: 5.6626
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_kinyarwanda/kinyarwanda_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.4991
+Real‑Time Factor (RTF): 0.2781
+Latency (avg inference time): 2.3515 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 1.8855
+Character Error Rate (CER): 1.5909
+Number of samples evaluated: 15

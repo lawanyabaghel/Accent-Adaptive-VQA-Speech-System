@@ -1,0 +1,54 @@
+Loading TTS model...
+Running TTS on south-african-english/test...
+[24f8c197-50d6-4c91-81e2-140b42c3e83d/0e227486f716e933f0b02338331e2f61] inf_time 2.509s | dur 8.032s | RTF 0.312 | dyn_rng 0.416
+[c55948b2-77f1-41f6-8115-f5eefde8a3e6/9f1b1b93d0826f1d5b5d12abe64802f0] inf_time 4.147s | dur 15.691s | RTF 0.264 | dyn_rng 0.558
+[41ef116e-539e-41c4-bf87-1c2f2634bf20/7166101f4a0f3fc3a4e7c34511a1d8a2] inf_time 2.786s | dur 10.485s | RTF 0.266 | dyn_rng 0.526
+[a14e5b17-86c7-4059-81f1-d26205b84f58/dbcb4970763fbf8946239f693561c9e6] inf_time 1.383s | dur 4.960s | RTF 0.279 | dyn_rng 0.515
+[b47dba79-7042-4817-8567-afb66ac7f633/eab0b2162feafde8779d23dfde3354fe] inf_time 3.130s | dur 11.744s | RTF 0.266 | dyn_rng 0.536
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs_SA_english/south-african-english_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Warning: Missing audio files for 24f8c197-50d6-4c91-81e2-140b42c3e83d/0e227486f716e933f0b02338331e2f61
+Warning: Missing audio files for c55948b2-77f1-41f6-8115-f5eefde8a3e6/9f1b1b93d0826f1d5b5d12abe64802f0
+Warning: Missing audio files for 41ef116e-539e-41c4-bf87-1c2f2634bf20/7166101f4a0f3fc3a4e7c34511a1d8a2
+Warning: Missing audio files for a14e5b17-86c7-4059-81f1-d26205b84f58/dbcb4970763fbf8946239f693561c9e6
+Warning: Missing audio files for b47dba79-7042-4817-8567-afb66ac7f633/eab0b2162feafde8779d23dfde3354fe
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_SA_english/south-african-english_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: 0e227486f716e933f0b02338331e2f61_tts.wav
+  Original text: the validation study must be done on at least 25100 cases, which include negative and positive samples.
+  ASR transcription:  The validation study must be done on at least 25,100 cases, which include negative and positive samples.
+  WER: 0.0588, CER: 0.0097
+Evaluating: 9f1b1b93d0826f1d5b5d12abe64802f0_tts.wav
+  Original text: it is used to treat patientsanterior pituitary hormones andrelated drugsgrowth hormone: physiology andpathophysiologygrowth hormone gh is a 191-amino-acid protein secreted bythe acidophil cells in the anterior pituitary.
+
+  ASR transcription:  It is used to treat patients' anterior pituitary hormone and related drugs growth, physiology and pathophysiology growth. Hormone Gage is a 191 amino acid protein secreted by acidophyses in the anterior pituitary.
+  WER: 0.6296, CER: 0.1409
+Evaluating: 7166101f4a0f3fc3a4e7c34511a1d8a2_tts.wav
+  Original text: energy is not made here, but it is extracted from organic compounds and transferred to atp, primarily by enzymes located on the cristae.
+  ASR transcription:  Energy is not made here, but it is extracted from organic compounds and transferred to ATP primarily by enzymes located on the cristae.
+  WER: 0.0435, CER: 0.0074
+Evaluating: dbcb4970763fbf8946239f693561c9e6_tts.wav
+  Original text: atelectasis can have other causes such as airway obstruction.
+  ASR transcription:  Atelectasis can have other causes such as airway obstruction.
+  WER: 0.0000, CER: 0.0000
+Evaluating: eab0b2162feafde8779d23dfde3354fe_tts.wav
+  Original text: acute intoxication can occur consisting of restlessness, anxiety, confusion, tachycardia, angina, cardiovascular collapse, convulsions, coma and death.
+  ASR transcription:  Mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya mbaya
+  WER: 8.7059, CER: 5.6424
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_SA_english/south-african-english_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.5102
+Real‑Time Factor (RTF): 0.2775
+Latency (avg inference time): 2.7911 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 1.8876
+Character Error Rate (CER): 1.1601
+Number of samples evaluated: 5

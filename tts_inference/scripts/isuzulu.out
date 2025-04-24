@@ -1,0 +1,659 @@
+Loading TTS model...
+Running TTS on isizulu/test...
+[13062a1b-662b-4afa-85b4-98f745968edc/c8d4a9e0c9022ca9686275dcc31f5af6] inf_time 1.515s | dur 3.755s | RTF 0.404 | dyn_rng 0.398
+[e167f866-0f45-492c-ae09-5a11675906c8/b82179cd3a2883af9982a610632b8070] inf_time 1.566s | dur 5.611s | RTF 0.279 | dyn_rng 0.350
+[04663103-6074-472c-9411-77a38d424b14/30bb4609c13ba7415cb450cb2f6279c3] inf_time 2.356s | dur 8.725s | RTF 0.270 | dyn_rng 0.412
+[9d0cba8c-775f-4580-8167-0a07b9794272/299b735bf8d8a68f80739d9b37906f34] inf_time 3.047s | dur 11.467s | RTF 0.266 | dyn_rng 0.584
+[1a92ae88-f2ac-4026-b6f1-f6f579db1f7d/b4494397ec1d7d4fad0296e35578ab2a] inf_time 2.285s | dur 8.491s | RTF 0.269 | dyn_rng 0.521
+[d886002a-9155-4c53-8bbd-a6d012bc9afa/9432eac91f7560f64ffe202d22903520] inf_time 3.628s | dur 13.739s | RTF 0.264 | dyn_rng 0.488
+[a9b554c0-6ed1-49df-b451-23645aca0752/400fc1fdc103c11496bf02c04f751eae] inf_time 2.478s | dur 9.237s | RTF 0.268 | dyn_rng 0.451
+[cb986750-b9b8-4b0b-8b01-0b84091d8da3/7db47fe316082e259e4e0e374249f821] inf_time 1.740s | dur 6.357s | RTF 0.274 | dyn_rng 0.549
+[cd827007-d8f9-4f03-b1a0-ac574119a917/52226a56e43ff358ccbee370c9e9f5f3] inf_time 1.401s | dur 5.013s | RTF 0.279 | dyn_rng 0.474
+[4aab29c9-be0f-45c4-b905-48bc29786e1f/f1eb330c7bebc3519171f20158e01f3f] inf_time 1.531s | dur 5.568s | RTF 0.275 | dyn_rng 0.506
+[f87bd47a-a001-4b68-a8eb-d0fa7410e6e3/33e8c1515cc9bef17eb0cade06a6a0ff] inf_time 1.275s | dur 4.597s | RTF 0.277 | dyn_rng 0.417
+[489a69ef-4bb3-426d-bc0d-828b62b0e7c0/5029b2da9c7b325832e873b9329c5ec3] inf_time 1.468s | dur 5.291s | RTF 0.277 | dyn_rng 0.407
+[f4fe2df8-c8cd-46d8-a667-a0543405c356/b1449f1c1f8218e64c22460bf1f30b8a] inf_time 1.268s | dur 4.544s | RTF 0.279 | dyn_rng 0.406
+[de2aa8b2-0df9-4228-a283-0c9e1ce1ac46/18411d31c20fc55a7eb062c03508af73] inf_time 3.699s | dur 13.973s | RTF 0.265 | dyn_rng 0.514
+[fbfdb88b-8064-4585-b15c-daccc7d8798d/22828d448ca4045cfa249a7a51ac15cf] inf_time 1.525s | dur 5.568s | RTF 0.274 | dyn_rng 0.392
+[da546b84-e703-45f5-b8b6-ae6636c204b3/65033d39e08e0fdf5eb9e772436738d6] inf_time 2.258s | dur 8.405s | RTF 0.269 | dyn_rng 0.503
+[6eba0e1e-ea34-4eaa-bc3e-89c10da2c126/4b0c0ea38f854a110f1058f8ca696919] inf_time 2.702s | dur 10.123s | RTF 0.267 | dyn_rng 0.578
+[09c01deb-c8ba-4fc9-8d55-f2f18ea63270/61c1c93524772691c786dccc63f2cefa] inf_time 1.312s | dur 4.736s | RTF 0.277 | dyn_rng 0.415
+[3513c887-3001-4a15-ac3b-c5c6cc925a5d/0df19846303788ca18cba5818d7d45c2] inf_time 2.700s | dur 10.069s | RTF 0.268 | dyn_rng 0.426
+[64ddc267-47d0-4b55-a3b5-c6fdc639ec1d/95d1141f153165a9e0375af30ad65b24] inf_time 1.363s | dur 4.917s | RTF 0.277 | dyn_rng 0.480
+[ce3d54c1-b3b3-440c-90e2-0ddb8b333949/b3ebfc8b05c59db27da98dcf6a69491b] inf_time 0.959s | dur 3.296s | RTF 0.291 | dyn_rng 0.376
+[ebb61cb9-f9f1-4b77-b7e4-52838040951f/33604662f33922f222c1a7f0a6ac57a7] inf_time 1.924s | dur 7.051s | RTF 0.273 | dyn_rng 0.452
+[89244cfa-b70e-42f4-a0cc-5365a47213d5/348e934ca0f63e297a149ac477144c08] inf_time 1.230s | dur 3.851s | RTF 0.319 | dyn_rng 0.448
+[c204f0dd-6caf-4bee-8eb2-4fb25cf0211f/de9ca5560990709efd1f893e064221ab] inf_time 1.539s | dur 5.237s | RTF 0.294 | dyn_rng 0.373
+[ab86be68-a391-4b61-9934-a0978465bab2/5753467473511a966d7fcfec86bd79ae] inf_time 2.303s | dur 8.491s | RTF 0.271 | dyn_rng 0.531
+[0e2a59f9-4322-49f5-8656-0bbc8c77b29d/b965aba61f3807fb66e5ec758dacca05] inf_time 1.516s | dur 5.429s | RTF 0.279 | dyn_rng 0.399
+[d4df42a0-cb8b-407d-98e5-c431a959c69b/e7c232b49b74cbe728eafab23607f8bd] inf_time 1.928s | dur 6.731s | RTF 0.286 | dyn_rng 0.468
+[ba52deb7-9703-4956-9e2e-9101aca22e92/49547d6963495481eb24926b453b71ee] inf_time 2.391s | dur 8.544s | RTF 0.280 | dyn_rng 0.556
+[c0065e18-8c58-41e2-a8b8-677ec3017a4d/f5626efd79c34fb45431562ff6d90606] inf_time 1.128s | dur 3.947s | RTF 0.286 | dyn_rng 0.387
+[5cf9234b-9cf0-45c7-b454-bf7e634a43d5/c6287d24d325839c1a2f3d6f85ca770f] inf_time 2.180s | dur 8.032s | RTF 0.271 | dyn_rng 0.471
+[fe5dabf6-316a-4329-a1cf-108c0050d9ab/563297754a40ef0cc145b5d478acf218] inf_time 2.199s | dur 7.979s | RTF 0.276 | dyn_rng 0.413
+[3aced193-45ee-46be-b0e7-5e1373b12916/55c62107bc824ee3892197c6ecacbd8d] inf_time 2.815s | dur 10.581s | RTF 0.266 | dyn_rng 0.544
+[4512e170-0cdc-435a-a9a0-9dc5af4798c9/1604fc94d5420718109de8e92d0a2018] inf_time 2.988s | dur 11.051s | RTF 0.270 | dyn_rng 0.454
+[9585a9d9-50a3-44b1-8f62-1d53e083614a/c500a79f0d3946ce1013942780514754] inf_time 2.336s | dur 8.629s | RTF 0.271 | dyn_rng 0.532
+[ca79d499-82a5-4c51-9b0d-b91f3b2fd6ee/047483804a9fd5bdbe5bb3d51f937b05] inf_time 2.548s | dur 9.515s | RTF 0.268 | dyn_rng 0.494
+[9aeb6116-d010-444a-852c-08c6e4e82a58/cd927f7eb550860e88f91243bd568eec] inf_time 3.105s | dur 11.701s | RTF 0.265 | dyn_rng 0.488
+[eb9065ac-0fbe-482c-a13d-87cc88190185/dda7cb46075e3f742bc2f836a0a91f20] inf_time 1.715s | dur 6.219s | RTF 0.276 | dyn_rng 0.475
+[b601ef4a-cc73-416d-8079-cd66d204027b/64c1d47853c3d95cd8c0ac4e311882c0] inf_time 0.823s | dur 2.827s | RTF 0.291 | dyn_rng 0.279
+[f6294046-5166-45a0-b4a1-8e55f0b2e84a/60fa3f85d5ae8d1407d0d40124bc18ab] inf_time 2.138s | dur 7.840s | RTF 0.273 | dyn_rng 0.467
+[b54a7b0b-596c-43c2-b141-d6544e449286/a4f46f823f025a7ba9465c03f2ef7b65] inf_time 1.174s | dur 4.128s | RTF 0.284 | dyn_rng 0.419
+[9b97edf1-819b-4f8c-ae1e-6d78ed94f8c7/a3efcef25b594cfd799a153263468e9d] inf_time 1.337s | dur 4.917s | RTF 0.272 | dyn_rng 0.411
+[38a26b31-dd7b-45bd-a340-1f2b1a112d47/35e15f91ba2bdbc73870ac470e4502c2] inf_time 3.817s | dur 14.389s | RTF 0.265 | dyn_rng 0.622
+[c43d68a5-aa37-474c-93be-1056b49ec071/3a7cfe83c2ea3c54368d7f711aa94825] inf_time 1.867s | dur 6.869s | RTF 0.272 | dyn_rng 0.423
+[a28a5bb6-ba72-4c0b-8435-fb32c5ab7063/b519bde996cc9bcde5ecb2edff4e0931] inf_time 1.309s | dur 4.640s | RTF 0.282 | dyn_rng 0.513
+[0ae59923-7716-49b3-a9c0-dbfbc1cbcbd1/8c6c1d7b05b16d07e3284c92fff50671] inf_time 3.904s | dur 14.667s | RTF 0.266 | dyn_rng 0.518
+[a4cb74fc-7a46-46a0-873e-a39fbbfcb86a/0c7d3e3bdb734fae9d6fa8c208df2dc9] inf_time 2.327s | dur 8.587s | RTF 0.271 | dyn_rng 0.483
+[f4d6a462-a3e7-4c60-b928-ccd6e881c2f9/1fbf6458cedbf3b301ef96eab8c71ca0] inf_time 3.985s | dur 15.040s | RTF 0.265 | dyn_rng 0.520
+[47e32954-5012-4a2b-afb7-a027c888992e/5fce0a0ee615ca3a8b81d2d2c3b8c1a6] inf_time 2.424s | dur 9.045s | RTF 0.268 | dyn_rng 0.456
+[b4ba5571-b981-4d8f-b24d-493d48c28e4a/0cdca80c53c9a4e8df17a4a13a28ba29] inf_time 1.698s | dur 6.176s | RTF 0.275 | dyn_rng 0.544
+[cc70e3aa-da9f-4671-8d6b-7be27946c5ba/8789df7e1355482528d36092974135b1] inf_time 1.692s | dur 6.080s | RTF 0.278 | dyn_rng 0.361
+[b548dfc4-3ef9-4ec6-8f68-163777c3916c/0aff2526c38a682b6f3f9564c9300ac4] inf_time 2.022s | dur 7.424s | RTF 0.272 | dyn_rng 0.670
+[5b57ed3e-26ac-4e64-9dab-c5bc122f6ee2/b9acd182e10cde935dbfbda4f4396d28] inf_time 2.566s | dur 9.557s | RTF 0.269 | dyn_rng 0.450
+[a6549189-dee7-40d6-bbdc-eade72abe8d4/b3902dd2888bc403885828eb07d71172] inf_time 2.632s | dur 9.835s | RTF 0.268 | dyn_rng 0.580
+[acb76e83-c11c-4dfb-8664-7bed215ccca4/7c68ea3380d88a319e67ff1586620db5] inf_time 3.163s | dur 11.840s | RTF 0.267 | dyn_rng 0.633
+[a5673675-e738-4ca6-bcf2-f7d9f4fe05c7/eb6ea5b6b5f7072e81523e85386f60be] inf_time 1.567s | dur 5.664s | RTF 0.277 | dyn_rng 0.394
+[0527743c-10c4-43e0-96d2-b4a43c6e0bc9/bfee7fc9bfe454e5728228c55fb6f873] inf_time 2.005s | dur 7.424s | RTF 0.270 | dyn_rng 0.466
+[0380e5b2-85b6-4e09-ac50-27298d731ef7/4c0d423d5b8fbbc606f7b3ebe80ae962] inf_time 3.139s | dur 11.787s | RTF 0.266 | dyn_rng 0.605
+[53ccb838-bfb4-4f4e-8213-cc56335d368d/38f77af4d767e59fa1265b673d44f482] inf_time 1.346s | dur 4.875s | RTF 0.276 | dyn_rng 0.438
+[2fbd32e0-df5e-49f2-89e0-36b986a0f124/747e156322ed705e7a2c3fe0a2b4f3af] inf_time 3.354s | dur 12.715s | RTF 0.264 | dyn_rng 0.542
+[2da524ae-8399-4e7e-b3e6-8f808df74041/afd134228e5b042d6ead5a8cb0362b9e] inf_time 2.666s | dur 9.888s | RTF 0.270 | dyn_rng 0.441
+[571494ef-2342-4d3b-bf2b-429a0dae002d/cd9afe4d473e652cca54ece3a2ebe8e4] inf_time 2.712s | dur 10.165s | RTF 0.267 | dyn_rng 0.469
+[231e37f9-2cf4-42a9-8153-e208ab0304fb/16638445f8261ee3aad84c333bb79cb1] inf_time 1.520s | dur 5.611s | RTF 0.271 | dyn_rng 0.526
+[731b1ea2-a356-4b0d-9862-5d96c76709a1/366f5364abb882d0eb026bdf5ba2dcc1] inf_time 3.349s | dur 12.715s | RTF 0.263 | dyn_rng 0.535
+[b9b3d73b-34ce-41cb-80cd-d7a7b2dce845/c736b9e667f423c15ffcd9332bd9d697] inf_time 1.973s | dur 7.243s | RTF 0.272 | dyn_rng 0.431
+[919d557b-0a29-4add-8368-5c50b6de63a1/5cc06c1e9a51517e1eac28cd638a0faa] inf_time 1.264s | dur 4.448s | RTF 0.284 | dyn_rng 0.520
+[2f49d3b9-fdb2-4cbe-82b6-e9c0ce209fbf/4208cb733a61ddecc601bae8a1a3fb2d] inf_time 1.783s | dur 6.176s | RTF 0.289 | dyn_rng 0.521
+[4fa123e0-0da3-4de7-9189-ff7bd85dace9/89e91fb03ff34b26f7d55e1b238745e4] inf_time 2.354s | dur 8.544s | RTF 0.276 | dyn_rng 0.481
+[1cfb7c50-12f0-4dd4-a798-69296bb20044/94eb4b5fb36839e64288efb549eb9b23] inf_time 2.722s | dur 9.696s | RTF 0.281 | dyn_rng 0.403
+[cb622f6c-c695-471d-98a4-cada9ca3eb4f/883e4a610b6dd691537f4b1706856590] inf_time 2.536s | dur 9.237s | RTF 0.275 | dyn_rng 0.431
+[c0acd02c-3fae-47c0-82c1-1108ffd8d6a0/e863d2844ed92ab5cba6472d5437b3e5] inf_time 1.910s | dur 6.965s | RTF 0.274 | dyn_rng 0.521
+[1b17658b-f495-4e96-a539-44e36c6d3181/4776fed3dce347f1993b287f3887207d] inf_time 2.971s | dur 11.051s | RTF 0.269 | dyn_rng 0.538
+[71182f55-fcd7-41b4-8dfe-dd3693515794/ca1ff079bb0044f6470cd08378af053a] inf_time 1.494s | dur 5.099s | RTF 0.293 | dyn_rng 0.492
+[5af014f3-af3d-471f-ac46-b899e0596738/8c50b66084fa5e8fc10d571f31df81a6] inf_time 1.866s | dur 6.453s | RTF 0.289 | dyn_rng 0.383
+[2944d4a8-8a18-44f2-8c94-ced6bf4f1567/60dcfcfb8c02c2923f23b46c3bced297] inf_time 1.832s | dur 6.592s | RTF 0.278 | dyn_rng 0.378
+[f185304e-fa0e-473a-b2e2-21343c0a1441/aa8ea5e0ff1a2c2c32c619d5f1ade55e] inf_time 2.071s | dur 7.328s | RTF 0.283 | dyn_rng 0.406
+[f214cce5-016a-4a03-8671-38539b84a596/7271095bb70efad2f547784e724512e1] inf_time 2.017s | dur 7.104s | RTF 0.284 | dyn_rng 0.477
+[1c6146c0-b3e8-40c6-91b9-e9136488d2d0/4de7c78205761d6381d490e0b2f09311] inf_time 3.133s | dur 11.701s | RTF 0.268 | dyn_rng 0.525
+[6eddca71-abf0-47e1-b16b-de54a7dea0de/07b679b4e0be6823459cac67dd561093] inf_time 1.687s | dur 6.123s | RTF 0.276 | dyn_rng 0.416
+[79f091f7-2d9c-4afc-bd8a-41d9f2cbb954/e03c8fd0794a112a9435c8a9f0bacc3c] inf_time 0.997s | dur 3.339s | RTF 0.298 | dyn_rng 0.386
+[3dd8ba01-0a55-4735-a1c4-0cc887775d55/b730a442aab312d68b96e364f391d013] inf_time 2.343s | dur 8.587s | RTF 0.273 | dyn_rng 0.595
+[5e41e312-9f73-417b-8fb4-4410793a770b/853148ef3c936060dc84c5d145295eb6] inf_time 2.753s | dur 9.653s | RTF 0.285 | dyn_rng 0.531
+[4531f5ef-86f6-4e68-b056-085da707581a/3b0aba01193f56cc5415df9e237fef74] inf_time 2.205s | dur 7.755s | RTF 0.284 | dyn_rng 0.420
+[a490d2ad-355a-41e9-a50e-6f8cee1674f8/a4f92404c8b5775da74ba72a7cec118c] inf_time 1.815s | dur 6.635s | RTF 0.274 | dyn_rng 0.447
+[15b4bfd5-dcd8-46a3-8d08-3769745db934/b242c3278c80edffe8ec39d8fb96c98b] inf_time 2.494s | dur 9.195s | RTF 0.271 | dyn_rng 0.460
+[980be285-9672-43bf-94cb-0e29cf2c4d53/5452dc34852f5cdf17399dcecfe4a24a] inf_time 1.451s | dur 5.237s | RTF 0.277 | dyn_rng 0.506
+[d06b0d78-7938-413b-82fe-0f27841545f8/6960aaa548f8e1525f25835faaffdc8b] inf_time 1.191s | dur 4.267s | RTF 0.279 | dyn_rng 0.349
+[c96647a8-471c-409e-ba71-d2d4889261cd/83144d2c199e3aa7570cb9c466587dd2] inf_time 1.288s | dur 4.736s | RTF 0.272 | dyn_rng 0.450
+[f4efaa9f-bac0-4d15-ba69-fd889b6d0612/6c96a6a2ca56c088298326a53ff9bc84] inf_time 1.328s | dur 4.779s | RTF 0.278 | dyn_rng 0.464
+[313ad9dd-ceb2-4364-8a63-123e567f33f4/700fb5b10cfb30b2a18392e5a4fe2d81] inf_time 2.188s | dur 8.075s | RTF 0.271 | dyn_rng 0.530
+[1e0f60f7-a68c-48b4-8ccf-a0c63302f205/bfd4b5203a8a2e2a76fdb4a183011e7b] inf_time 2.632s | dur 9.792s | RTF 0.269 | dyn_rng 0.486
+[fdc05928-c7cb-4374-ac48-e0e1d3701597/44c77a5cd15feecb7244dabd10124ae6] inf_time 3.855s | dur 14.443s | RTF 0.267 | dyn_rng 0.596
+[a94fba36-4d5d-4da9-969c-3c19e09fac58/8167343d3e812570f01422d957dab8fd] inf_time 3.988s | dur 15.083s | RTF 0.264 | dyn_rng 0.731
+[a00ec8e7-cb9e-4c9c-ab50-ffb9da445142/ac60a341d4397fdef726524462a9331b] inf_time 0.936s | dur 3.243s | RTF 0.289 | dyn_rng 0.394
+[dd36fefe-900a-4f84-8c8d-21dd9ca4a066/dae0081f54e83c55450afd1df83d594b] inf_time 2.150s | dur 7.979s | RTF 0.270 | dyn_rng 0.456
+[d3fa156a-cdaf-475d-bf1a-7fbfc99086f0/aa14a9661a1219099c63d1a73d67e955] inf_time 3.241s | dur 12.160s | RTF 0.267 | dyn_rng 0.502
+[4097b949-0744-4005-926d-36cdfa2f0e17/818c27c7f84411f0171041ea591cd5d3] inf_time 1.451s | dur 5.099s | RTF 0.285 | dyn_rng 0.453
+[f013d235-1a19-4740-a5c6-6c077c23b221/4c883f888c10d3bafbc8299327abfab5] inf_time 2.037s | dur 7.381s | RTF 0.276 | dyn_rng 0.446
+[79103fc9-d1e2-4d91-a668-e69e44c34ba8/e42451bd103df099ee367114f20855a5] inf_time 3.623s | dur 13.653s | RTF 0.265 | dyn_rng 0.547
+[d201f3ca-794c-456e-b9c1-09d29b69d6e8/3107c2a701913af957e7872b4c12322c] inf_time 1.670s | dur 6.176s | RTF 0.270 | dyn_rng 0.346
+[ed267512-00e9-4d49-b049-8748b82c57b0/d3b7d6bbff4d87400dbc446709c31684] inf_time 1.509s | dur 5.472s | RTF 0.276 | dyn_rng 0.423
+
+Metrics per utterance saved to /data/user_data/mkapadni/speech_project/tts_outputs_isuzulu/isizulu_test_tts_metrics.csv
+Evaluating with ground truth audio...
+
+Running TTS evaluation using ground truth audio comparison...
+Warning: Missing audio files for 13062a1b-662b-4afa-85b4-98f745968edc/c8d4a9e0c9022ca9686275dcc31f5af6
+Warning: Missing audio files for e167f866-0f45-492c-ae09-5a11675906c8/b82179cd3a2883af9982a610632b8070
+Warning: Missing audio files for 04663103-6074-472c-9411-77a38d424b14/30bb4609c13ba7415cb450cb2f6279c3
+Warning: Missing audio files for 9d0cba8c-775f-4580-8167-0a07b9794272/299b735bf8d8a68f80739d9b37906f34
+Warning: Missing audio files for 1a92ae88-f2ac-4026-b6f1-f6f579db1f7d/b4494397ec1d7d4fad0296e35578ab2a
+Warning: Missing audio files for d886002a-9155-4c53-8bbd-a6d012bc9afa/9432eac91f7560f64ffe202d22903520
+Warning: Missing audio files for a9b554c0-6ed1-49df-b451-23645aca0752/400fc1fdc103c11496bf02c04f751eae
+Warning: Missing audio files for cb986750-b9b8-4b0b-8b01-0b84091d8da3/7db47fe316082e259e4e0e374249f821
+Warning: Missing audio files for cd827007-d8f9-4f03-b1a0-ac574119a917/52226a56e43ff358ccbee370c9e9f5f3
+Warning: Missing audio files for 4aab29c9-be0f-45c4-b905-48bc29786e1f/f1eb330c7bebc3519171f20158e01f3f
+Warning: Missing audio files for f87bd47a-a001-4b68-a8eb-d0fa7410e6e3/33e8c1515cc9bef17eb0cade06a6a0ff
+Warning: Missing audio files for 489a69ef-4bb3-426d-bc0d-828b62b0e7c0/5029b2da9c7b325832e873b9329c5ec3
+Warning: Missing audio files for f4fe2df8-c8cd-46d8-a667-a0543405c356/b1449f1c1f8218e64c22460bf1f30b8a
+Warning: Missing audio files for de2aa8b2-0df9-4228-a283-0c9e1ce1ac46/18411d31c20fc55a7eb062c03508af73
+Warning: Missing audio files for fbfdb88b-8064-4585-b15c-daccc7d8798d/22828d448ca4045cfa249a7a51ac15cf
+Warning: Missing audio files for da546b84-e703-45f5-b8b6-ae6636c204b3/65033d39e08e0fdf5eb9e772436738d6
+Warning: Missing audio files for 6eba0e1e-ea34-4eaa-bc3e-89c10da2c126/4b0c0ea38f854a110f1058f8ca696919
+Warning: Missing audio files for 09c01deb-c8ba-4fc9-8d55-f2f18ea63270/61c1c93524772691c786dccc63f2cefa
+Warning: Missing audio files for 3513c887-3001-4a15-ac3b-c5c6cc925a5d/0df19846303788ca18cba5818d7d45c2
+Warning: Missing audio files for 64ddc267-47d0-4b55-a3b5-c6fdc639ec1d/95d1141f153165a9e0375af30ad65b24
+Warning: Missing audio files for ce3d54c1-b3b3-440c-90e2-0ddb8b333949/b3ebfc8b05c59db27da98dcf6a69491b
+Warning: Missing audio files for ebb61cb9-f9f1-4b77-b7e4-52838040951f/33604662f33922f222c1a7f0a6ac57a7
+Warning: Missing audio files for 89244cfa-b70e-42f4-a0cc-5365a47213d5/348e934ca0f63e297a149ac477144c08
+Warning: Missing audio files for c204f0dd-6caf-4bee-8eb2-4fb25cf0211f/de9ca5560990709efd1f893e064221ab
+Warning: Missing audio files for ab86be68-a391-4b61-9934-a0978465bab2/5753467473511a966d7fcfec86bd79ae
+Warning: Missing audio files for 0e2a59f9-4322-49f5-8656-0bbc8c77b29d/b965aba61f3807fb66e5ec758dacca05
+Warning: Missing audio files for d4df42a0-cb8b-407d-98e5-c431a959c69b/e7c232b49b74cbe728eafab23607f8bd
+Warning: Missing audio files for ba52deb7-9703-4956-9e2e-9101aca22e92/49547d6963495481eb24926b453b71ee
+Warning: Missing audio files for c0065e18-8c58-41e2-a8b8-677ec3017a4d/f5626efd79c34fb45431562ff6d90606
+Warning: Missing audio files for 5cf9234b-9cf0-45c7-b454-bf7e634a43d5/c6287d24d325839c1a2f3d6f85ca770f
+Warning: Missing audio files for fe5dabf6-316a-4329-a1cf-108c0050d9ab/563297754a40ef0cc145b5d478acf218
+Warning: Missing audio files for 3aced193-45ee-46be-b0e7-5e1373b12916/55c62107bc824ee3892197c6ecacbd8d
+Warning: Missing audio files for 4512e170-0cdc-435a-a9a0-9dc5af4798c9/1604fc94d5420718109de8e92d0a2018
+Warning: Missing audio files for 9585a9d9-50a3-44b1-8f62-1d53e083614a/c500a79f0d3946ce1013942780514754
+Warning: Missing audio files for ca79d499-82a5-4c51-9b0d-b91f3b2fd6ee/047483804a9fd5bdbe5bb3d51f937b05
+Warning: Missing audio files for 9aeb6116-d010-444a-852c-08c6e4e82a58/cd927f7eb550860e88f91243bd568eec
+Warning: Missing audio files for eb9065ac-0fbe-482c-a13d-87cc88190185/dda7cb46075e3f742bc2f836a0a91f20
+Warning: Missing audio files for b601ef4a-cc73-416d-8079-cd66d204027b/64c1d47853c3d95cd8c0ac4e311882c0
+Warning: Missing audio files for f6294046-5166-45a0-b4a1-8e55f0b2e84a/60fa3f85d5ae8d1407d0d40124bc18ab
+Warning: Missing audio files for b54a7b0b-596c-43c2-b141-d6544e449286/a4f46f823f025a7ba9465c03f2ef7b65
+Warning: Missing audio files for 9b97edf1-819b-4f8c-ae1e-6d78ed94f8c7/a3efcef25b594cfd799a153263468e9d
+Warning: Missing audio files for 38a26b31-dd7b-45bd-a340-1f2b1a112d47/35e15f91ba2bdbc73870ac470e4502c2
+Warning: Missing audio files for c43d68a5-aa37-474c-93be-1056b49ec071/3a7cfe83c2ea3c54368d7f711aa94825
+Warning: Missing audio files for a28a5bb6-ba72-4c0b-8435-fb32c5ab7063/b519bde996cc9bcde5ecb2edff4e0931
+Warning: Missing audio files for 0ae59923-7716-49b3-a9c0-dbfbc1cbcbd1/8c6c1d7b05b16d07e3284c92fff50671
+Warning: Missing audio files for a4cb74fc-7a46-46a0-873e-a39fbbfcb86a/0c7d3e3bdb734fae9d6fa8c208df2dc9
+Warning: Missing audio files for f4d6a462-a3e7-4c60-b928-ccd6e881c2f9/1fbf6458cedbf3b301ef96eab8c71ca0
+Warning: Missing audio files for 47e32954-5012-4a2b-afb7-a027c888992e/5fce0a0ee615ca3a8b81d2d2c3b8c1a6
+Warning: Missing audio files for b4ba5571-b981-4d8f-b24d-493d48c28e4a/0cdca80c53c9a4e8df17a4a13a28ba29
+Warning: Missing audio files for cc70e3aa-da9f-4671-8d6b-7be27946c5ba/8789df7e1355482528d36092974135b1
+Warning: Missing audio files for b548dfc4-3ef9-4ec6-8f68-163777c3916c/0aff2526c38a682b6f3f9564c9300ac4
+Warning: Missing audio files for 5b57ed3e-26ac-4e64-9dab-c5bc122f6ee2/b9acd182e10cde935dbfbda4f4396d28
+Warning: Missing audio files for a6549189-dee7-40d6-bbdc-eade72abe8d4/b3902dd2888bc403885828eb07d71172
+Warning: Missing audio files for acb76e83-c11c-4dfb-8664-7bed215ccca4/7c68ea3380d88a319e67ff1586620db5
+Warning: Missing audio files for a5673675-e738-4ca6-bcf2-f7d9f4fe05c7/eb6ea5b6b5f7072e81523e85386f60be
+Warning: Missing audio files for 0527743c-10c4-43e0-96d2-b4a43c6e0bc9/bfee7fc9bfe454e5728228c55fb6f873
+Warning: Missing audio files for 0380e5b2-85b6-4e09-ac50-27298d731ef7/4c0d423d5b8fbbc606f7b3ebe80ae962
+Warning: Missing audio files for 53ccb838-bfb4-4f4e-8213-cc56335d368d/38f77af4d767e59fa1265b673d44f482
+Warning: Missing audio files for 2fbd32e0-df5e-49f2-89e0-36b986a0f124/747e156322ed705e7a2c3fe0a2b4f3af
+Warning: Missing audio files for 2da524ae-8399-4e7e-b3e6-8f808df74041/afd134228e5b042d6ead5a8cb0362b9e
+Warning: Missing audio files for 571494ef-2342-4d3b-bf2b-429a0dae002d/cd9afe4d473e652cca54ece3a2ebe8e4
+Warning: Missing audio files for 231e37f9-2cf4-42a9-8153-e208ab0304fb/16638445f8261ee3aad84c333bb79cb1
+Warning: Missing audio files for 731b1ea2-a356-4b0d-9862-5d96c76709a1/366f5364abb882d0eb026bdf5ba2dcc1
+Warning: Missing audio files for b9b3d73b-34ce-41cb-80cd-d7a7b2dce845/c736b9e667f423c15ffcd9332bd9d697
+Warning: Missing audio files for 919d557b-0a29-4add-8368-5c50b6de63a1/5cc06c1e9a51517e1eac28cd638a0faa
+Warning: Missing audio files for 2f49d3b9-fdb2-4cbe-82b6-e9c0ce209fbf/4208cb733a61ddecc601bae8a1a3fb2d
+Warning: Missing audio files for 4fa123e0-0da3-4de7-9189-ff7bd85dace9/89e91fb03ff34b26f7d55e1b238745e4
+Warning: Missing audio files for 1cfb7c50-12f0-4dd4-a798-69296bb20044/94eb4b5fb36839e64288efb549eb9b23
+Warning: Missing audio files for cb622f6c-c695-471d-98a4-cada9ca3eb4f/883e4a610b6dd691537f4b1706856590
+Warning: Missing audio files for c0acd02c-3fae-47c0-82c1-1108ffd8d6a0/e863d2844ed92ab5cba6472d5437b3e5
+Warning: Missing audio files for 1b17658b-f495-4e96-a539-44e36c6d3181/4776fed3dce347f1993b287f3887207d
+Warning: Missing audio files for 71182f55-fcd7-41b4-8dfe-dd3693515794/ca1ff079bb0044f6470cd08378af053a
+Warning: Missing audio files for 5af014f3-af3d-471f-ac46-b899e0596738/8c50b66084fa5e8fc10d571f31df81a6
+Warning: Missing audio files for 2944d4a8-8a18-44f2-8c94-ced6bf4f1567/60dcfcfb8c02c2923f23b46c3bced297
+Warning: Missing audio files for f185304e-fa0e-473a-b2e2-21343c0a1441/aa8ea5e0ff1a2c2c32c619d5f1ade55e
+Warning: Missing audio files for f214cce5-016a-4a03-8671-38539b84a596/7271095bb70efad2f547784e724512e1
+Warning: Missing audio files for 1c6146c0-b3e8-40c6-91b9-e9136488d2d0/4de7c78205761d6381d490e0b2f09311
+Warning: Missing audio files for 6eddca71-abf0-47e1-b16b-de54a7dea0de/07b679b4e0be6823459cac67dd561093
+Warning: Missing audio files for 79f091f7-2d9c-4afc-bd8a-41d9f2cbb954/e03c8fd0794a112a9435c8a9f0bacc3c
+Warning: Missing audio files for 3dd8ba01-0a55-4735-a1c4-0cc887775d55/b730a442aab312d68b96e364f391d013
+Warning: Missing audio files for 5e41e312-9f73-417b-8fb4-4410793a770b/853148ef3c936060dc84c5d145295eb6
+Warning: Missing audio files for 4531f5ef-86f6-4e68-b056-085da707581a/3b0aba01193f56cc5415df9e237fef74
+Warning: Missing audio files for a490d2ad-355a-41e9-a50e-6f8cee1674f8/a4f92404c8b5775da74ba72a7cec118c
+Warning: Missing audio files for 15b4bfd5-dcd8-46a3-8d08-3769745db934/b242c3278c80edffe8ec39d8fb96c98b
+Warning: Missing audio files for 980be285-9672-43bf-94cb-0e29cf2c4d53/5452dc34852f5cdf17399dcecfe4a24a
+Warning: Missing audio files for d06b0d78-7938-413b-82fe-0f27841545f8/6960aaa548f8e1525f25835faaffdc8b
+Warning: Missing audio files for c96647a8-471c-409e-ba71-d2d4889261cd/83144d2c199e3aa7570cb9c466587dd2
+Warning: Missing audio files for f4efaa9f-bac0-4d15-ba69-fd889b6d0612/6c96a6a2ca56c088298326a53ff9bc84
+Warning: Missing audio files for 313ad9dd-ceb2-4364-8a63-123e567f33f4/700fb5b10cfb30b2a18392e5a4fe2d81
+Warning: Missing audio files for 1e0f60f7-a68c-48b4-8ccf-a0c63302f205/bfd4b5203a8a2e2a76fdb4a183011e7b
+Warning: Missing audio files for fdc05928-c7cb-4374-ac48-e0e1d3701597/44c77a5cd15feecb7244dabd10124ae6
+Warning: Missing audio files for a94fba36-4d5d-4da9-969c-3c19e09fac58/8167343d3e812570f01422d957dab8fd
+Warning: Missing audio files for a00ec8e7-cb9e-4c9c-ab50-ffb9da445142/ac60a341d4397fdef726524462a9331b
+Warning: Missing audio files for dd36fefe-900a-4f84-8c8d-21dd9ca4a066/dae0081f54e83c55450afd1df83d594b
+Warning: Missing audio files for d3fa156a-cdaf-475d-bf1a-7fbfc99086f0/aa14a9661a1219099c63d1a73d67e955
+Warning: Missing audio files for 4097b949-0744-4005-926d-36cdfa2f0e17/818c27c7f84411f0171041ea591cd5d3
+Warning: Missing audio files for f013d235-1a19-4740-a5c6-6c077c23b221/4c883f888c10d3bafbc8299327abfab5
+Warning: Missing audio files for 79103fc9-d1e2-4d91-a668-e69e44c34ba8/e42451bd103df099ee367114f20855a5
+Warning: Missing audio files for d201f3ca-794c-456e-b9c1-09d29b69d6e8/3107c2a701913af957e7872b4c12322c
+Warning: Missing audio files for ed267512-00e9-4d49-b049-8748b82c57b0/d3b7d6bbff4d87400dbc446709c31684
+Ground truth evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_isuzulu/isizulu_test_gt_evaluation.csv
+
+Running TTS evaluation using ASR...
+Loading ASR model openai/whisper-large-v2...
+Evaluating: c8d4a9e0c9022ca9686275dcc31f5af6_tts.wav
+  Original text: flatus indicates return of peristalsis.
+  ASR transcription:  Flatus indicates return of peristalsis.
+  WER: 0.0000, CER: 0.0000
+Evaluating: b82179cd3a2883af9982a610632b8070_tts.wav
+  Original text: the pancreas is almost invariably involved in cystic fibrosis.
+  ASR transcription:  The pancreas is almost invariably involved in cystic fibrosis.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 30bb4609c13ba7415cb450cb2f6279c3_tts.wav
+  Original text: i doubt these immoral scientists and government officials will allow any biometric examination of that dna.
+
+  ASR transcription:  I doubt these immoral scientists and government officials will allow any biometric examination of that DNA.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 299b735bf8d8a68f80739d9b37906f34_tts.wav
+  Original text: jonathan had said to the protesters, who demanded that he declare for president, yes, you are calling me to come and declare for the next election.
+
+  ASR transcription:  Jonathan had said to the protesters' owner, who demanded that he declare for president, yes, you are calling me to come and declare for the next election.
+  WER: 0.0769, CER: 0.0476
+Evaluating: b4494397ec1d7d4fad0296e35578ab2a_tts.wav
+  Original text: she was being treated with pimozide for her psychosis and combined glargine insulin with short-acting insulins at meal times.
+  ASR transcription:  She was being treated with pimozide for her psychosis and combined glagine insulin with short-acting insulins at meal time.
+  WER: 0.1053, CER: 0.0160
+Evaluating: 9432eac91f7560f64ffe202d22903520_tts.wav
+  Original text: this particular episode garnered 7 . 4 million viewers and a 33 percent audience share , with both the guardian and digital spy mentioning edmondson s guest - appearance as abra as a decisive factor in the high rating .
+
+  ASR transcription:  particular episode garnered 74 million viewers and a 33% audience share with both the Guardian and Digital Spy mentioning Edmondson as guest, her appearance as Abra as a decisive factor in the high rating.
+  WER: 0.3000, CER: 0.1096
+Evaluating: 400fc1fdc103c11496bf02c04f751eae_tts.wav
+  Original text: president trump, of the republican party, hoped to sway conservative-leaning latinos, particularly in key states like florida.
+
+  ASR transcription:  President Trump of the Republican Party hoped to sway conservative-leaning Latinos, particularly in key states like Florida.
+  WER: 0.1176, CER: 0.0159
+Evaluating: 7db47fe316082e259e4e0e374249f821_tts.wav
+  Original text: the rate and contractile force of the heart are increased consequently, cardiac output is markedly increased.
+  ASR transcription:  walai wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa kutubi wa
+  WER: 11.1250, CER: 7.7523
+Evaluating: 52226a56e43ff358ccbee370c9e9f5f3_tts.wav
+  Original text: by stimulus modality:     thermoreceptors respond to heat and cold.
+
+  ASR transcription:  wa kwa modality wa stimulus. Terema receptors respond to heat and cold.
+  WER: 0.7778, CER: 0.3881
+Evaluating: f1eb330c7bebc3519171f20158e01f3f_tts.wav
+  Original text: when he reached the apartment, a group of 12 to 14 men attacked him.
+
+  ASR transcription:  When he reached the apartment, a group of 12 to 14 men attacked him.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 33e8c1515cc9bef17eb0cade06a6a0ff_tts.wav
+  Original text: ensuring a clear patient avoids accidental shocking of personnel.
+  ASR transcription:  Ensuring a clear patient avoids accidental shocking of personnel.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 5029b2da9c7b325832e873b9329c5ec3_tts.wav
+  Original text: three hit process.
+  ASR transcription:  3 hit process, nil, hold stone, comma, comma, vstroke
+  WER: 2.6667, CER: 2.4444
+Evaluating: b1449f1c1f8218e64c22460bf1f30b8a_tts.wav
+  Original text: estrogen replacement therapy may be used to treat severe cases.
+  ASR transcription:  Estrogen replacement therapy may be used to treat severe cases.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 18411d31c20fc55a7eb062c03508af73_tts.wav
+  Original text: in the developed countries, individual vitamindeficiencies are noted more often, particularly in children, adolescent, pregnant and lactating women, and in some dueto poverty.
+
+  ASR transcription:  In the developed countries, individual vitamin deficiencies are noted more often, particularly in children, adolescent, pregnant, and lactating women, and in some due to poverty.
+  WER: 0.2174, CER: 0.0171
+Evaluating: 22828d448ca4045cfa249a7a51ac15cf_tts.wav
+  Original text: position the drainage collection device below the tube insertion site.
+  ASR transcription:  Mponoja mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za mpono za
+  WER: 22.1000, CER: 13.9143
+Evaluating: 65033d39e08e0fdf5eb9e772436738d6_tts.wav
+  Original text: tetracycline, clindamycin, ceftriaxone also have antiplasmodial activity - dr. chidiogo hadi
+
+  ASR transcription:  Tetracycline, Klinamisin, Seftriaxone, kwa hivyo kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa k
+  WER: 19.6364, CER: 9.1957
+Evaluating: 4b0c0ea38f854a110f1058f8ca696919_tts.wav
+  Original text: financial obligation dependency undermines a nations integrity and sovereignty of domestic policy formula.
+
+  ASR transcription:  financial obligation dependency undermines a nation's integrity and sovereignty of domestic policy formula dottens.
+  WER: 0.2308, CER: 0.0849
+Evaluating: 61c1c93524772691c786dccc63f2cefa_tts.wav
+  Original text: heparin is also administered subcutaneously.
+  ASR transcription:  Heparin is also administered subcutaneously, or MAC.
+  WER: 0.6000, CER: 0.1818
+Evaluating: 0df19846303788ca18cba5818d7d45c2_tts.wav
+  Original text: the chemical ligand perhaps a pain signal from a damaged tissue or odor molecule in a breath of airbinds to receptors on the neuron.
+
+  ASR transcription:  the chemical ligand, perhaps a pain signal from a damaged tissue or other molecule in a breadth of air binds to receptors on the neuron.
+  WER: 0.2083, CER: 0.0455
+Evaluating: 95d1141f153165a9e0375af30ad65b24_tts.wav
+  Original text: osteoclasts are most closely related, by common descent, toa. 
+  ASR transcription:  hostile class that are most closely related by common descent to us.
+  WER: 0.7778, CER: 0.2295
+Evaluating: b3ebfc8b05c59db27da98dcf6a69491b_tts.wav
+  Original text: this is not true of soft sciences.
+
+  ASR transcription:  This is Hermette Tru of Soft Sciences.
+  WER: 0.2857, CER: 0.2353
+Evaluating: 33604662f33922f222c1a7f0a6ac57a7_tts.wav
+  Original text: these products require 30 to 90 minutes after application to reach maximal effectiveness.
+  ASR transcription:  These products require 30 to 90 minutes after application to reach maximal effectiveness.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 348e934ca0f63e297a149ac477144c08_tts.wav
+  Original text: those numbers tell you how to do the integration.
+
+  ASR transcription:  yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon nyoma yon ny
+  WER: 24.6667, CER: 22.1633
+Evaluating: de9ca5560990709efd1f893e064221ab_tts.wav
+  Original text: but as we mentioned, things only got worse from there once beth died.
+
+  ASR transcription:  But as we mentioned, things only got worse from there once Beth died.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 5753467473511a966d7fcfec86bd79ae_tts.wav
+  Original text: increased mechanical load on the heart, results in increased myocardial demand, resulting in myocardial failure.
+  ASR transcription:  increased mechanical load on the heart results in increased myocardial demand, resulting in myocardial failure.
+  WER: 0.0667, CER: 0.0089
+Evaluating: b965aba61f3807fb66e5ec758dacca05_tts.wav
+  Original text: some smell signals also get to the cerebrum by routes that bypass the thalamus.
+  ASR transcription:  Ndiyo na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na kutumwa na
+  WER: 12.7143, CER: 11.8987
+Evaluating: e7c232b49b74cbe728eafab23607f8bd_tts.wav
+  Original text: the medial and lateral epicondyles are the widest points of the femur, easily palpated at the knee.
+  ASR transcription:  The medial and lateral epicondyles are the widest points of the femur, easily barbatted at the knee.
+  WER: 0.0588, CER: 0.0404
+Evaluating: 49547d6963495481eb24926b453b71ee_tts.wav
+  Original text: for example, the columnar epithelium of the bronchus can be replaced by squamous epithelium in cigarette smokers   2.
+  ASR transcription:  Ndiyo, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya, wanafanya,
+  WER: 4.9444, CER: 8.0427
+Evaluating: f5626efd79c34fb45431562ff6d90606_tts.wav
+  Original text: proceed with administration, based on prescribed route.
+  ASR transcription:  proceed with administration based on prescribed routes.
+  WER: 0.2857, CER: 0.0364
+Evaluating: c6287d24d325839c1a2f3d6f85ca770f_tts.wav
+  Original text: in other words, there is loss of tolerance to ones own tissues autoimmunity is the opposite of immune tolerance.
+  ASR transcription:  Otoimmunity yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yiyo yi yiyo yiyo yi yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo
+  WER: 8.7368, CER: 6.1161
+Evaluating: 563297754a40ef0cc145b5d478acf218_tts.wav
+  Original text: the actions of natural killer cells and the roles of perforins and granzymes in defense 13.
+  ASR transcription:  the actions of natural killer cells and the roles of parforins and granzins in defense 13.
+  WER: 0.1250, CER: 0.0440
+Evaluating: 55c62107bc824ee3892197c6ecacbd8d_tts.wav
+  Original text: it said daily crude production dropped from 1.41 million bpd in january to 1.37mbpd in february and 1.34mbpd in march.
+
+  ASR transcription:  It said daily crude production dropped from 1.4 to 1 million BPD in January to a steady in February and 1.3 to form BD in March.
+  WER: 0.4500, CER: 0.1780
+Evaluating: 1604fc94d5420718109de8e92d0a2018_tts.wav
+  Original text: lymph node a small organ found along the course of a lymphatic vessel that filters the lymph and contains lymphocytes and macrophages, which respond to antigens in the lymph.
+  ASR transcription:  lymph node is a small organ found along the course of a lymphatic vessel that filters the lymph and contains lymphocytes and macrophages which respond to antigens in the lymph.
+  WER: 0.0690, CER: 0.0230
+Evaluating: c500a79f0d3946ce1013942780514754_tts.wav
+  Original text: there is six times higher incidence of gallstones in obese persons, mainly due to increased total body cholesterol.
+  ASR transcription:  Obise persona inaweza inaweza yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi yi
+  WER: 12.1667, CER: 5.5913
+Evaluating: 047483804a9fd5bdbe5bb3d51f937b05_tts.wav
+  Original text: it will therefore antagonize the effects of botha and b,since they both ultimately depend on calciummovement to cause contraction.
+  ASR transcription:  It will therefore antagonize the effects of both A and B since they both ultimately depend on calcium movements to cause contraction.
+  WER: 0.3158, CER: 0.0308
+Evaluating: cd927f7eb550860e88f91243bd568eec_tts.wav
+  Original text: each clotting factor produces many molecules of the next one, so the number of active clotting factors increases rapidly and a large amount of brin is quickly formed.
+  ASR transcription:  each clotting factor produces many molecules of the next one. Thus though the number of active clotting factors increases rapidly and a large amount of brain is quickly formed
+  WER: 0.1786, CER: 0.0723
+Evaluating: dda7cb46075e3f742bc2f836a0a91f20_tts.wav
+  Original text: check a drug resource to clarify whether a medication needs to be diluted before administration.
+  ASR transcription:  Check a drug resource to clarify whether a medication needs to be diluted before administration.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 64c1d47853c3d95cd8c0ac4e311882c0_tts.wav
+  Original text: explosions in lunar science
+  ASR transcription:  explosions in lunar science.
+  WER: 0.2500, CER: 0.0370
+Evaluating: 60fa3f85d5ae8d1407d0d40124bc18ab_tts.wav
+  Original text: nhs cleaners, porters and office staff were secret coronavirus super-spreaders within hospitals, new tests.
+
+  ASR transcription:  NHS cleaners, porters and office staff wear secret coronavirus super-spreaders within hospitals. New tests
+  WER: 0.2143, CER: 0.0374
+Evaluating: a4f46f823f025a7ba9465c03f2ef7b65_tts.wav
+  Original text: ilex with vaseline applied as ordered.
+
+  ASR transcription:  Ilex Witwaseli applied as ordered, Homa Ustu.
+  WER: 0.8333, CER: 0.4211
+Evaluating: a3efcef25b594cfd799a153263468e9d_tts.wav
+  Original text: erasmo of narni was born in narni, in umbria, into a poor family.
+  ASR transcription:  a rasmal of nani was born in nani in ombria into a koi family
+  WER: 0.5385, CER: 0.2000
+Evaluating: 35e15f91ba2bdbc73870ac470e4502c2_tts.wav
+  Original text: effective oncotic pressure is the difference between the higher oncotic pressure of plasma and the lower oncotic pressure of interstitial fluid and is the force that tends to draw fluid into the vessels.
+  ASR transcription:  Effective oncotic pressure is the difference between the higher oncotic pressure of plasma and the lower oncotic pressure of interstitial fluid and is the force that tends to draw fluid into the vessels.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 3a7cfe83c2ea3c54368d7f711aa94825_tts.wav
+  Original text: in response to that colleague feedback, we have taken steps to ensure that no individual data is visible to managers.
+  ASR transcription:  In response to that colleague feedback, we have taken steps to ensure that no individual data is visible to managers.
+  WER: 0.0000, CER: 0.0000
+Evaluating: b519bde996cc9bcde5ecb2edff4e0931_tts.wav
+  Original text: sadly, todays podcast is not a pleasant one.
+
+  ASR transcription:  Sadly, today's podcast is not a pleasant one.
+  WER: 0.1250, CER: 0.0227
+Evaluating: 8c6c1d7b05b16d07e3284c92fff50671_tts.wav
+  Original text: the uoroquinolones have a variety of indications in the treatment of respiratory infections. although they may not be the drugs of choice, these infections include acute and chronic bacterial sinusitis.
+  ASR transcription:  The oral quinolones have a variety of indications in the treatment of respirators. Although they may not be the drugs of choice, these infections include acute and chronic bacterial sinusitis.
+  WER: 0.1333, CER: 0.0743
+Evaluating: 0c7d3e3bdb734fae9d6fa8c208df2dc9_tts.wav
+  Original text: some of the most frequently used of the many such probe systems are hybridization probes, hydrolysis probes, and molecular beacons.
+  ASR transcription:  Some of the most frequently used of the many such probe systems are hybridization probes, hydrolysis probes, and molecular beacons.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 1fbf6458cedbf3b301ef96eab8c71ca0_tts.wav
+  Original text: how heredity and health are affected not only by genetic changes mutations but also epigenetic ones sal77726ch04111-138.
+  ASR transcription:  How heredity and health are affected not only by genetic changes, mutations, but also genetic ones, 77,726 to 4,111, 138.
+  WER: 0.4706, CER: 0.1417
+Evaluating: 5fce0a0ee615ca3a8b81d2d2c3b8c1a6_tts.wav
+  Original text: she is a fellow of the nigerian academy of science and fellow, nigerian society for biochemistry and molecular biology.
+
+  ASR transcription:  niyeri niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo niyo
+  WER: 11.6316, CER: 8.8739
+Evaluating: 0cdca80c53c9a4e8df17a4a13a28ba29_tts.wav
+  Original text: everybody loves discounts, and the marketing managers of these brands know that.
+  ASR transcription:  Everybody loves discounts and the marketing managers of these brands know that.
+  WER: 0.0833, CER: 0.0125
+Evaluating: 8789df7e1355482528d36092974135b1_tts.wav
+  Original text: it is a hollow defence.
+
+  ASR transcription:  It is a hollow defense, comma, or not. Also see, or not stateful.
+  WER: 1.8000, CER: 1.8261
+Evaluating: 0aff2526c38a682b6f3f9564c9300ac4_tts.wav
+  Original text: already we have seen a significant enhancement of u.k.-japan security cooperation over the past three years.
+
+  ASR transcription:  Already we have seen a significant enhancement of UK-Japan security cooperation over the past three years.
+  WER: 0.0625, CER: 0.0185
+Evaluating: b9acd182e10cde935dbfbda4f4396d28_tts.wav
+  Original text: at last, the high priest tells jesus, i adjure you, by the living god, to tell us, are you the anointed one, the son of god?
+
+  ASR transcription:  At last, the High Priest tells Jesus, I adjure you by the living God to tell us, are you the anointed one, the Son of God?
+  WER: 0.0769, CER: 0.0161
+Evaluating: b3902dd2888bc403885828eb07d71172_tts.wav
+  Original text: the naf aircraft crashes represent a direct threat to the continued existence of the country as a sovereign entity and must be treated as such.
+
+  ASR transcription:  The NAF aircraft crashes represent a direct threat to the continued existence of the country as a sovereign entity and must be treated as such.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 7c68ea3380d88a319e67ff1586620db5_tts.wav
+  Original text: a post shared by bellanaijastyle bellanaijastylebut owosenimakanjuola does not believe anyone should jettison modesty in the name of fashion.
+
+  ASR transcription:  A post shared by Belanijas Tiyo, Belanijasti but Owestenimakandroala does not believe anyone should jettison modesty in the name of fashion.
+  WER: 0.2632, CER: 0.1135
+Evaluating: eb6ea5b6b5f7072e81523e85386f60be_tts.wav
+  Original text: i will support you to win re-election in 2023, atiku assures bauchi governor
+
+  ASR transcription:  Kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo, kwa hivyo,
+  WER: 11.3846, CER: 10.2368
+Evaluating: bfee7fc9bfe454e5728228c55fb6f873_tts.wav
+  Original text: southentered a national lockdown on march 27 which is currently due to last until the end of april.
+
+  ASR transcription:  Southern Tert a national lockdown on March 27 when it currently due to last until the end of April.
+  WER: 0.2222, CER: 0.0808
+Evaluating: 4c0d423d5b8fbbc606f7b3ebe80ae962_tts.wav
+  Original text: cancer of the lung is a disease of middle and late life with peak incidence in 55-65years of age, after which there is gradual fall in its incidence.
+  ASR transcription:  Mbaya kwa kwa mbaya yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yi yiyo yiyo yi yiyo yiyo yi yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo yiyo y
+  WER: 6.0000, CER: 4.5503
+Evaluating: 38f77af4d767e59fa1265b673d44f482_tts.wav
+  Original text: how would you expect this fact to influence sperm development?  
+  ASR transcription:  How would you expect this fact to influence bomb development?
+  WER: 0.1000, CER: 0.0806
+Evaluating: 747e156322ed705e7a2c3fe0a2b4f3af_tts.wav
+  Original text: some of the big names to make the cut include steve musabaya, simbarashe mutambirwa, tafadzwa keni, naslin negomo and douglas choto who currently plays under cyprus vakiflar sports club.
+
+  ASR transcription:  Ndiyelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelele
+  WER: 1.0000, CER: 4.6613
+Evaluating: afd134228e5b042d6ead5a8cb0362b9e_tts.wav
+  Original text: insert the needle into the modified vial and invert it, taking care not to push the plunger and inject medication from the syringe into the vial.
+  ASR transcription:  Insert the needle into the modified vial and invert it, taking care not to push the plunger and inject medication from the syringe into the vial.
+  WER: 0.0000, CER: 0.0000
+Evaluating: cd9afe4d473e652cca54ece3a2ebe8e4_tts.wav
+  Original text: the closed suctioning procedure is the same for patients with tracheostomy tubes and endotracheal tubes connected to mechanical ventilation.
+  ASR transcription:  The closed suctioning procedure is the same for patients with tracheostomy tubes and endotracheal tubes connected to mechanical ventilation.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 16638445f8261ee3aad84c333bb79cb1_tts.wav
+  Original text: a low wbc count places the patient at risk for infection.
+  ASR transcription:  A low WBC count places the patient at risk for infection.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 366f5364abb882d0eb026bdf5ba2dcc1_tts.wav
+  Original text: relief of hypoxia on a long-term basis by increasing the concentration of inspired oxygen reverses the vasoconstriction in the pulmonary arteries and decreases pulmonary hypertension.
+  ASR transcription:  Relief of hypoxia on a long-term basis by increasing the concentration of inspired oxygen reverses the vasoconstriction in the pulmonary arteries and decreases pulmonary hypertension.
+  WER: 0.0000, CER: 0.0000
+Evaluating: c736b9e667f423c15ffcd9332bd9d697_tts.wav
+  Original text: its main effects on lipids are distinctive, namely to increase hdl, reduce tg and reduce lpa.
+  ASR transcription:  Its main effects on lipids are distinctive, namely to increase HDL, reduce TG, and reduce LPR.
+  WER: 0.1250, CER: 0.0215
+Evaluating: 5cc06c1e9a51517e1eac28cd638a0faa_tts.wav
+  Original text: protein sequence databases.
+  ASR transcription:  protein sequence databases on a closed-term holistic culture.
+  WER: 2.0000, CER: 1.2593
+Evaluating: 4208cb733a61ddecc601bae8a1a3fb2d_tts.wav
+  Original text: b. the hypophyseal portal system regulates the anterior lobe of the pituitary.
+  ASR transcription:  B. Mwakila sistema hypofisil portal anaklilan angiwa ndiyo ndiyo.
+  WER: 0.9167, CER: 0.7692
+Evaluating: 89e91fb03ff34b26f7d55e1b238745e4_tts.wav
+  Original text: we are one big family in pdp. all the problems that anybody has will be resolved timely for the good of the party.
+
+  ASR transcription:  We are one big family in PDP. All the problems that anybody has will be resolved timely for the good of the party.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 94eb4b5fb36839e64288efb549eb9b23_tts.wav
+  Original text: also, the age-adjusted prevalence rate of ed among men attending primary care clinics was found to be 57.4 in nigeria.
+
+  ASR transcription:  Also, the age-adjusted prevalence rate of ED among men attending prime care clinics was found to be 57.4 in Nigeria.
+  WER: 0.0500, CER: 0.0254
+Evaluating: 883e4a610b6dd691537f4b1706856590_tts.wav
+  Original text: histologically, vacuolisation and fragmentation of muscle fibres and numerous inflammatory cells are present.
+  ASR transcription:  Histologically, vascularization and fragmentation of muscle fibers and numerous inflammatory cells are present.
+  WER: 0.1538, CER: 0.0642
+Evaluating: e863d2844ed92ab5cba6472d5437b3e5_tts.wav
+  Original text: he and his wife koryn opted to keep their kids home, and are disappointed there was no hybrid option.
+
+  ASR transcription:  Ndiyo na mbili, Corin, kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kutumia kut
+  WER: 5.9474, CER: 8.3960
+Evaluating: 4776fed3dce347f1993b287f3887207d_tts.wav
+  Original text: a top government official said the task force and other agencies were worried about some prominent persons disregard for extant rules on covid-19.
+
+  ASR transcription:  kwa mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mbili ya mb
+  WER: 9.6522, CER: 6.5137
+Evaluating: ca1ff079bb0044f6470cd08378af053a_tts.wav
+  Original text: the subjective effects also include dissociation of ideas.
+  ASR transcription:  The subjective effects also include dissociation of ideas.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 8c50b66084fa5e8fc10d571f31df81a6_tts.wav
+  Original text: apply what you know in chapter 12, you read of serial and parallel processing see section 12.
+  ASR transcription:  Ndiyo kutumia kutumia kwa chapta 12, kutumia kwa serial na parallelwa kutumia kwa chapta 12.
+  WER: 0.8235, CER: 0.5914
+Evaluating: 60dcfcfb8c02c2923f23b46c3bced297_tts.wav
+  Original text: b development of cystic medial necrosis of erdheim,  especiallyin old age.
+  ASR transcription:  be development of cystic media necrosis of adhein, especially in old age.
+  WER: 0.4545, CER: 0.0946
+Evaluating: aa8ea5e0ff1a2c2c32c619d5f1ade55e_tts.wav
+  Original text: the nurse is in a stable position with good body alignment and prepared to use large muscle masses to turn the patient.
+  ASR transcription:  The nurse is in a stable position with good body alignment and prepared to use large muscle masses to turn the patient.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 7271095bb70efad2f547784e724512e1_tts.wav
+  Original text: all other methods of labor induction are compared to oxytocin to establish their efficacy.
+  ASR transcription:  All other methods of larval induction are compared to oxytocin to establish their efficacy.
+  WER: 0.0714, CER: 0.0444
+Evaluating: 4de7c78205761d6381d490e0b2f09311_tts.wav
+  Original text: female sexual response, the physiological changes that occur during intercourse, may be viewed in terms of the four phases identified by masters and johnson and discussed insection 27.
+
+  ASR transcription:  female sexual response, the physiological changes that occur during intercourse may be viewed in terms of the four phases identified by Masters and Johnson and discussed in Section 27.
+  WER: 0.1071, CER: 0.0109
+Evaluating: 07b679b4e0be6823459cac67dd561093_tts.wav
+  Original text: in recent years, new and more advanced methods for protein complex study have been developed.
+  ASR transcription:  In recent years, new and more advanced methods for protein complex study have been developed.
+  WER: 0.0000, CER: 0.0000
+Evaluating: e03c8fd0794a112a9435c8a9f0bacc3c_tts.wav
+  Original text: i had told him, your mum deserves this.
+  ASR transcription:  I had told him, your mom deserves this.
+  WER: 0.1250, CER: 0.0256
+Evaluating: b730a442aab312d68b96e364f391d013_tts.wav
+  Original text: in this game, he scored 42, 44 if the goaltending call was given, and probably more if the game went into overtime.
+
+  ASR transcription:  in this game he scored 42, 44 if the goal-tending call was given and probably more if the game went into overtime.
+  WER: 0.1364, CER: 0.0261
+Evaluating: 853148ef3c936060dc84c5d145295eb6_tts.wav
+  Original text: an elevated body temperature as in fever, stimulates bpg synthesis, as do thyroxine, growth hormone,   testosterone, and epinephrine.
+  ASR transcription:  and elevated body temperature as in fever, stimulates BPG synthesis as do thyroxine, growth hormone, testosterone, and epinephrine.
+  WER: 0.1111, CER: 0.0301
+Evaluating: 3b0aba01193f56cc5415df9e237fef74_tts.wav
+  Original text: misoprostol, a prostaglandin which stimulates the uterus, is contraindicated because it causes abortion.
+  ASR transcription:  Nisso prostor, a prostaglandin which stimulates the uterus, is contraindicated because it causes abortion.
+  WER: 0.1538, CER: 0.0385
+Evaluating: a4f92404c8b5775da74ba72a7cec118c_tts.wav
+  Original text: e ring offices are the only ones with outside views and are generally occupied by senior officials.
+  ASR transcription:  Hearing offices are the only ones with outside views and are generally occupied by senior officials.
+  WER: 0.1176, CER: 0.0202
+Evaluating: b242c3278c80edffe8ec39d8fb96c98b_tts.wav
+  Original text: the broadest part of a tapered organ such as the uterus or heart or the inferior aspect of an organ such as the brain.
+  ASR transcription:  the broadest part of a tapered organ, such as the uterus or heart, or the inferior aspect of an organ, such as the brain.
+  WER: 0.1250, CER: 0.0254
+Evaluating: 5452dc34852f5cdf17399dcecfe4a24a_tts.wav
+  Original text: at the body surface, the penis turns 90 and continues inward as the root.
+  ASR transcription:  At the body's surface, the penis turns 90 and continues inward as the root.
+  WER: 0.0714, CER: 0.0274
+Evaluating: 6960aaa548f8e1525f25835faaffdc8b_tts.wav
+  Original text: he was known as a key financier for irans proxy wars.
+
+  ASR transcription:  Iwa wa niwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa
+  WER: 20.1818, CER: 16.3396
+Evaluating: 83144d2c199e3aa7570cb9c466587dd2_tts.wav
+  Original text: diarrhea occurs when the large intestine absorbs too little water.
+  ASR transcription:  Kwa hivyo, kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa
+  WER: 22.1000, CER: 13.1667
+Evaluating: 6c96a6a2ca56c088298326a53ff9bc84_tts.wav
+  Original text: adverse effects include local itching and dermatitis.
+  ASR transcription:  Adverse effects include local itching and dermatitis.
+  WER: 0.0000, CER: 0.0000
+Evaluating: 700fb5b10cfb30b2a18392e5a4fe2d81_tts.wav
+  Original text: the caller explains the fees necessary, usually on a monthly basis, then request either debit or credit card information.
+  ASR transcription:  The caller explains the fees necessary, usually on a monthly basis, then requests either debit or credit card information.
+  WER: 0.0526, CER: 0.0083
+Evaluating: bfd4b5203a8a2e2a76fdb4a183011e7b_tts.wav
+  Original text: balarabe noted that serious concerns about police accountability have in the last two weeks been expressed with unmistakable clarity across the country.
+
+  ASR transcription:  Balarabdi ya kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa kwa k
+  WER: 10.0909, CER: 5.5724
+Evaluating: 44c77a5cd15feecb7244dabd10124ae6_tts.wav
+  Original text: this class of drugs includes agents that act directly as agonists at choline receptors and agents that act indirectly by inhibiting the enzymatic destruction of endogenous ach.
+  ASR transcription:  This class of drugs includes agents that act directly as agonists at choline, receptors, and agents that act indirectly by inhibiting the enzymatic disruption of endogenous act
+  WER: 0.1481, CER: 0.0398
+Evaluating: 8167343d3e812570f01422d957dab8fd_tts.wav
+  Original text: he acknowledged the strain on peoples mental health and the fact quite a number have also lost their jobs temporarily, adding that theres a concern about the medium to long-term economic consequences of the covid-19 pandemic.
+
+  ASR transcription:  He acknowledged the strain on people's mental health and the fact quite a number have also lost their jobs temporarily, adding that there's a concern about the medium to long-term economic consequences of the COVID-19 pandemic.
+  WER: 0.0556, CER: 0.0089
+Evaluating: ac60a341d4397fdef726524462a9331b_tts.wav
+  Original text: many yachters come here in the summer.
+  ASR transcription:  Many yotas come here in the summer.
+  WER: 0.1429, CER: 0.1316
+Evaluating: dae0081f54e83c55450afd1df83d594b_tts.wav
+  Original text: less commonly, cytomegalovirus infection mayoccur in parotid glands of infants and young children.
+  ASR transcription:  Mwele kwa mbili, mbili Saitomegalovirusi mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao kwa mpyao k
+  WER: 11.3077, CER: 7.1939
+Evaluating: aa14a9661a1219099c63d1a73d67e955_tts.wav
+  Original text: over the last few days, editor kathie obradovich former opinion editor of the  and reporter linh ta have been working hard to stay on top of things in the hawkeye state.
+  ASR transcription:  Owa di laz few days, editor Kati Obradovich, former Opinion Editor of the NNW, Lynn Ta have been working hard to stay on top of things in the Hakai state.
+  WER: 0.2903, CER: 0.1716
+Evaluating: 818c27c7f84411f0171041ea591cd5d3_tts.wav
+  Original text: sulphur-dioxide, nitrogen-dioxide, carbon-monoxide.
+  ASR transcription:  sulfur dioxide, nitrogen dioxide, carbon monoxide,
+  WER: 2.0000, CER: 0.1176
+Evaluating: 4c883f888c10d3bafbc8299327abfab5_tts.wav
+  Original text: ssc histogram, cell size can be determined by evaluating cell fsc as indicated.
+  ASR transcription:  yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin yin
+  WER: 17.0769, CER: 10.9367
+Evaluating: e42451bd103df099ee367114f20855a5_tts.wav
+  Original text: an effective monitoring and evaluation process is what the gross national happiness commission gnhc should institute if it is to keep track of national development goals.
+
+  ASR transcription:  An effective monitoring and evaluation process is what the Gross National Happiness Commission, GNHC, should institute if it is to keep track of national development goals.
+  WER: 0.0769, CER: 0.0118
+Evaluating: 3107c2a701913af957e7872b4c12322c_tts.wav
+  Original text: once completed, backow valves open, and backow of primary solution resumes.
+  ASR transcription:  Once completed, backhaul valves, oil spin, and backhaul of primary solution regions.
+  WER: 0.5455, CER: 0.2400
+Evaluating: d3b7d6bbff4d87400dbc446709c31684_tts.wav
+  Original text: application of pressure ensures good adherence of adhesive with skin.
+  ASR transcription:  Application of pressure ensures good adherence of adhesive with skin.
+  WER: 0.0000, CER: 0.0000
+ASR evaluation metrics saved to /data/user_data/mkapadni/speech_project/tts_outputs_isuzulu/isizulu_test_asr_evaluation.csv
+
+=== TTS REFERENCE-FREE METRICS SUMMARY ===
+Mean Opinion Score (MOS): N/A (provide --mos or use a MOS predictor)
+Dynamic Range: 0.4734
+Real‑Time Factor (RTF): 0.2763
+Latency (avg inference time): 2.1522 s
+
+=== ASR EVALUATION METRICS ===
+Word Error Rate (WER): 2.6440
+Character Error Rate (CER): 1.9225
+Number of samples evaluated: 100
